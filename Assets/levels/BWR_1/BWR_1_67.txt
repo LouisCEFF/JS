@@ -1,0 +1,16 @@
+#############
+#     @     #
+# ****$**** #
+#         * #
+## ******* ##
+ # *       #
+ ## **#** ##
+  #     * #
+  ## *** ##
+   # *   #
+   ## . ##
+    #####
+Author: Jordi Domenech
+Title: Zigzag
+Date: 2010.9.23
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=44

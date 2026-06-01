@@ -1,0 +1,16 @@
+  ##########
+  #    #   #
+  # $#   $ #
+  # $ $#$# #
+ ###.#...  #####
+ #  ....##$#   #
+ #$#.##.#  $$$ #
+##  .....@# $  #
+#  #.#*#. $ $ ##
+# $$   #$# $  #
+#  ###   #   ##
+#### #########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #43 a
+Comment: reduced map, change a box for a wall
+Date: 2010.7.15

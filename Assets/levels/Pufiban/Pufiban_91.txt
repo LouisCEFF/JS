@@ -1,0 +1,9 @@
+  ######
+  #.   #
+#### * #
+#    $*#
+#    *@#
+########
+Author: Jordi Domenech
+Title: Level 92
+Limit: 60

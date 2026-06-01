@@ -1,0 +1,18 @@
+      ####
+      #  ###########
+      #            #
+      #.###### #$# #
+      # #   ## # @ #
+####### #    # #####
+#    .# ###  #    ##
+#   ..# # #$$ $$$$ #
+#  ...# # #  #     ##
+# ....# ### ## $$$$ #
+#         ...##     #
+#  ############ $$$ #
+####          ##    #
+               ######
+Author: Eiji Takeuchi + Jordi Domenech
+Title: Sokoban Revenge #73 ????????(+3) (Right-angled isosceles triangle (+3)) - a
+Comment: added a box, a wall, redraw map
+Date: 2014.3.6

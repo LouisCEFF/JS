@@ -1,0 +1,16 @@
+   ########
+ ###     ###
+###       ##
+## **#**** ##
+#  *     *  #
+#  * *** #  #
+#  # *+* #  #
+# $# *** *  #
+#  *     *  #
+## ****#** ##
+ ##       ###
+ ###     ###
+  ########
+Author: Jordi Domenech
+Title: Inspired by "Houdini" of niwa (a)
+Date: February 2010

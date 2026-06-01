@@ -1,0 +1,32 @@
+ #########
+ #   #   #          ####
+ #   *   ############  #
+ ## ### #  . . . . .   #
+  #. ## # $ $ $ $ $ #  #
+  # $# .# ###########*##
+  #. #$ #$ $ $ $ $ ##  #
+  # $# .#.. . . . .    #
+  #. #$ #$ # ########  #
+  # $# .#  # $ $.$   ###
+  #. #$ #$ #.   . #$ #
+  # $# .@ .##### $# .#
+  #. #$ #####.  . #$ #
+  # $# .   .# $# $# .#
+###   $.$ $ #  #. #$ #
+#  ######## # $# $# .#
+#    . . . . ..#. #$ #
+#  ## $ $ $ $ $# $# .#
+##*########### #. #$ #
+#  # $ $ $ $ $ # ## .#
+#   . . . . .  # ### ##
+#  ############   *   #
+####          #   #   #
+              #########
+Author: David Buchweitz + Jordi Domenech + anian + Tian Lang
+Title: Chrysalis Collection 9 #8 a4
+Comment: 
+JD (version a): added 4 walls
+anian (a3): based on a, added 4 walls, moved 4 goals
+TL (a4): based on a3, extension, added 24 boxes
+Date: 2014.11.3 JD, 2014.11.4 anian, 2014.11.6 TL
+URL: sokoban.org/level.php?id=404

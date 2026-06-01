@@ -1,0 +1,21 @@
+    ####   #####
+    #  #####   #
+    #$      .  #
+  ###@####### ####
+ ##  *  ##   *   #
+ #  * *  #  * *  #
+ # *   * # * * * #
+ #* .#. *#* *$* *#
+ # *   * # * * * #
+ #  *$*  #  * *  #
+ #   *   ##  *   #
+##### ####### ####
+#   # #  *  #   #
+#      * *  # # #
+#######  * *    #
+      #  *  #####
+      #######
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #84 a
+Comment: added a box, some changes at the top
+Date: 2010.8.3

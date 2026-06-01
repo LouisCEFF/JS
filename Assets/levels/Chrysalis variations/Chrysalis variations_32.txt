@@ -1,0 +1,14 @@
+   ########
+  ##      #
+### $#### #
+#  $.$.$  #
+# #.$.$.# #
+#  $.+.$  #
+###.$.$.# #
+ # $.$.$# #
+ # # ##   #
+ #      ###
+ ########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #15 Center Pattern
+Comment: added a box

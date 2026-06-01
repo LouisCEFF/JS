@@ -1,0 +1,28 @@
+  ###################
+ ##                 ##
+##  #*##########**$  ##
+#  ## $   ####    #*  ##
+# ##  # #      ## . *  #
+# #   # ###$$**## *  * ##
+# # #.**..     ## *  *  #
+# #  *  ##$######$.** * #
+# #  * ##   $ $ #@*   # #
+# ## # ## $     ##*  *  #
+#  # *   ##### ###  ## ##
+## # ***.         ***. #
+ # ##   *######*** .  ##
+ #  ###          ######
+ ##   #########***.#
+  ###              #
+    ################
+Author: Eric F. Tchong + Jordi Domenech + anian + stopheart
+Title: Chuchubi 10 #10 Tour de France - h1
+Comment: 
+JD (version a): stoned many boxes, rearrange some goals/boxes
+stopheart (b-d): based on a, added many walls, stoned some boxes, rearrange some goals
+anian (e): based on d, stoned some boxes
+stopheart (f): based on e, stoned many boxes, moved 3 goals
+anian (g-g1): based on f, stoned 2 boxes, added a wall
+stopheart (h-h1): based on g1, major changes in the central area, added 2 boxes, stoned a box, moved some goals
+Date: May 2010 JD, 2010.5.20-23 anian/stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=11

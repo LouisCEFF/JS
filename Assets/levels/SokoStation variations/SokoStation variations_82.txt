@@ -1,0 +1,10 @@
+######   ######
+#  # #####    #
+# $.$  @  .$.##
+# . .#####$ $ #
+# $.$     .$.##
+#    #####    #
+######   ######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #230 A POIDS EGAL
+Comment: added 3 walls

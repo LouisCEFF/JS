@@ -1,0 +1,18 @@
+     #######
+    ##  #  ##
+    # $ $ $ #
+   ## . + . ##
+   # $ ### $ #
+   # .## ##. #
+  ##$ #   # $##
+ ## .#######. ##
+ # $ $ $ $ $ $ #
+## . . . . . . ##
+# $ ######### $ #
+# . #       # . #
+#####       #####
+Author: laizhufu + Jordi Domenech
+Title: A - a
+Comment: added 7 walls
+Date: 2011.3.21
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=1

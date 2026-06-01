@@ -1,0 +1,13 @@
+ ####
+ #  #
+ #  ###
+ # *  #
+ # *  #
+ # #  #
+## * ##
+# $* #
+#  + #
+######
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 61
+Comment: Birthday #18

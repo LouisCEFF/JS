@@ -1,0 +1,21 @@
+         ####
+##########  #
+#    .......#
+# $########.#
+# $   $   #.#
+#   # $ $ #.#
+##### $ $ #.#
+    #   $ #.#
+    # $ $ #.#
+    ##$#  #.#
+    # $ $ #.#
+    # $ $ #.#
+    # $ $ #.#
+    #   $ #.#
+    # $#$ #.#
+    # @   #.#
+    #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Serena 4 #40 Hammer - a
+Comment: added 6 boxes, major changes
+Date: January 2010, rearranged: 2017.6.11

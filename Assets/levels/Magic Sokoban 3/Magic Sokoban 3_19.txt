@@ -1,0 +1,12 @@
+   ####
+####@ #
+#  $$$##
+# .#   #
+# .# # #
+##.. $ #
+#   ####
+#   #
+#####
+Author: Evgeny Grigoriev + Jordi Domenech
+Title: Level 20 Tiny L
+Comment: based on grigr2001 #55

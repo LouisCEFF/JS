@@ -1,0 +1,22 @@
+     #########
+   ###.  .   #
+   #  .####  #
+####  ....# ##
+#  ##$###*# #
+# $       $$#
+# $ # * #.# ##
+# $ $ ### #  #
+# $ ##....## #
+# $ ##. #.   #
+# @ ## $$$$###
+#   ##     #
+### ######$#
+  #        #
+  ##########
+Author: Eric F. Tchong + Jordi Domenech + zhenying
+Title: Chuchubi 10 #4 Lawn pac - b
+Comment: 
+JD (version a): reduced map, added 4 boxes
+zhenying (b): based on a, simplification
+Date: May 2010 JD, 2010.5.19 zhenying
+URL: blog.163.com/changkai_8428/blog/static/77451918201042053620874/

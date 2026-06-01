@@ -1,0 +1,15 @@
+########
+#  ##  #
+#   $  #
+#  ### ####
+##  #  #  #
+ #$$*     #
+ #  .  #  #
+ ###*###$##
+   #...   #
+   # @ #  #
+   #####  #
+       ####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 79 L
+Comment: based on Revenge 39 #4

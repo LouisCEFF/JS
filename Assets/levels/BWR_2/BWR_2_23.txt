@@ -1,0 +1,15 @@
+#########
+#  .... #
+# #.### #####
+# #.    # @ ##
+#  .# ###$$  #
+# #.# $   $$ #
+# #.# $ $##  #
+# #.##$ $   ##
+#       $  ##
+##   ##  ###
+ #########
+Author: Mic + Jordi Domenech
+Title: Level of the Month 05/12 The Sluice - a
+Comment: moved 2 boxes down to the upper right corner and removed a wall, minor changes
+Date: 2012.4.14

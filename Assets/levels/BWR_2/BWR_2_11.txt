@@ -1,0 +1,16 @@
+ ####
+ #  ######
+ # $.*.. #
+ # #.... #
+ # ####$##
+## ##   ##
+#     $  #
+# $ ##$#$##
+##    $   #
+ #  ### @ #
+ #### #####
+Author: Mic + Jordi Domenech
+Title: Level of the Month 12/11 Ten Lives - a
+Comment: simplification, major changes
+Date: 2011.11.15
+Note: published with permission from Mic

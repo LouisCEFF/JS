@@ -1,0 +1,12 @@
+######
+#    #
+# ##$###
+# # $  #
+#  .*..#
+##  $  #
+ #@# ###
+ #   #
+ #####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #29 (b)
+Comment: extension, added a box

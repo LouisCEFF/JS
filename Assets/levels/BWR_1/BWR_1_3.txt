@@ -1,0 +1,13 @@
+#####
+#   ####
+#     ##
+#  *** #
+## *+* ##
+ # ***  #
+ ##   $ #
+ ####   #
+    #####
+Author: niwa + Jordi Domenech
+Title: Houdini - a
+Comment: added a box, redraw map
+Date: February 2010

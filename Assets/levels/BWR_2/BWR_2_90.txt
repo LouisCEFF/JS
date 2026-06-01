@@ -1,0 +1,29 @@
+           #
+          # #
+         #   #
+        #  *  #
+       #  * *  #
+      #  * $ *  #
+     ## * $#$ * ##
+    #  * * $ * *  #
+   #  # . * * . #  #
+  #  # # . * . # #  #
+ #  #   # * * #   #  #
+#  #     # @ #     #  #
+ #  #   # * * #   #  #
+  #  # # . * . # #  #
+   #  # . * * . #  #
+    #  * * $ * *  #
+     ## * $#$ * ##
+      #  * $ *  #
+       #  * *  #
+        #  *  #
+         #   #
+          # #
+           #
+Author: David W. Skinner + York Shen + Marek Letrab + Jordi Domenech
+Title: Sasquatch VII #48 d+
+Comment:
+YS+ML (version d): added 8 boxes
+JD (d+): based on d, stoned two diamonds
+Date: 2004.1.5 YS/ML, 2014.12.16 JD

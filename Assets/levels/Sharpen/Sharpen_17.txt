@@ -1,0 +1,22 @@
+           ####
+           #  ##
+      #### # $ ##
+  ##### .###  $ #
+  #   #. .##  $ # ####
+  #   * $ .## $ ### .#
+  ## ## .#$ # $  ... #
+  ##.# $##.$##  ###. #
+ ## $$    $ . * #  $###
+## *.#$#..* *  #  $   #
+# $ .#   # ### .$$  $ #
+#   .#####     ##  #@ #
+######   ##############
+Author: Yoshiki Kondo + Jordi Domenech + David Holland + minglw + stopheart
+Title: Sokoban Perfect #66 d
+Comment: 
+JD (version a): added 2 boxes, major changes at the top
+DH (b-b1): based on a, added a box, rearrange many goals
+minglw (c1): based on b1, moved 2 goals
+stopheart (d): based on c1, added a box, moved a goal
+Date: 2010.7.24 JD/DH, 2010.7.25 minglw/stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=26

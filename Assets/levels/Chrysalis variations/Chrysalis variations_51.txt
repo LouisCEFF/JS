@@ -1,0 +1,13 @@
+#########
+#.....  #
+#.  #.# ##
+#.#$$*$$ #
+#. $ . $ #
+#..*..#$@#
+# #$   $ #
+#  $$$$$ #
+####     #
+   #######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 4 #9 Almost Square
+Comment: added a box

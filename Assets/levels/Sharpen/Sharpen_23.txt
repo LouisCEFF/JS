@@ -1,0 +1,22 @@
+###### ####
+#    ### @###
+# $$   # $$ #
+# $ $#  $ $ #
+####.### #$ #
+   #.... #  #
+   #.*## ## #
+  ##....    #
+  #....#$####
+  # #### #
+ ## ##   #
+ #  # $  #
+ # $ $ $##
+ #  #   #
+ ########
+Author: Thinking Rabbit + Jordi Domenech + stopheart
+Title: Sokoban Perfect #114 c
+Comment: 
+JD (version a): simplification
+stopheart (b-c): based on a, added a box
+Date: 2010.8.20 JD, 2010.8.21 stopheart
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3945

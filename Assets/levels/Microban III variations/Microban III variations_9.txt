@@ -1,0 +1,19 @@
+    ####
+    #  ###
+    # $. #
+    #  $ #
+    ## ########
+ ####.   .#   #
+ #  # ***   $ #
+##.$# *@* #$.##
+# $   *** #  #
+#   #.   .####
+######## ##
+     # $  #
+     # .$ #
+     ###  #
+       ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #23 (d)
+Comment: added 8 boxes, deleted 4 walls
+Set: The beautiful world of remodels 3 #42

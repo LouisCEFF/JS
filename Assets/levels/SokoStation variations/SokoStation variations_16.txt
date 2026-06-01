@@ -1,0 +1,16 @@
+     ###
+   ##...##
+  #..*.*..#
+ #..*.*.*..#
+ #.*.*.*.*.#
+# * * * * * #
+#  $ $ $ $  #
+# $ $ $ $ $ #
+ # $ $$$ $ #
+ #  $ $ $  #
+  #  $ $  #
+   ## @ ##
+     ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #44 BULLE DE SAVON
+Comment: added 5 boxes

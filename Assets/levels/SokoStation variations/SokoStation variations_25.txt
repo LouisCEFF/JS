@@ -1,0 +1,12 @@
+###########
+#         #
+# $#.#.#  #
+# $.$.$.$##
+#  # # #  #
+##$.$.$.$ #
+#  #.#.#$ #
+#    @    #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #57 INTERLUDE
+Comment: added 2 boxes, 2 walls

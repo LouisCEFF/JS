@@ -1,0 +1,10 @@
+ #####
+## . #
+#  * #
+# $* #
+#  * #
+###@ #
+  ####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 2
+Comment: Sokoboxes #38

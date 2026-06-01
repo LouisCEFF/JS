@@ -1,0 +1,11 @@
+ ########
+ #.     #
+ #. # $ #
+##.## ###
+# . # $ #
+#   $ $ #
+#  ## @ #
+#########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 33
+Comment: SE 787 variant

@@ -1,0 +1,15 @@
+      ####
+  #####  #
+### .... #
+# $$###. #
+#     #.##
+# $$  #.#
+##   ##.#
+ ##  $  #
+ # $$$  #
+ # @ ####
+ #####
+Author: Mic + Jordi Domenech
+Title: Level of the Month 06/12 Just One Loop - a
+Comment: added a box, major changes
+Date: 2012.5.14

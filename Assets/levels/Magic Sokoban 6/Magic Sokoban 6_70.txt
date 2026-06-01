@@ -1,0 +1,15 @@
+       ####  #####
+  ######  ####   #
+ ##              ##
+ # $#$ $  ## ###  #
+ #.    ##### .... #
+##.##### @ # .... #
+#      #$ $####.###
+#   #  $ $ $ $  #
+####### $ $ $ #.#
+      #         #
+      ###########
+Author: Zivojin Trifunovic + A1master + Jordi Domenech
+Title: Level 71 Banja Koviljaca Balalaica+
+Comment: based on Banja Koviljaca #1 remodeled by A1master
+URL: www.letslogic.com/puzzle_info.php?id=90539

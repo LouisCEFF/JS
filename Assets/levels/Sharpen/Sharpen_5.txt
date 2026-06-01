@@ -1,0 +1,25 @@
+     ###
+    ##.##
+   ##   ##
+  ##.$.$.##
+  #.$.$.$.#
+ ##  $ $  ##
+ #.**#*#**.#
+ #   $ $   #
+##$.$.$.$.$##
+#..$.$.$.$..#
+#  .$ $ $.  #
+##*#*#*#*#*##
+#. $ $ $ $ .#
+##$.$.$.$.$##
+ #.$.$.$.$.#
+ ##. $ $ .##
+  ### @ ###
+    #####
+Author: niwa + Jordi Domenech + niwa
+Title: Easter Egg #2 d
+Comment: 
+JD (version a): added 9 boxes
+niwa (d): based on a, added 3 boxes
+Date: 2010.4.1 JD, 2010.4.2 niwa
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3470

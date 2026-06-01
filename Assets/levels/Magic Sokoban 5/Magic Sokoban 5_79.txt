@@ -1,0 +1,14 @@
+   #####
+ ###   #
+ #   # ##
+ # #$ $ ###
+## $...$  #
+# .#*@*#. #
+#  $...$ ##
+### $ $# #
+  ## #   #
+   #   ###
+   #####
+Author: LL88 + Jordi Domenech
+Title: Level 80
+Comment: level untitled posted in Let's Logic ("Member Puzzles" #295)

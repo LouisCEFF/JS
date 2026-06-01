@@ -1,0 +1,19 @@
+    ####      ####
+  ###  ########  #
+  #    # $     $ #
+  #  #.$ $# ###  #
+  ## #. .$.   # ##
+   # #. .$.## # #
+   # #.#+#.#  # #
+#### #.$.$.# ## ##
+#    #.$.$.# ##  #
+#  # $$$$$.#     #
+## #    #  # #####
+#  #########  #
+# $         $ #
+#  #########  #
+####       ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #37 a
+Comment: added a box, stoned 3 floors, moved 3 boxes to the corners, minor changes
+Date: 2015.5.7

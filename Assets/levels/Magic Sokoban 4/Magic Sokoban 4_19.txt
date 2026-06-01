@@ -1,0 +1,12 @@
+    ####
+#####  #
+#  $   ##
+# $$##  #
+# $  #  #
+# $$ #  #
+# @# ...#
+#####...#
+    #####
+Author: Hiroyuki Imabayashi + Jordi Domenech
+Title: Level 20
+Comment: based on Sokoban Basic 2 #1-11

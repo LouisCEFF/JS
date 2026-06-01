@@ -1,0 +1,10 @@
+#############
+# . * . $ . #
+# $ . $ . $ #
+#@###$#$### #
+# $ . $ . $ #
+# . $ . * . #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #83 BALI BALO (a)
+Comment: added 2 boxes

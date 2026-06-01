@@ -1,0 +1,16 @@
+#######     #######
+#@ #  #######  #  #
+#*   *  ###  *   *#
+# * * *  #  * * * #
+#  * # * # * # *  #
+# * *   *#*   * * #
+# *  *  .*.  *  * #
+# ** #*  #  *# ** #
+#  *   * # *   *  #
+##$****  #  ****$##
+##      ###      ##
+###################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Brain storm - b
+Comment: added a box, 2 walls, moved 2 goals
+Date: 2012.11.19

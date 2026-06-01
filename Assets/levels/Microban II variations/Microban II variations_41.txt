@@ -1,0 +1,17 @@
+ #######
+ #     #
+ # $$  #
+ #  $###
+ # #  #
+ # #$ #
+ # #  #
+## ##.##
+#    . #######
+# ###...     #
+#   #.#### $ #
+### #.# $ $$ #
+  #  .  @ #  #
+  ############
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #126 (a)
+Comment: stoned 2 floors, moved a goal

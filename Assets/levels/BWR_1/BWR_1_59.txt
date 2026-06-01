@@ -1,0 +1,16 @@
+#######
+#  #  #     ####
+# $$ $#######  ####
+#  #  ....... $#  #
+## #  ###.###   $ #
+ # ##  ##.#@#$##  #
+## ###$ #.# #  # ##
+#      $#.# #     #
+#   ##$ # #   $#$ #
+######      #  #  #
+     ####  ########
+        ####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Perfect #127 f
+Comment: major changes at the bottom, removed a box/goal
+Date: 2010.8.21

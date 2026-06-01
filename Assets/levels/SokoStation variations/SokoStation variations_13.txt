@@ -1,0 +1,14 @@
+   #####
+   # @ #
+   #   #
+####$.$####
+# $     $ #
+#...***...#
+# $     $ #
+####$.$####
+   #   #
+   # # #
+   #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #39 ON SE FAIT UNE LIGNE
+Comment: added 2 boxes, a wall

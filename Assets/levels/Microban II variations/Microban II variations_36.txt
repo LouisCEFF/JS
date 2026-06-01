@@ -1,0 +1,18 @@
+      #####
+    ###   #
+    #   # #
+    # #   #
+##### $ $#####
+#   ##$#.#   #
+# # $....$$# ##
+#    #.@.#    #
+## #$$....$ # #
+ #   #.#$##   #
+ #####$ $ #####
+    #   # #
+    # #   #
+    #   ###
+    #####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #114
+Comment: added 4 boxes

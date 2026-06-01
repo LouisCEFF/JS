@@ -1,0 +1,14 @@
+    ####
+#####  #
+#   #  #
+# . * $#
+## ##  #
+ #.## $####
+##        #
+# .#.## # #
+# ##  $ $ #
+#  @ ######
+######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #46 Hammerhead
+Comment: moved 2 goals, added a wall and 2 floors

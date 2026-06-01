@@ -1,0 +1,15 @@
+       ####
+########  #
+#   ..... #
+# $ $  #* #
+##$#####. #
+# $     . #
+# $  ##.* #
+# # $$   ##
+# ## $####
+#  @  #
+#######
+Author: dahkjdas + Jordi Domenech
+Title: da??58?? #16 a
+Comment: redraw map, major changes
+Date: 2014.1.21

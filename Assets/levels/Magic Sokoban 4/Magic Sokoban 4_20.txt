@@ -1,0 +1,14 @@
+########
+#      #
+# ###.##
+# $ .$.#
+# #  *@#
+# #$.$.#
+#  $ . #
+# #$####
+#      #
+########
+Author: Miguel A. Garcia Prada + Jordi Domenech
+Title: Level 21
+Comment: based on Sokoban (Compiler Software) #12
+Website: compiler.speccy.org/index.php?lang=esp&game=sokoban

@@ -1,0 +1,16 @@
+      # # # #
+   # ######### #
+  # #        ## #
+ # #  $ * * *  #
+  ## * *** * * # #
+##  * *@* * * * # #
+ # * * * * * *  ## #
+##  *** * * * *  ##
+ # * * * *** * *  .#
+##  * * * # * * *  ##
+ ##              #####
+  ################
+   ##        ##
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 78 Hedgehog
+Comment: Prick, but doesn't bite - based on Dushi 10 #30

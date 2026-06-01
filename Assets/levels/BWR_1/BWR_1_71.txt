@@ -1,0 +1,13 @@
+#########
+#       #
+# ###$# #
+# #   # #
+#.*.$ *.#
+# #   # #
+# ###$# #
+#@      #
+#########
+Author: Roger Delaporte + Jordi Domenech
+Title: rd090 a
+Comment: added a box, moved a goal
+Date: 2010.10.2

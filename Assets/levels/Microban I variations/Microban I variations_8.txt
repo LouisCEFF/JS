@@ -1,0 +1,10 @@
+ #####
+##. .##
+# $$$ #
+# ... #
+# $ $ #
+## @ ##
+ #####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #53
+Comment: change wall for a box, moved 2 goals

@@ -1,0 +1,14 @@
+  #####
+ ##.. ####
+ #  $$.. ##
+ #.#$  # .#
+##. $ $$$.#
+# $  #  $ #
+#.$$$ $ .##
+#. #  $#.#
+## ..$$  #
+ ####@..##
+    #####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #40 Cyclone
+Comment: rearranged goals, added a wall

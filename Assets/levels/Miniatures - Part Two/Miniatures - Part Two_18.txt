@@ -1,0 +1,16 @@
+  ####
+  #  #
+  #  ######
+  #  ##   #
+  ##    $ #
+### $.##$##
+# $ #...  #
+#   ...#$ #
+####$#.$  #
+   #@  ####
+   # $##
+   #  #
+   ####
+Author: Jordi Domenech
+Title: Level 19 
+Comment: based on Minicosmos #3 by Aymeric du Peloux

@@ -1,0 +1,21 @@
+     ####
+######  #     #######
+#       #######     #
+#  #### #....##$ $ $##
+## #  # #..#.$   #$  #
+ # #  .......# # $   #
+ # #    #....*  #$$  #
+ # #  # ##@###    #$ #
+ # #  #  . *.. # $#  #
+## ####### ##     #$ #
+#           # $ $ $  #
+#         #  ##### $ #
+#####     ##      #  #
+    ####### $ $$$ $$ #
+          #   #   #  #
+          ############
+Author: Matthias Meger + Jordi Domenech
+Title: Disciple #41 Tough rider - version with early storage arranged :)
+Comment:
+"Tough rider" is a puzzle of storage very nice. However, I have looked at the arrangements for this level and all have the same defect: early storage. I have tried to arrange this problem and I have reduced the map, but the result is not very good: the original level is better. Anyway I publish this arrangement as variant.
+Date: 2017.4.9

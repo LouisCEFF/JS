@@ -1,0 +1,11 @@
+#####
+#   ###
+#.#   #
+#..*$$##
+# #  $ #
+# ## # #
+#    @ #
+########
+Author: Dries De Clercq + Jordi Domenech
+Title: Level 100 Perplexity 3
+Comment: based on 696 #673

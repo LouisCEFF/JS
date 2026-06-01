@@ -1,0 +1,19 @@
+####
+#  ################
+#   $        $ ##.#
+#  #$#####  ## #..#
+##   #  ##  ##... #
+ # ###  #  ####.. #
+ # #    # $####...#
+ # # ####$ #   #..#
+ # # #  $  $   #.##
+##$### $$ $ #$  ..#
+#       $#  #   .##
+# $# #   #########
+# $  $ $ #
+### @ ####
+  #####
+Author: Bruno Druille + Jordi Domenech
+Title: Tableau 51 b
+Comment: added 2 boxes, stoned some floors
+Date: June 2010

@@ -1,0 +1,11 @@
+#######
+#  .. #
+#@$.. #
+##$#  #
+# $   #
+# $ ###
+#   #
+#####
+Author: Shaggath + Jordi Domenech
+Title: Level 34
+Comment: V2009 #38 variant

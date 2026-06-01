@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canva</title>
+    <script src="xxx/xxx.js" defer></script>
+    <script>
+        function log(msg) {
+            document.getElementById("log").innerHTML += "<br>"+msg;
+        }
+        </script>
+</head>
+<body >
+
+    <div id="log"></div> 
+    <script>
+        for (let i = 1; i <= 12; i++) {
+            log(`${i} x 7 = ${i*7}`);
+            
+        };
+
+        const fruits = ["pomme", "poire", "cerise", "ananas", "orange"];
+        for(let f of fruits) {
+            log(f);
+        };
+        log("--------------------------------------------")
+        const carte = {
+            "nom": "Rossier",
+            "prenom": "Louis Armand",
+            "fonction": "éleve",
+            "departement": "informatique"
+        };
+        log(`${carte.nom} ${carte.prenom} est ${carte.fonction} dans le département ${carte.departement}`);
+        log("--------------------------------------------")
+        
+        for(let f in carte) {
+            log(f + " => " + carte[f]);
+        }
+        log("--------------------------------------------")
+        
+        for(let f in fruits) {
+            log(f + " => " + fruits[f]);
+        }
+        log("--------------------------------------------")
+        const phrase = "CEFF Industrie";
+        for(let c of phrase) {
+            log(c);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+ ########
+ #      #
+##$$### #
+# $  . .#
+# # #...#
+# @ ## ##
+###$##  #
+ #   $  #
+ #   #  #
+ ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 24
+Comment: based on kevin974

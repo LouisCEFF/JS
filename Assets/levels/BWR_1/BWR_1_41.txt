@@ -1,0 +1,13 @@
+ #####
+##   ##
+# ... #
+# $$$ #
+##...##
+# $$$ #
+# $.$ #
+#@ .  #
+#######
+Author: sugihiro + Jordi Domenech
+Title: ?????? (Sokoban Tower) #9
+Comment: added 2 boxes
+Date: July 2010

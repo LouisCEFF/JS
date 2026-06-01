@@ -1,0 +1,17 @@
+    ####
+    #  #
+    # $#
+ ####  ####
+ #   $ $  #
+ # $.....$#
+ ##$.# #. ####
+  # .#+#.$   #
+  # .# #.  $ #
+###$.*.*.$####
+#  $ $ $  #
+# $ ####$ #
+#   #  #  #
+#####  ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 2 #35 Puzzler
+Comment: stoned 2 floors, deleted a wall

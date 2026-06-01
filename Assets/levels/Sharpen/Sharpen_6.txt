@@ -1,0 +1,19 @@
+  ##########
+  #    #   #
+ ##   $    ######
+## $$$#### ##   #
+# $    ##.    # #
+# $ # .... ##   #
+#  $@#.# #### # #
+### $#..    #   #
+  ## #.# ## # ###
+  #  $ #       #
+  #    #   #   #
+  ##############
+Author: Marcus Palstra + Jordi Domenech + zhenying
+Title: #1 Look before you leap! - re
+Comment: 
+JD (version b): reduced map and simplification
+zhenying (re): based on b, major changes in the left side
+Date: April 2010 JD, 2010.4.21 zhenying
+URL: blog.163.com/changkai_8428/blog/static/774519182010321114312622/

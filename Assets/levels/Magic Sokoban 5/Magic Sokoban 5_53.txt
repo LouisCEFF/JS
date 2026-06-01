@@ -1,0 +1,11 @@
+#########
+# #...# #
+# * * * #
+# * * * #
+# * * * #
+#  $$$  #
+### @ ###
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 54 Why+
+Comment: based on SokoStation #285

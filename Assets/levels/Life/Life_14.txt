@@ -1,0 +1,22 @@
+               ##
+              #.#
+             #  ##
+            #. .* #
+           # $. #  #
+          #.$. .#$  #
+         # $. . # $  #
+        #.$... .#  $  #
+       # $. . . # $ $  #
+      #.$. . . .#$ $ $  #
+     # $. . . . # $ $ $  #
+    #.$... ... .#$ $ $ $  #
+   # $. . . . . #          #
+  #. . . . . .#..  ##########
+#####$############$#       #
+#  $ $ $ $ $ $ $ $  $ $ $ #
+ #  $ $ $ $ $ $ $ #$ $ $ #
+  #          @          #
+  ######################
+Author: Jordi Domenech
+Title: sailing boat
+Replica of the boat of Laizhufu, ???? (Ride wiht the wind and waves). Of course, Laizhufu's level is much better than this.

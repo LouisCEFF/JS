@@ -1,0 +1,12 @@
+ #######
+##     ##
+# $.$.$ #
+# .$.$. #
+# $.*.$ #
+# .$.$. #
+# $.$.$ #
+##  @  ##
+ #######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #38
+Comment: added a box

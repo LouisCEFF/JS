@@ -1,0 +1,12 @@
+  ####
+  #  #
+  # $####
+###. .  #
+# $$. $ #
+#  . .###
+####$ #
+   # @#
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #110
+Comment: change wall for a box

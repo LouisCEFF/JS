@@ -1,0 +1,25 @@
+    ####   #####
+    #  #####   #
+    #$      .  #
+  ###@####### ####
+ ##  *  ##   *   #
+ #  * *  #  * *  #
+ # *   * # * * * #
+ #**.#.**#* *$* *#
+ # *   * # * * * #
+ #  *$*  #  * *  #
+ #   *   ##  *   #
+##### ####### ####
+#   # #  *  #   #
+#      * *  # # #
+#######  * *    #
+      #  *  #####
+      #######
+Author: Thinking Rabbit + Jordi Domenech + David Holland
+Title: Sokoban Perfect #84 c1
+Comment: 
+JD (version a): added a box, some changes at the top
+DH (b-c): based on a, added 2 boxes
+JD (c1): minor change: based on c, moved a goal
+Date: 2010.8.3 JD/DH
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3872

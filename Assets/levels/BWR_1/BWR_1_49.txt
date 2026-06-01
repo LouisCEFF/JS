@@ -1,0 +1,17 @@
+           ####
+           #  ##
+      #### # $ ##
+  #####..###  $ #
+  #   #...##  $ # ####
+  #   .   .## $ ###. #
+  ## ##  #$ # $ .....#
+  ##.# $## $##  ###..#
+ ## **    $   $ #  *###
+## $.#$#  $ $  #  $   #
+# $ .#   # ###  $$  $ #
+#   .#####     ##  #@ #
+######   ##############
+Author: Yoshiki Kondo + Jordi Domenech
+Title: Sokoban Perfect #66 a
+Comment: added 2 boxes, major changes at the top
+Date: 2010.7.24

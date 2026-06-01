@@ -1,0 +1,17 @@
+#################
+#@      #       #
+# * * ***** . * #
+# *** *   * *** #
+# $ * *   *   * #
+### # ***** # ###
+  # ### ##### #
+  # #   #   # #
+  # #       # #
+  # ##.###### ##
+  #          $ #
+  ##########   #
+           #####
+Author: Yang Chao + Jordi Domenech
+Title: 404 Not found - a
+Comment: added a box, a wall, major changes at the bottom
+Date: 2013.10.30

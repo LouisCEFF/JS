@@ -1,0 +1,20 @@
+  #####
+  #   #####
+### *  $  #
+#   *  *  ##
+# ***  *** #
+### ####   #
+ ## #@ # ###
+ #  #  # #
+ #  #*## ###
+ #  *  *   #
+ #***  ***.#
+ #         #
+ ###########
+Author: Eric F. Tchong + stopheart + Jordi Domenech
+Title: Chuchubi 12 #6 Game fudge - b1
+Comment:
+JD (version a): stoned 5 floors, added 2 floors on the left side, moved a goal
+stopheart (b): based on a, added 2 walls
+JD (b1): based on b, stoned the central area, added a wall
+Date: 2010.10.30 JD, 2010.10.31 stopheart, 2015.2.23 JD

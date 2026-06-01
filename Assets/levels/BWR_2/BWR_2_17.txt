@@ -1,0 +1,15 @@
+         #####
+       ###.$.##
+     ### * $* ##
+   ###  * .$.  #
+  ##   * * $.$ ##
+#### @* * .$.$ ##
+  ##   * * $.$ ##
+   ###  * .$.  #
+     ### * $* ##
+       ###.$.##
+         #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #145 ASTMOSPHERE - b
+Comment: moved 5 goals
+Date: 2012.2.3

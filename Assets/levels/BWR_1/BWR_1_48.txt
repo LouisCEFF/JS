@@ -1,0 +1,22 @@
+         ####
+  ########  ####
+###       .....#
+#   # ### .....#
+# ###   #......#
+# #  $ $###....#
+# # $$$   ######
+# # $ # $ # @ ######
+# # $ $$$   #      #
+# #   $  ##### ### #
+# ### # $#   $   # #
+#   #    # $ $ $ # #
+### ### ### ### ## #
+  #   $      ##  # #
+  #####  #   #   # #
+      ########  $$ #
+             #   ###
+             #####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #64 d
+Comment: reduced map, added a box, some changes
+Date: July 2010

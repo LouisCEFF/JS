@@ -1,0 +1,14 @@
+    ####
+  ###  #
+ ## .  #
+##     #
+# .$. ##
+# $ ###
+# .$###
+###   #
+  #$# #
+  # @ #
+  #####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #93
+Comment: reduction map

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex 12</title>
+</head>
+<body>
+    <h1 style="margin-left: 120px;">Morpion</h1>
+    <button id="1" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(1)" onmouseover="Hover(1)" onmouseleave="NotHover(1)"></button>
+    <button id="2" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(2)" onmouseover="Hover(2)" onmouseleave="NotHover(2)"></button>
+    <button id="3" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(3)" onmouseover="Hover(3)" onmouseleave="NotHover(3)"></button><br><br>
+    <button id="4" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(4)" onmouseover="Hover(4)" onmouseleave="NotHover(4)"></button>
+    <button id="5" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(5)" onmouseover="Hover(5)" onmouseleave="NotHover(5)"></button>
+    <button id="6" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(6)" onmouseover="Hover(6)" onmouseleave="NotHover(6)"></button><br><br>
+    <button id="7" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(7)" onmouseover="Hover(7)" onmouseleave="NotHover(7)"></button>
+    <button id="8" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(8)" onmouseover="Hover(8)" onmouseleave="NotHover(8)"></button>
+    <button id="9" style="width: 100px; height: 100px; margin: 10px; background-color: darkgray;" onclick="Choose(9)" onmouseover="Hover(9)" onmouseleave="NotHover(9)"></button>
+    <h2 id="player" style="margin-left: 80px;">Au tour du joueur O</h2>
+    <button id="restart" style="display: none;" onclick="restartButton()">Rejouer</button>
+<script>
+    let resButton = document.getElementById("restart");
+    function restartButton() {
+            document.getElementById("player").innerText = "Au tour du joueur O";
+            let turn = false;
+            let currentPlayer = "";
+            let lastPlayer = "";
+            for (let i = 1; i <= 9; i++) {
+                document.getElementById(i).innerText = "";
+                document.getElementById(i).disabled = false;
+            }
+            resButton.style.display = "none";
+
+        }
+    function Hover(number) {
+            document.getElementById(number).style.backgroundColor = "lightblue";
+        }
+        function NotHover(number) {
+            document.getElementById(number).style.backgroundColor = "darkgray";
+        }
+    let turn = false;
+    let currentPlayer = "";
+    let lastPlayer = "";
+    function Choose(number) {
+        if (document.getElementById(number).innerText != "") {
+            return;
+        }
+        if (turn == false) {
+            currentPlayer = "O";
+            lastPlayer = "X";
+        } else {
+            currentPlayer = "X";
+            lastPlayer = "O";
+        }
+        document.getElementById(number).innerText = currentPlayer;
+        turn = !turn;
+        // vertical
+        if (document.getElementById("2").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("8").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // horizontal
+        if (document.getElementById("4").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("6").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // diagonal droite-gauche
+        if (document.getElementById("3").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("7").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // diagonal gauche-droite
+        if (document.getElementById("1").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("9").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // horizontal top
+        if (document.getElementById("1").innerText == currentPlayer && document.getElementById("2").innerText == currentPlayer && document.getElementById("3").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // horizontal middle
+        if (document.getElementById("4").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("6").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // horizontal bottom
+        if (document.getElementById("7").innerText == currentPlayer && document.getElementById("8").innerText == currentPlayer && document.getElementById("9").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // vertical gauche
+        if (document.getElementById("1").innerText == currentPlayer && document.getElementById("4").innerText == currentPlayer && document.getElementById("7").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // vertical middle
+        if (document.getElementById("2").innerText == currentPlayer && document.getElementById("5").innerText == currentPlayer && document.getElementById("8").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+        // vertical droite
+        if (document.getElementById("3").innerText == currentPlayer && document.getElementById("6").innerText == currentPlayer && document.getElementById("9").innerText == currentPlayer) {
+            document.getElementById("player").innerText = `Le joueur ${currentPlayer} à gagner`;
+            gameOver();
+            resButton.style.display = "inline";
+            return;
+        } else {
+            
+        }
+
+        if (document.getElementById("1").innerText != "" && document.getElementById("2").innerText != "" && document.getElementById("3").innerText != "" && document.getElementById("4").innerText != "" && document.getElementById("5").innerText != "" && document.getElementById("6").innerText != "" && document.getElementById("7").innerText != "" && document.getElementById("8").innerText != "" && document.getElementById("9").innerText != "") {
+            document.getElementById("player").innerText = "EX AEQUO";
+            resButton.style.display = "inline";
+            return;
+        }
+        
+        function gameOver() {
+            for (let i = 1; i <= 9; i++) {
+                document.getElementById(i).disabled = true;
+            }
+        }
+
+        document.getElementById("player").innerText = `Au tour du joueur ${lastPlayer}`
+        
+    }
+</script>
+</body>
+</html>

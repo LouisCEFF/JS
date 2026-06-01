@@ -1,0 +1,14 @@
+#####
+#   #######
+# #       #
+#   # ### #
+# ... .$. #
+## ##### ##
+#      $$ #
+# #$$  #  #
+# @ #  #  #
+#####  ####
+    ####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 18
+Comment: Chrysalis Collection 10 #38 extension

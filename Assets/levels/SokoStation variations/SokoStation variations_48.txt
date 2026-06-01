@@ -1,0 +1,14 @@
+     ####
+######  ##
+# $    @.#
+# #$# #* #
+# $ # . *#
+# # #.#* #
+# $ # . *#
+# # # #* #
+#       *#
+# # # #  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #125 FACE A FACE
+Comment: added 4 boxes, moved a goal and a boxe

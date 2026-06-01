@@ -1,0 +1,23 @@
+           ###
+          # .#
+####     # * #
+#+  #   # *  #
+# *  # # *  #
+ # * ## *  #
+  # *  *   #
+  #  ***** ###
+ # *          ###
+ # # **###$##** ###
+ #   #             #
+ # ###.*####* ####*#
+  #  #              #
+    # *####* ####*# #
+   #                #
+   # $####*#####*$ #
+   #             ##
+    #############
+Author: laizhufu + Jordi Domenech
+Title: ??????? (Mao Rabbit Xiaotuguaiguai) - c
+Comment: added a box, stoned 2 boxes/goals
+Note: The Rabbit (?) is the fourth of the 12-year cycle of animals in the Chinese Zodiac.
+Date: 2012.11.1

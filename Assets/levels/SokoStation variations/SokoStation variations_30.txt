@@ -1,0 +1,14 @@
+      #####
+     ##   ##
+    ##  *  ##
+#####  * *  #####
+#   # * * * #   #
+# $  * *@* *  . #
+#   # * * * #   #
+#####  * *  #####
+    ##  *  ##
+     ##   ##
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #77 LOSANGE 1
+Comment: stoned 4 floors

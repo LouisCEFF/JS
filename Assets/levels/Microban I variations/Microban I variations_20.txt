@@ -1,0 +1,14 @@
+  ####
+ ##  ######
+ #   #    #
+ # $ # $  #
+ #  *.*   #
+####.@.####
+#   *.*  #
+#  $ # $ #
+#    #   #
+######  ##
+     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #93 (a)
+Comment: stoned many floors

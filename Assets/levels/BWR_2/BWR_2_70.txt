@@ -1,0 +1,20 @@
+##########
+#     #  #
+#  $  $$ #
+#  # #   #
+#### ###.#
+#  #   #.#
+# $  $ #.#
+#  ##.##.#
+##.##  #.#
+# $  $ #.#
+#   #  #.#
+### ####.#
+### #  @ #
+#  $  $$ #
+#        #
+##########
+Author: J. Franklin Mentzer + Jordi Domenech
+Title: Still more! #20 b
+Comment: added 2 boxes, redraw map, some changes
+Date: 2014.3.18

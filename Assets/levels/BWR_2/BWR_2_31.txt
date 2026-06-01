@@ -1,0 +1,15 @@
+       ####
+ #######  ######
+ # $           #
+ #   # $  #  $ #
+##$####@#####$##
+#     #*.#   $ #
+#   $*..**.#   #
+#### ..#...#####
+   ##   $$ #
+    ###   ##
+      #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin925 a
+Comment: major changes to the far right, stoned 2 floors
+Date: 2012.6.19

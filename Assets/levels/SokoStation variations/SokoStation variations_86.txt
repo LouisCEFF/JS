@@ -1,0 +1,14 @@
+#############
+# .   *   . #
+#.# # # # #.#
+# $ # # # $ #
+# # $ # $ # #
+# #*#*$*#*# #
+# # $ # $ # #
+# $ # # # $ #
+# # # # # # #
+#.  . + .  .#
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #254 PENTATONIK ANTHOLOGY
+Comment: added 5 boxes

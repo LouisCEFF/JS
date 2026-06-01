@@ -1,0 +1,13 @@
+ ####
+ #  ######
+ #  $    ##
+##..####  #
+#  .   ## #
+#...#$  #@#
+# ## $$ $ #
+#  $    ###
+####  ###
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #117
+Comment: added a box, stoned some floors

@@ -1,0 +1,20 @@
+     ######
+     #    #
+     # $$ #
+     #    #
+     ### ##
+       # #  #####
+       # #  #   #
+########.#### $ #
+# $ .  .+.      #
+# $ ####.##### ##
+#   #  # #   # #
+#####  # #   # #
+      ## ##  # #
+      #   #### #
+      # $$    .#
+      #   ######
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #30 LA PIEUVRE TENTACULAIRE
+Comment: added a box

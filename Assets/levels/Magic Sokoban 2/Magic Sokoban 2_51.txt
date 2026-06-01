@@ -1,0 +1,11 @@
+######
+#  @ ##
+#..#  #
+#**$$ #
+#..# $##
+#    $ #
+#  #   #
+########
+Author: Mic + Jordi Domenech
+Title: Level 52 Compactsix (b)
+Comment: based on Level of the Month 01/12 Compactsix

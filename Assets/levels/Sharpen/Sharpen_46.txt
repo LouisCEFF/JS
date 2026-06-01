@@ -1,0 +1,23 @@
+ ####################
+ #                  ####
+ # **#* # ******$.**.  #
+ # *  #@ #*   * **  *$ #
+ # * #**  * # * *  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ # #      . **  * ## * #
+ # * #*******   *    # #
+ # * #        # * **** #
+ # * #***###**  * *    #
+ # * .     # ***. *** ##
+## * ##### #        * #
+# *.$# $ $*******#**$ #
+#    #                #
+#######################
+Author: Eric F. Tchong + Jordi Domenech + stopheart & anian
+Title: Santanero+ e
+Comment: 
+JD (Santanero+): added 3 walls, stoned 4 boxes, moved a goal
+stopheart & anian (e): based on Santanero+, stoned many boxes, moved some goals and boxes
+Date: 2012.11.24 JD, 2012.11.27 stopheart/anian
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=115

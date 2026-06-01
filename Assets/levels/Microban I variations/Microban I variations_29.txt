@@ -1,0 +1,13 @@
+########
+#   #  ###
+#   $ $. #
+### #  . #
+ ##$###.##
+ #  $  . #
+ # $ # . #
+ #@ ######
+ ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #127
+Comment: added a box, major changes
+Set: The beautiful world of remodels 3 #47

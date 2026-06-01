@@ -1,0 +1,12 @@
+#############
+#    #      #
+# ## #$#### #
+# #  $@$  # #
+# # # $ # # #
+# # #  ## # #
+# # ..... # #
+# ####$# ## #
+#      #    #
+#############
+Author: Jordi Domenech
+Title: Level 97 Chinese water lily - Dedicated to Tui Leshan

@@ -1,0 +1,17 @@
+    #######
+#####     #
+#     ### #
+#  #### $ ###
+# $   # #   #
+# $@# #.$.  #
+# $$$ ..## ##
+### ###.## #
+  # # ...  #
+ ## #$## ###
+ # $.$.  #
+ #     ###
+ #######
+Author: David Buchweitz + Jordi Domenech
+Title: One
+Comment: based on Chrysalis Collection 10 #13, major changes
+Date: 2015.1.14

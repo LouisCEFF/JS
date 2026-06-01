@@ -1,0 +1,20 @@
+ ####
+ #  ####
+ # $   #####
+ #  ##$$   #
+ ## #   $# #
+###.#.#  # #
+#  . .$  # #
+# ##$$# $# #
+# ##  #  @ #
+#   .$######
+####.$.#
+   #...#
+   #####
+Author: Mic + zhenying + Jordi Domenech
+Title: Level of the Month 07/09 Groovin' - Exercise 6 a
+Comment:
+zhenying (Exercise 6): added a wall and a floor, rearrange goals
+JD (version a): based on Exercise 6, added a wall, moved a goal
+Date: 2009.6.21 zhenying, 2011.1.19 JD
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=50

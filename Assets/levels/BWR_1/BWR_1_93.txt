@@ -1,0 +1,17 @@
+##########
+#        #
+# ###### #
+# #    # #
+# $ .* # #
+###.#$.  #
+# $. $.$ #
+#  .#$.###
+# # .*$$ #
+# #  @ # #
+# ###### #
+#        #
+##########
+Author: Jordi Domenech
+Title: Ring rOad
+Date: 2011.5.8
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=14

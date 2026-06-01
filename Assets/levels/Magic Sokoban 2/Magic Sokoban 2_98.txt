@@ -1,0 +1,14 @@
+       ####
+########  #
+#       * #
+#  #####  #
+# *    #  #
+#  # *   ##
+##### #   #
+#    .#   #
+#@$$#.#####
+#     #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 99
+Comment: based on SokoStation #151 DEUX A LA FOIS

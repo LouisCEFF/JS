@@ -1,0 +1,11 @@
+  ######
+### .  #
+#  $.# #
+# #$.$ #
+#  $.$##
+## #. #
+ # @  #
+ ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 30
+Comment: kbr1462 variation (mini)

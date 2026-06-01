@@ -1,0 +1,11 @@
+    #####
+#####   #
+#    $  #
+#..****##
+#    $ #
+### ## #
+  #   @#
+  ######
+Author: Erim Sever + Jordi Domenech
+Title: Level 38
+Comment: erim250 arr.

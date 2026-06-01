@@ -1,0 +1,17 @@
+#####
+#   ######
+# #$##   #
+#@     $ #
+###$$##$###
+ # $..# $ #
+ # #..$   #
+ # #..### #
+ #  *. #  #
+ ###.. $ ##
+   ##  # #
+    ##   #
+     #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kbr1535 a
+Comment: simplification, major changes
+Date: 2012.8.11

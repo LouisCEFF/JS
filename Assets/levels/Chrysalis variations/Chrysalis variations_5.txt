@@ -1,0 +1,13 @@
+ #########
+ #       #
+ # ### $ #
+ # * **# #
+## * . # #
+#  * + # #
+#  * **# #
+## ##* $ #
+ #       #
+ #########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 1 #16 The Cell
+Comment: simplification, stoned some boxes

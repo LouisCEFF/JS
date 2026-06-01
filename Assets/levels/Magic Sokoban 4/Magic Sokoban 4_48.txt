@@ -1,0 +1,10 @@
+  #########
+###   @   ###
+# * * * * * #
+#  * *#* *  #
+# * * * * * #
+#    *$*    #
+####  .  ####
+   #######
+Author: Howard Abed + Jordi Domenech
+Title: Level 49 Second Set #6 tiny

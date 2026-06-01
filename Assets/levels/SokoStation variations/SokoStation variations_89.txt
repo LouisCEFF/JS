@@ -1,0 +1,17 @@
+ ############
+##          #
+# +######## #
+# *       # #
+# * **### # #
+# # *   # # #
+# # *   # # #
+# # #   # # #
+# # ##### # #
+# #       * #
+# #*######$ #
+#          ##
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #299 CLAUSTROPHOBIA
+Comment: added 2 walls, stoned many boxes
+Published in The Beautiful World of Remodels, 1 #26

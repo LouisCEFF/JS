@@ -1,0 +1,22 @@
+#####
+#   #########
+#           #
+##*######## #
+#         # #
+#**###### # #
+# . #   # # #
+# *$#     # #
+# * ## ## # #
+# *     # # #
+# * #   # # #
+# * ##### # #
+# *       # #
+# ######### #
+#     @     #
+#############
+Author: Eric F. Tchong + Marko Dzekic + Jordi Domenech
+Title: Dushi 10 #26 remodel a
+Comment:
+MD: based on version (B), stoned the central area, removed a box and moved a box
+JD: based on MD version, added a box, open the central area, stoned 2 floors and 2 boxes/goals
+Date: 2015.5.30

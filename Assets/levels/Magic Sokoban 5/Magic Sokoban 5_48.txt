@@ -1,0 +1,12 @@
+   ########
+ ###  #   #
+##  *   $ #
+# ....##$ #
+# # #.##  #
+# $ $.  $##
+####### $ #
+      # @ #
+      #####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 49 Be careful at end
+Comment: based on Revenge 39 #38

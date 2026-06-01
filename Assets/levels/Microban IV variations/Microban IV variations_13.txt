@@ -1,0 +1,15 @@
+    ########
+#####  @   #
+#   #$$#$# ##
+# #         #
+# ###*##### #
+#  # .... # #
+## # .... # ##
+#  #####$##  #
+# $  $    $$ #
+###   #   #  #
+  ############
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #46
+Comment: added a box, 3 walls
+Set: The beautiful world of remodels 3 #24

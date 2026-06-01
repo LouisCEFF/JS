@@ -1,0 +1,20 @@
+##########
+#  #   . #
+#   $ $. #
+#  # ##.##
+## #  #.#
+ #    #.#
+ # $  #.#
+##### #.#
+#   #$#.#
+# $ @$  #
+##$$ #  #
+ #   ####
+ #####
+Author: Yasuhiro Morita + Hir + Jordi Domenech
+Title: Sokoban Basic II 2-01 b
+Set: Arranged levels by Hir #10
+Comment:
+Hir: stoned 5 floors, small change
+JD: major changes
+Date: 1998.8.8-9 Hir, 2014.3.13 JD

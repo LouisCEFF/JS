@@ -1,0 +1,11 @@
+    ####
+ ####  ######
+ #  # $     #
+ #     $$$  #
+##...##$@$ ##
+# ...# $$$ #
+# ...#     #
+###  #######
+  ####
+Author: Jordi Domenech
+Title: Level 14 Make a square

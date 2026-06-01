@@ -1,0 +1,16 @@
+######### #####
+#       ###   #
+# *.*.*.*.    #
+# *$$$$$$$# # #
+# .$..... # # #
+# *$.$$$.$#   #
+# .$.$.$. #####
+# *$.+.$.$#
+# .$$$$$. #
+# **.*.*.$#
+#         #
+###########
+Author: Jordi Domenech
+Title: mug
+Comment:
+This level is inspired in Sokoban Revenge #118 ????? (Mug) by Eiji Takeuchi.

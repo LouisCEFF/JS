@@ -1,0 +1,22 @@
+        #########
+        #       #
+#####   #  $ $  #
+#   ##### #$## ##
+#            # #
+## #######...# #
+ # ###   #. .# #
+ #  ...$ $...$ #
+ # #. .# ### ####
+## #... ...# #  ######
+#  #$#$#. .# # $ $ $ #
+# $    #...   $ $ $  #
+#  ##  ##$# ## $ $ $ #
+######## $  # $ $ $$ #
+       #    #  @     #
+       ###############
+Author: Jordi Domenech
+Title: tres eran tres...
+Comment:
+"Tres eran tres las hijas de Elena.
+Tres eran tres y ninguna era buena..." (popular Spanish Romance).
+This puzzle is inspired by the unfinished level of Monry known as "Nancy". The idea of the puzzle is that the player has to cross continuously the three storage areas...

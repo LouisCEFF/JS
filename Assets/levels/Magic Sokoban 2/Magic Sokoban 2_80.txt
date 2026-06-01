@@ -1,0 +1,12 @@
+##########
+#        #
+# ###### #
+# #  $ $$##
+# #     $ #
+# # ##### #
+# #...  $ #
+#  .$.# @ #
+#### .#####
+   ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 81 Chuchubi 1 #32 variation

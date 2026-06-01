@@ -1,0 +1,12 @@
+#############
+#           #
+# $######## #
+#  #   ##   #
+# $# #   $$ #
+#  $ #$#$#  #
+#@#.......  #
+#############
+Author: zhenying + Jordi Domenech
+Title: 61-09 a
+Comment: added a box, a wall
+Date: 2010.10.15

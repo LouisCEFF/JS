@@ -1,0 +1,10 @@
+###############
+#   *     *   #
+# ##$## ## ##.#
+# #     #   ..#
+#   $#    $# .#
+# ## ##$## ## #
+#   *  @  *   #
+###############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #343 SINUSOIDE

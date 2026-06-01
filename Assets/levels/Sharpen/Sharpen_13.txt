@@ -1,0 +1,22 @@
+   #########
+####   #   #
+#      . $ #
+# ###.## ###
+# . $ $ .#
+# # #.## #
+# # .  # #
+# #$## #.###
+# #@$  $.  ##
+# #*##.###$ #
+#   $    $  #
+# # ######  #
+#   #    ####
+#####
+Author: Yut + Jordi Domenech + stopheart + David Holland
+Title: ?????? (Maze of roads) g
+Comment: 
+JD (version a): added 2 boxes
+stopheart (b): based on a, stoned 2 floors, added a wall, change wall for goal, rearrange some boxes/goals
+DH (c-g): based on b, stoned 2 floors, added a floor at the top, moved 2 goals
+Date: 2010.7.21 JD, 2010.7.22 stopheart, 2010.7.23 DH
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3783

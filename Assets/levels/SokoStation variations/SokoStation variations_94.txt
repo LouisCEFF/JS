@@ -1,0 +1,15 @@
+###########
+#     #   #
+# *.* *.* #
+# $*$ $*$ #
+##*.* *.* #
+#         #
+# *.* *.* #
+# $*$ $*$ ##
+# *.* *.*  #
+#   #    @ #
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #328 HI HI HI HI
+Comment: added 3 walls, stoned 3 floors
+Published in The Beautiful World of Remodels, 2 #7

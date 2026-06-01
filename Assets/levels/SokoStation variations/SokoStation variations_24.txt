@@ -1,0 +1,14 @@
+###########
+#    @    #
+# $ $ $ $ #
+#  $ $ $  #
+# $ $ $ $ #
+#####$#####
+# ... ... #
+# ... ... #
+##   #   ##
+#         #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #56 LE SABLIER
+Comment: added 3 walls

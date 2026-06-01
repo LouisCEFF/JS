@@ -1,0 +1,23 @@
+################
+##   ########  #
+##  $        $ #
+### ######$##  #
+### #.*...  # ##
+##  *.$ # *   ##
+## ## ####.## ##
+## # .### .#  ##
+#  #$...*.   ###
+#    .$ # .#$ ##
+## ##.####*#  ##
+##  #.##  .$  ##
+## $#.    .#  ##
+#   ##$##### ###
+# $$  $ ## $$  #
+# $ $ #   $  $ #
+#   #  @##     #
+################
+Author: Jordi Domenech + stopheart
+Title: Big R - The enchanted Castle of 1000 Rooms - c
+Comment: based on versions a-b, several changes
+Date: 2011.7.24
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=24

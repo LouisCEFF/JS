@@ -1,0 +1,14 @@
+#####
+#   ######
+# #$##   #
+#@     $ #
+###$$##$###
+ # $..# $ #
+ # #..$   #
+ # #..### #
+ #  ..    #
+ ####   ###
+    #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 92 Eight
+Comment: based on kbr1535

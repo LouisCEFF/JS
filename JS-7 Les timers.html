@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canva</title>
+    <script src="xxx/xxx.js" defer></script>
+    <script>
+        function log(msg) {
+            document.getElementById("log").innerHTML += "<br>"+msg;
+        }
+        </script>
+</head>
+<body >
+    <h1>Redirection et Timer</h1>
+    <p>Vous allez être redirigé sur la page du CEFF</p>
+    <button onclick="killRedirect()">Annuler</button>
+    <div id="log"></div> 
+    <script>
+        // setTimeout = une fois
+        // setInterval = tout le temps
+        function changePage() {
+            window.location.assign("https://ceff.ch");
+        };
+
+        function killRedirect() {
+            clearTimeout(timeout);
+            log("annulé")
+        };
+
+        const timeout = setTimeout(() => {
+            changePage();
+        }, 5000);
+
+
+
+    // log("on lance le timer durant 5 secondes...");
+    // setInterval(() => log("le timer s'est déclancher"), 5000);
+    // log("Le timer est lancé");
+    </script>
+</body>
+</html>

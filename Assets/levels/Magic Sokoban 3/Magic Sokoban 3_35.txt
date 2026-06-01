@@ -1,0 +1,12 @@
+  #####
+  #   #
+  #*# #
+  #   #
+###*#.####
+#        #
+#   #*$# #
+##### @  #
+    ######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 36
+Comment: based on Level yasgood_28

@@ -1,0 +1,18 @@
+    ####
+   ##  #####
+  ## ..... ##
+### .$$$$$. ###
+# $.$$   $$.$ #
+#  .$ ##  $.  #
+##$.$ ...# .$##
+ # *$#.@.#$* #
+##$. #... $.$##
+#  .$  ## $.  #
+# $.$$   $$.$ #
+### .$$$$$. ###
+  ## ..... ##
+   #####  ##
+       ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 1 #32 Omlette
+Comment: reduction map, added 4 walls in the central area

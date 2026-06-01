@@ -1,0 +1,15 @@
+    ####
+    #  #
+    #.$#
+    #  #
+#####  #####
+# $  *@  . #
+# .  **  $ #
+#####  #####
+    #  #
+    #$.#
+    #  #
+    ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #79 INTERSECTION
+Comment: added a box

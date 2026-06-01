@@ -1,0 +1,11 @@
+#####
+#   #
+# $ #
+#@$$##
+##$..#
+ # ..#
+ #   #
+ #####
+Author: Jordi Domenech
+Title: Level 33 Tiny square 4
+Comment: based on LOMA #10-07 by Frantisek Pokorny

@@ -1,0 +1,25 @@
+      ####
+      #  #
+      #$ #####
+      #  #   #
+#######$ #$#.####
+#       .....#  #
+# $ $ $ # $$.#.$#
+#  # ##### #.#. #
+# $# ........#.$#
+#  #$$ ### #.#. #
+# $#@$ #   #...$#
+#  # # # ###.$  #
+# $# $ #  $ ..# ##
+#  ### ##$#$#$$$ #
+# $$      #      #
+#  ###  #######  #
+#### ####     ####
+Author: Eric F. Tchong + Jordi Domenech + anian + gyjgw
+Title: Chuchubi 13 #3 Playground - c
+Comment: 
+JD (version a): simplification, major changes
+anian (b): based on a, added a box, 4 floors, rearrange some goals, a change in the bottom
+gyjgw (c): based on b, added a box, removed a wall
+Date: 2011.5.18 JD/anian, 2013.8.7 gyjgw
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=126

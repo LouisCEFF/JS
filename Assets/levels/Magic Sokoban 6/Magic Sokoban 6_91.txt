@@ -1,0 +1,14 @@
+      ####
+#######  #
+#   $ $ $#
+#  ..... #
+##$.$$$.$#
+ # .#@#. #
+ #$.$$$.$##
+ # .....  #
+ #$ $ $   #
+ #  #######
+ ####
+Author: David Holland + York Shen + Jordi Domenech
+Title: Level 92
+Comment: based on dh2 #2 Square version 3

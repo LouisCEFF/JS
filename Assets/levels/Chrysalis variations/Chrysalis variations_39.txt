@@ -1,0 +1,14 @@
+####
+#  ######
+#.*.    #
+#..# ## #
+#.#  #  #
+# #  # ##
+# $ $$$@#
+# #     #
+# ###$###
+#     #
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #34 Northern Star
+Comment: added a box, major changes in the top left

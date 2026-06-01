@@ -1,0 +1,12 @@
+ #########
+ # . @ . #
+##$#$#$#$##
+#  .$.$.  #
+#  #$ $#  #
+#  . * .  #
+# $.$#$.$ #
+## . . . ##
+ #########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 2 #17 Bowtie
+Comment: reduction map, rearranged goals

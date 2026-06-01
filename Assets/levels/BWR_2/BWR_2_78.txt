@@ -1,0 +1,20 @@
+   ##############
+  ##      #     #
+  #  $$$  # #   ##
+  # $   $ # #    #
+  # $ # $ # #..# #
+  # $$$$$ # #..# #
+  # $ # $ # #  # #
+  # $   $.#    # #
+  #  #@# .#      #
+#########.## #####
+#       # ... #
+#         ... #
+######### ... #
+        #######
+Author: A1master + anian + Jordi Domenech
+Title: 1,000,001 candlelights #59 Four dots - b
+Comment:
+anian (version a): added a wall to N3
+JD (b): based on a, removed all the top, added some walls, redraw map
+Date: 2014.10.9 anian, 2014.10.31 JD

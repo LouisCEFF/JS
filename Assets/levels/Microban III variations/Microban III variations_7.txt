@@ -1,0 +1,18 @@
+    ####
+    #  ###
+    # $. #
+    #  $ #
+    ## ########
+ #####   ##   #
+ #  # .*.   $ #
+##.$# *@* #$.##
+# $   .*. #  #
+#   ##   #####
+######## ##
+     # $  #
+     # .$ #
+     ###  #
+       ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #23 (b)
+Comment: added 4 boxes

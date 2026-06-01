@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canva</title>
+    <script src="xxx/xxx.js" defer></script>
+    <script>
+        function log(msg) {
+            document.getElementById("log").innerHTML += "<br>"+msg;
+        }
+        // function process() {
+            //     log("<h1>Pas biennnnnnnn</h1>")
+            //     console.log("action");
+            // }
+            function init() {
+                document.getElementById("divout").innerHTML = "Bonjour";
+            }
+        </script>
+</head>
+<body >
+    <!-- <div id="alert-panel" style="background-color: red; font-size: 60px; font-weight: 900;">danger</div> -->
+    <!-- onload="init()" -->
+    <!-- <button onclick="process()">Ne pas presser...</button> -->
+    <!-- <button onclick="hide('alert-panel')"></button>
+    <button onclick="btnPressed('btn')"> Ne pas presser</button>
+    <button onclick="btnPressed('btn2')"> Ne pas presser</button>
+    <button onclick="btnPressed('btn3')"> Ne pas presser</button> -->
+    <!-- <div id="divout"></div>
+    <div id="divout"></div>-->
+    <div id="log"></div> 
+    <!-- <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br>
+    <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br>
+    <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br>
+    <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br>
+    <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br>
+    <button onclick="LightToggle()" style="background-color: green;">Allumé</button><br> -->
+    <script>
+    // function hide(id) {
+    //     document.getElementById(id).style.display = "none";
+    // }
+    // function btnPressed(id) {
+    //     // document.getElementById(id).innerHTML = "Trop tard..."
+    //     event.target.innerHTML = "trop tard"
+    // }    
+        // alert("bonjour tout le monde");
+    // let maConsante = "Bonjour";
+    // log(maConsante);
+    //     maConsante = "Salut";
+    // log(maConsante);
+        // let a = 5;
+        // let b = "10";
+        // let c = a+b;
+        // if (a===b){
+        //     log("a est égal à b");
+        // } else {
+        //     log("a n'est pas égal à b")
+        // }
+        // log(c);
+    const fruits = ["pomme", "poire", "cerise"];
+    log(fruits);
+    log(fruits[1]);
+    fruits[1] = "pêche";
+    log(fruits);
+    fruits[10] = "citron";
+    log(fruits);
+    log("nombre d'élement : " + fruits.length);
+    fruits.push("orange");
+    log(fruits);
+    let unFruit = fruits.pop();
+    log(unFruit);
+    log(fruits);
+    
+    fruits.unshift("banane");
+    log(fruits);
+    unfruit=fruits.shift();
+    log(unFruit);
+    log(fruits);
+    </script>
+</body>
+</html>

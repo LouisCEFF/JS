@@ -1,0 +1,31 @@
+##############################################
+#   ##       ##                            # #
+# *  ## $.$ ##  * *#***********$ *********  ##
+# **  ##   ##  ** *           . **       **  #
+# * *  ##.##  * * * #.######## ** # ## ## ** #
+# *  *  #    *  * * # $      # *  ###   #  * #
+# *# *  ###  * #* # # $$$$$$ # * ##. *# ## * #
+# *  #*  #  *#  * * #        # * ##   $ ## * #
+# * #  *   *  # * * ########## *  # $. ##  * #
+# * #  ** **  # * *            #$  #####   # #
+# * ##  * *  ## # *#*********.. **       **  #
+# * ###  *  ### * *          $ # .*******. # #
+# * # ##   ## # * * ########### .*       *. ##
+# * #  ###### # * * #     #  # .*$#  #  #$*. #
+# * ####    ### * * ## $#... # *$ ####### $* #
+# * #   ***   # * * #  $ .$.## *  #     #  * #
+# * ## *   * ## * * ##  #.*.   *# ..$**.#  * #
+# * #  *.#$*    * * #  $#$$# # *  #     #  * #
+# * ## *   * ## * * ## $ $ # # ** ### ### ** #
+# * #   ***   # * * #    #   #  **       **  #
+# . # #     # # .#. ###########  *********  ##
+#  @#  # # #  #                            # #
+##############################################
+Author: gyjgw + Jordi Domenech + zhenying + Tian Lang
+Title: MF8 8th Sokoban Competition (November, 2009) e
+Comment: 
+JD: based on MF8 8th Sokoban Competition by gyjgw, added 3 boxes, rearrange some goals/boxes. The small puzzles between the letters MF8 are of Howard Abed (SokoCreation #53), author unknown (Minigame #19) and Jacques Duthen (Sokogen #12)
+zhenying (version b): based on JD version, added 3 boxes and a wall, stoned 2 boxes/goals, moved some goals, several changes in the bottom right
+TL (version e): based on b, added 3 boxes, moved some goals
+Date: 2010.3.13 JD, 2010.3.15 zhenying, 2010.3.18 TL
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=42520&extra=page%3D4&page=16

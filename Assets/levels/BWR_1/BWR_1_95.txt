@@ -1,0 +1,17 @@
+ ###########
+##    .    ##
+# .*** ***. #
+# *$  *  $* #
+# *  * *  * #
+# * * $ * * #
+#. * $#$ * .#
+# * * $ * * #
+# *  * *  * #
+# *$  *  $* #
+# .*** ***. #
+##    +    ##
+ ###########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 13 #27 Robot square - a
+Comment: added a wall, moved 4 boxes and 8 goals
+Date: 2011.5.20

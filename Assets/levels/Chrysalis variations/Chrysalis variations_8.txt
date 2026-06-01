@@ -1,0 +1,14 @@
+###########
+##   .   ##
+# $# # #$ #
+# .$ $ $. #
+# $.## .$ #
+##*$ + $.##
+# $. ##.$ #
+# .$ $ $. #
+# #. # .# #
+##   .   ##
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 1 #23 Shield
+Comment: added a box, 8 walls

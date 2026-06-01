@@ -1,0 +1,14 @@
+#################
+#               #
+#*...*######### #
+#.$$$.  $       #
+#.$@$.######### #
+#.$$$.    $     #
+#*...*######### #
+#  $        $   #
+# ############# #
+#               #
+#################
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #59
+Comment: added 3 boxes, rearranged goals/boxes

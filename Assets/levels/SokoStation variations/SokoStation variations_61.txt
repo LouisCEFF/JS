@@ -1,0 +1,16 @@
+  ########
+  #      #
+  # $    #
+ ###$## ###
+ #   #    #
+ #   #    #
+###$####$##
+#    #    #
+#    #    #
+##$####$###
+ #   .....#
+ #   @ .  #
+ ##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #139 IL EST PASSE PAR ICI
+Comment: added a box

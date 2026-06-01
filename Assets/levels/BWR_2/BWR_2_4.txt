@@ -1,0 +1,17 @@
+      #####
+#######   #
+#    ## # #
+# $     $ #
+# $ $$ # ##
+##$# ##  #
+ #  $ $$ #
+ #  # @  #
+ # ...####
+ ##... #
+  #... #
+  ######
+Author: Mic + Jordi Domenech
+Title: Level of the Month 08/11 The Rooster - c
+Comment: removed 4 boxes, simplification
+Date: 2011.7.24
+Note: published with permission from Mic

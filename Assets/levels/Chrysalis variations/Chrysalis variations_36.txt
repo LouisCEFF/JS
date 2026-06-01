@@ -1,0 +1,16 @@
+ ######
+ #    #
+## ## #####
+# $   #   #
+# .#    . #
+# $#*#*#$ #
+# .#   #. #
+# $#*@*#$ #
+# .#   #. #
+# $#*#*#$ #
+#      #. #
+######   ##
+     #####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #24 Center Six
+Comment: deleted a box/goal, major changes in the bottom

@@ -1,0 +1,21 @@
+ #####
+ #   #
+ # #$#####
+ #   #   #
+ # * ... #
+ # * # # #
+ # * # $ #
+ # * # ###
+ # *$# #
+ # . # #
+ # * # #
+ # * # ##
+##$* #  #
+#  * ##*##
+#  * . $ #
+#  * # @ #
+##########
+Author: TIAOA + Jordi Domenech
+Title: SBM 1+ final
+Comment: simplification, major changes
+Date: 2013.9.23

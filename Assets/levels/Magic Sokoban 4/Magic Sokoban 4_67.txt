@@ -1,0 +1,11 @@
+ #####
+ # @ #####
+ # $$    #
+ ## ## # #
+  #      #
+###$#$..##
+#   $ #.##
+#   #  ..#
+##########
+Author: Marcus Hof
+Title: Level 68 Think before pushing

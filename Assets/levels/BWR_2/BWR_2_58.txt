@@ -1,0 +1,15 @@
+          ####
+          #  #
+###########$ #
+#            #
+#.********** #
+#         @# #
+#.********** #
+# $          #
+###########  #
+          #  #
+          ####
+Author: TIAOA + Jordi Domenech
+Title: SBM 82 a
+Comment: reduced map, stoned a box/goal and 2 floors, moved a box
+Date: 2013.11.30

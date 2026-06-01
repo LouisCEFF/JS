@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex 8</title>
+</head>
+<body>
+    <!-- Ex 8.1 -->
+    <h1 id="text"></h1>
+    <br><br><br><br><br>
+    <!-- Ex 8.2 -->
+     <button id="clicks" style="width: 600px; height: 200px;" onclick="begin()">Cliquez ici le plus vite possible durant 10 secondes</button>
+     <br><br>
+     <button id="restart" onclick="restart()" style="display: none;">Recommencer le jeu</button>
+    <script>
+        // Ex 8.1
+        const phrase = "Bonjour les ICH";
+        let i = 0;
+        let interval = setInterval(() => {
+            let l = phrase.substring(0, i)
+            document.getElementById("text").innerText = l;
+            i++
+            if (i - 1 == phrase.length) {
+                clearInterval(interval);
+            }
+        }, 500);
+        // Ex 8.2
+        let button = document.getElementById("clicks");
+        let n = 0;
+        function begin() {
+            if (n == 0)
+            setTimeout(() => {
+                button.disabled = true;
+                document.getElementById("clicks").innerText = `Vous avez cliqué(s) ${n} fois en 10 secondes`;
+                document.getElementById("restart").style.display = "inline";
+            }, 10000);
+            n++;
+            document.getElementById("clicks").innerText = n;
+        }
+        function restart() {
+            document.getElementById("restart").style.display = "none";
+            document.getElementById("clicks").innerText = "Cliquez ici le plus vite possible durant 10 secondes";
+            button.disabled = false;
+            n = 0;
+        }
+    </script>
+</body>
+</html>

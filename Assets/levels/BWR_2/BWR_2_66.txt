@@ -1,0 +1,17 @@
+    ########
+    #   #  #
+    # $  $ #
+   ###$##  #
+#### @ #  ##
+#  #...#   #
+#   ***  # #
+#  #...#   #
+## #   #$###
+ # # $  $ #
+ # ##*#   #
+ #    #####
+ ######
+Author: monry + Jordi Domenech
+Title: monry-light #102 ???????? (b)
+Comment: added a box, major changes
+Date: 2014.2.18

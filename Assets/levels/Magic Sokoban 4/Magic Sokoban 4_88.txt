@@ -1,0 +1,10 @@
+    #############
+    #       #   #
+    # $ $     . #
+###### #######.##
+# $    # $ $ $ ##
+#@#$$$$.*...... #
+#      #####  . #
+########   ######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 89 Guayaba twist (b)

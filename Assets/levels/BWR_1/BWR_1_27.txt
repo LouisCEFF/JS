@@ -1,0 +1,18 @@
+              ####
+        #######  ###
+        # $ $ $$@$ #
+        #      $ # #
+        ##$.#$  $# #
+#####    # .#  $ # #
+#   ###### *##$# # ##
+#.# $  ... .##....  #
+#.# # ## #$....$#   #
+# #$$$## #  ##  #####
+# # #    ########
+# $ ..####
+#.  $ #
+#######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 10 #44 Somewhere my love - a
+Comment: reduced map, added a box
+Date: May 2010

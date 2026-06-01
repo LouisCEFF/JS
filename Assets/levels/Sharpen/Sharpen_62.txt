@@ -1,0 +1,16 @@
+      ####
+#######  #
+# $ $ $ $#
+#  ..... #
+##$.$$$.$#
+ # .#+#. #
+ #$.$$$.$##
+ # .....  #
+ #$ $ $   #
+ #  #######
+ ####
+Author: David Holland + York Shen + Jordi Domenech + Archanfel
+Title: Shuriken
+Comment: 
+Archanfel: based on Magic Sokoban 6 #92 by JD, added a box
+Date: 2015.8.18

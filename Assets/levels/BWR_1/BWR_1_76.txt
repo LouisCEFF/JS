@@ -1,0 +1,17 @@
+###########
+#        @#
+# *******##
+# *     * #
+# * ### * #
+# * $ # * #
+# * # # * #
+# * #.  * #
+# * ## #  #
+# *       #
+###########
+Author: Eric F. Tchong + zhenying + Jordi Domenech
+Title: Chuchubi 2 #2 Easy 2 - b
+Comment:
+zhenying (version a): added a box and a wall, moved a goal, some changes
+JD (b): based on a, moved 2 goals, added a wall
+Date: 2010.11.9 zhenying/JD

@@ -1,0 +1,22 @@
+         ####    #####
+         #  ######   #
+#####   ##        $  #
+#   #####  ######## ##
+# #$    $   # #   # #
+# # ####$## ### $   ######
+# # #..... $  ##.## $  $ #
+#    .*.*.## $## ## $$   #
+# # ####..##   #  #@ $ $ #
+# # $  #***..#  $ ## $$$ #
+#    # #.....# #  # $    #
+####   ####$##.####    ###
+   ##### # .##  # ######
+         # .$   #
+         #  ##  #
+         ########
+Author: Hidemitsu Kobayashi + unknown + Jordi Domenech
+Title: Sokoban Revenge #264 f
+Comment:
+unknown: added some walls on the left and especially in C5
+JD: based on the previous version, added 4 boxes, arrange the right side
+Date: c. 2006 unknown, 2017.3.2 JD

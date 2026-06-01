@@ -1,0 +1,15 @@
+     ####
+######  #####
+#@$    $  $ #
+#$### $ #.# #
+#  #  # $   #
+# $#  $ #.###
+#  $ #### ##
+#.  ...... #
+########   #
+       #   #
+       #####
+Author: Masaki Ishino + Jordi Domenech
+Title: Sokoban Perfect #270 a
+Comment: moved 2 goals, some changes
+Date: 2014.3.16

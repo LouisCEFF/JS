@@ -1,0 +1,10 @@
+ #######
+##  #  ###
+#   $$@$ #
+#  # ... #
+#  #  #  #
+##########
+Author: Marcis Berzins
+Title: Level 13
+Comment: C-Soko #30 Three Boxes 14 arr.
+Website: mb13.allalla.com/csoko/

@@ -1,0 +1,16 @@
+###########
+#    @    #
+##$$$$$$$##
+#         #
+#* * . * *#
+# * * * * #
+#* * * * *#
+# * * * * #
+#* * * * *#
+#  # $ #  #
+##.......##
+#  # # #  #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #24 IL PLEUT
+Comment: added many walls, moved a box

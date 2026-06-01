@@ -1,0 +1,15 @@
+             ####
+    #####    #  ######
+    #   ######...... #
+##### # ##      ## # #
+# $ $ $ $ $ ##  ## $ #
+# # ##......##$## $$ ##
+#      ###* #   #  $$ #
+######## #+$$   #     #
+         #.$ $# #######
+         #.##   #
+         ########
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch #12 a
+Comment: added a box, redraw map
+Date: 2010.9.25

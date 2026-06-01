@@ -1,0 +1,12 @@
+ ##### #####
+ #   ###   #
+ # #$$ $$$ #
+ # # # # # #
+ #.    # # #
+##.##### # #
+# .  .   . #
+# @ ########
+#####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 86 2010 Warmup 4 variation
+Comment: based on Chrysalis Collection 1 #47

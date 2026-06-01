@@ -1,0 +1,17 @@
+ #########
+ #       #
+## ##### #
+#   .. #$##
+# $##.$ @ #
+#  #..# # #
+# $#.*# $ #
+#  #..# $ #
+## #.*# $ #
+#  #..# $ #
+#  $ ##$$ #
+####      #
+   ########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Atlas 2 #70 Little gem stones 2 - a
+Comment: removed a box/goal, added 3 walls, rearrange some boxes
+Date: 2014.2.11

@@ -1,0 +1,20 @@
+    #####
+    #   #####
+ ####$# #   #
+##        $ #
+#  ##.####$##
+# $$..  .. #
+#  #$#.###$#
+##$ .. $.. #
+##.##.  ## #
+# $  $#### ##
+#   #@$     #
+#########   #
+        #####
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin434 d arr.
+Comment: 
+JD (version a): added 3 boxes, major changes
+stopheart (b-d): based on a, added 4 walls (stoned 3 goals), major changes in the top left and the bottom right
+Date: 2010.8.13 JD, 2010.8.17 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=31

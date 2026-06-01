@@ -1,0 +1,13 @@
+#####
+#   ####
+#      #
+# $ $$@#
+##$##  #
+ # #####
+##.. #
+# .. #
+#    #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #70
+Comment: redraw map

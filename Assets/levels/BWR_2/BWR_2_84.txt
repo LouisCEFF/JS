@@ -1,0 +1,22 @@
+       ########
+########  #.  #
+#  ##  #    # #
+# $#        # #
+#  #   ###.## ####
+# $## ##....# #  #
+#   #  #....# #$ #
+#   #  #....# #  #
+##$ #  #....# #$ ##
+ #  ##### ###     #
+ #$ $ $ #  $   #$ #
+ #  $ $ #@#$####  #
+ #$        $ $ $$ #
+ #  ########      #
+ ####      ########
+Author: Sven Egevad + Marek Letrab + zhenying + Jordi Domenech
+Title: SE 10 a3
+Comment:
+ML (version a): four floors replaced by 4 boxes, stoned 2 floors
+zhenying (a2): based on a, removed 3 boxes, major changes at the bottom
+JD (a3): based on a2, stoned 4 floors, added a wall, moved a box
+Date: 2008.5.8 zhenying, 2014.11.22 JD

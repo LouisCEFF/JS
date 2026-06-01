@@ -1,0 +1,24 @@
+########
+#      #
+# .*** #
+#    * #
+# **** #
+# #    #
+# **** #
+#    *##
+# **** #
+# #    #
+# **** #
+#    * #
+# **** #######
+# #          #
+# * *#* *#*# #
+# * * * * *  #
+# *** *** *$ #
+#           @#
+##############
+Author: laizhufu + Jordi Domenech
+Title: L - a
+Comment: stoned 5 boxes, added a wall
+Date: 2011.4.8
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=8

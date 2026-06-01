@@ -1,0 +1,12 @@
+ #######
+ #     #
+ #$.*.$##
+ # * *  #
+ #$. .$@#
+## * * ##
+# $.*.$#
+#      #
+########
+Author: Yoshio Sakae + Jordi Domenech
+Title: Level 93
+Comment: Ultimate Sokoban - Stage 3, Chapter 2, Level 2 arr.

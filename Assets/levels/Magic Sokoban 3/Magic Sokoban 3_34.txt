@@ -1,0 +1,15 @@
+     ####
+######  #
+#       #
+# #$### #
+# #  ## ##
+# #$ #   #
+# #  #$$ #
+# ## # ###
+# ....  #
+#### ## #
+   #  @ #
+   ######
+Author: Kazuo Fukushima + Jordi Domenech
+Title: Level 35
+Comment: based on sokoban-ml-scratch 06

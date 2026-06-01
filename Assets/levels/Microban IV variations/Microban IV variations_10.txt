@@ -1,0 +1,15 @@
+     ####
+     #  #### #####
+     #     # #   ######
+     # $$  # #        #
+   ####  $## ##....  .#
+   #    $ ##  ##  #. .#
+#### ##$#  #   #  #. ##
+#  $$##@## ######### ###
+# #    $               #
+#   ### ### ########   #
+##### #     #      #####
+      #######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #42 Classic level #1 revised
+Comment: added a box, stoned 3 floors

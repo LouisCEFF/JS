@@ -1,0 +1,19 @@
+################
+##           ###
+## #$#######$$ #
+##....   $...  #
+## # ########  #
+# $$     $  #  #
+#  # ###   .# ##
+#  #...# ##.# ##
+####...#$ # #$##
+#   # ## $# #  #
+# $ #  #   .   #
+# $$#  ###@ #  #
+# $   $$ #### ##
+#   #  #      ##
+################
+Author: Hacker Chris + Jordi Domenech
+Title: Sokoban (WE, 1991) #55 arr.
+Comment: based on level 55 (unsolvable) from the game "Sokoban" (1991) by Hacker Chris, for ZX Spectrum. I added 6 boxes, some changes
+Date: 2012.9.4

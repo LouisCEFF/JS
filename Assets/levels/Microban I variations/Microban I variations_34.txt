@@ -1,0 +1,14 @@
+    ####
+   ##@ #
+  ##   ##
+###.$$$.##
+#  $...$ ##
+#  $...$  #
+## $.*.$  #
+ ##.$$$.###
+  ##   ##
+   #  ##
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #145 (a)
+Comment: change wall for a box, added 4 walls

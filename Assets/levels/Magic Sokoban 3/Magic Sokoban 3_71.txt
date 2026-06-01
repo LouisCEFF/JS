@@ -1,0 +1,11 @@
+  ####
+###  ######
+#    #    #
+# .*.# $  #
+# **. $$$ #
+##.*.# $ ##
+ #   #@  #
+ #########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 72 Homage to Greece
+Comment: based on kevin894

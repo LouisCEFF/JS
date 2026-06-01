@@ -1,0 +1,10 @@
+#####
+#   #####
+#   ..  #
+### ..  #
+ ##$## ##
+ # $ $$#
+ #    @#
+ #######
+Author: Jordi Domenech
+Title: Level 11 Simple tiny square

@@ -1,0 +1,15 @@
+###########
+#   #.    #
+# $  .#  $##
+# ###* # * #
+#    * # * #
+#### * # * #
+   # *   * #
+   # ***** #
+   #@      #
+   ######  #
+        ####
+Author: Sven Egevad + Jordi Domenech
+Title: SE 133 a
+Comment: added 3 walls, removed a wall, added 2 floors
+Date: 2015.2.23

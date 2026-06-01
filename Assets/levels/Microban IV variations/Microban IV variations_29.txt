@@ -1,0 +1,12 @@
+   ### # ###
+ #############
+ ###   .     #
+## .$ $$$.$. ##
+##*$.*...*.$*##
+## .$.$$$ $. ##
+ #@    *   ###
+ #############
+   ### # ###
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #94
+Comment: added a box, 4 walls

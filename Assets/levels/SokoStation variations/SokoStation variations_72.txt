@@ -1,0 +1,16 @@
+  #   #   #
+  #   #   #
+ ############   #
+ #   #   #  ## #
+## $*$*$  . ###
+##      ##..##
+## $* *$#*..@#
+##      ##..##
+## $*$*$  . ###
+ #   #   #  ## #
+ ############   #
+  #   #   #
+  #   #   #
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #183 COCCINELLE
+Comment: added a box, some changes

@@ -1,0 +1,15 @@
+#######
+#    @#
+# $$$$##
+#      ##
+##$###$ ###
+# .....   #
+# .$.$* $ #
+### . #####
+  ##.$#
+   #. #
+   ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 12 #8 T problem - a
+Comment: reduced map, rearrange some boxes
+Date: 2010.10.30

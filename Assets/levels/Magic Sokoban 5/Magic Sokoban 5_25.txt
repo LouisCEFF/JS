@@ -1,0 +1,11 @@
+  #######
+  #  .* #
+###  $$@#
+#  $ # ##
+#    #  #
+####..  #
+   ######
+Author: Marcis Berzins
+Title: Level 26
+Comment: C-Soko #52 Five Boxes 7 arr.
+Website: mb13.allalla.com/csoko/

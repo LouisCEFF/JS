@@ -1,0 +1,16 @@
+  ##########
+  #    #   #
+ ##   $    ######
+## $$$#### ##   #
+# $    ##     # #
+# $ ##...  ##   #
+#  $@#.*.#### # #
+###  #...   # $ #
+  ###### ## # ###
+       #       #
+       #   #   #
+       #########
+Author: Marcus Palstra + Jordi Domenech
+Title: #1 Look before you leap! - b
+Comment: reduced map and simplification
+Date: April 2010

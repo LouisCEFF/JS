@@ -1,0 +1,16 @@
+    #####       ####
+    #   ####    #  ##
+    #      #    #   ######
+    ## $$  #    # $$$   .#
+   ####  $##    ## .... .#
+   #   $$ ##     ##  #. .#
+#### ## #  #      #  #...#
+#   $## ## ############ ##
+# #    $      @         #
+#   ##################$ #
+#####                #  #
+                     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #22 Original level #1 revised - a
+Comment: added 3 boxes, stoned 2 floors
+Date: 2012.3.2

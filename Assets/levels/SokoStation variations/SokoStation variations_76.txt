@@ -1,0 +1,14 @@
+##############
+#@    #     ##
+# .$*.$*.$*. #
+# *  $     $ #
+# $ ###### * #
+##..#    #..##
+# * ###### $ #
+# $     $  * #
+# .*$.*$.*$. #
+##     #     #
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #202 SERPENTISSIMO (a)
+Comment: added 4 walls, 2 boxes

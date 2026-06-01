@@ -1,0 +1,12 @@
+  #####
+  #   ###
+###$#   #
+# $.. # #
+#  ..$  #
+# $.. ###
+###$#$#
+  # @ #
+  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 66
+Comment: kbr1672 variant

@@ -1,0 +1,11 @@
+ #######
+ #  .  #
+ #$$.$$#
+## ... ##
+# $.#.$ #
+#  ...  #
+##$$*$$##
+ #  @  #
+ #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #345 MOTHERSHIP

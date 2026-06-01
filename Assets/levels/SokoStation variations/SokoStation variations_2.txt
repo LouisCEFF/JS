@@ -1,0 +1,14 @@
+###########
+#....*....#
+#.$$$$$$$.#
+#.$  .  $.#
+#.$$$$$ $.#
+#* .$@$. *#
+#.$ $$$$$.#
+#.$  .  $.#
+#.$$$$$$$.#
+#....*....#
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #10 CONTOUR
+Comment: added 4 boxes

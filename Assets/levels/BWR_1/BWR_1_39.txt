@@ -1,0 +1,22 @@
+      #####
+      #   #
+####### # #
+#       $ #
+# #####$ @#
+#     #  ##
+# *.* #  #
+# * * # $#
+##*** .*.#
+#  #  * .##
+# $# #.*. #
+#    #  $ #
+####$# ####
+   #   #
+   #####
+Author: Eric F. Tchong + David Holland + Jordi Domenech
+Title: Chuchubi 11 #36 Suzette (two squares) b1
+Comment:
+JD (version a): added a wall, some changes in the bottom, rearrange some boxes/goals
+DH (a3): based on a, moved 5 goals, small change on the left side
+JD (b1): based on a3, rearrange some boxes, removed a box/goal
+Date: 2010.7.3 JD, 2010.7.5 DH, 2010.7.6 JD

@@ -1,0 +1,11 @@
+##############
+##    #.   $@#
+##$  #.$.    #
+#   #.$.$.#$ #
+# $#.$.$.#   #
+#    .$.#  $##
+# $   .#    ##
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #174 THE MILKY WAY
+Comment: added 4 walls

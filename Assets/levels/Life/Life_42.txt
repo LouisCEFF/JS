@@ -1,0 +1,18 @@
+ #############
+ #           #
+ # ********* #
+ # *       * #
+ # * ##### * #
+ # * # + # * #
+ # * # * # * #
+## * # * # * #
+#  * # * # * #
+#  $ # * # * #
+#### # *   * #
+   # # ***** #
+   #         #
+   ###########
+Author: Jordi Domenech
+Title: snail
+Comment: 
+Based on Chrysalis Collection 10 #46 by David Buchweitz.

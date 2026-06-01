@@ -1,0 +1,27 @@
+  #####
+  #   #
+ ##$@$#
+ # ...#
+ # $. #
+ ##$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+ ## #$#
+ #    #
+ # $ $###
+###..* ##
+###    ##
+#########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 8 #40 Big one - a
+Comment: stoned a box/goal, rearrange all boxes
+Date: 2013.12.30

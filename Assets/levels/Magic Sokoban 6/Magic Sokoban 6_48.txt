@@ -1,0 +1,11 @@
+     #######
+     #     #
+###### ###$##
+#   # *   + #
+#     * * * #
+#### ###### #
+   #        #
+   ##########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 49
+Comment: SE 1775 arr.

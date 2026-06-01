@@ -1,0 +1,16 @@
+   ##########
+   #  ##    #####
+ ###  $  # $  $ #
+ #   $##  $$#   #
+ #    $ $ #    ##
+ #$#### #####$ #
+ # # ........@ #
+##   .*.*.*. # #
+#   ######.### #
+# #$     $  $  #
+#   ############
+#####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #183 b
+Comment: added 2 boxes and 3 walls, added 2 floors
+Date: 2014.2.12

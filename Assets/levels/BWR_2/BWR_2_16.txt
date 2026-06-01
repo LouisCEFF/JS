@@ -1,0 +1,17 @@
+  #########
+  #       #  ####
+  # ##### ####  #
+  # #   #     $ #
+### # #   ####  #
+#   # ## $$    ##
+# ### ##  #### #
+# #   ##  $ $  #
+# # ### * # @ ##
+# #$  # .######
+#  $ ...** #
+#######... #
+      ######
+Author: Tolle + Jordi Domenech
+Title: Back to origins #1 a
+Comment: moved 2 goals, redraw map
+Date: 2012.1.16

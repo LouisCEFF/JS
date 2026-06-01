@@ -1,0 +1,13 @@
+#########
+#   ## .#
+#      .#
+## #$# .#####
+ # #   .##  #
+## ####  $$ #
+#  #   ##$  #
+#        @ ##
+#  #########
+####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #27
+Comment: some changes on the left side, added a wall

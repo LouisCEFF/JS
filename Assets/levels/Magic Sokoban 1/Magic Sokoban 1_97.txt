@@ -1,0 +1,12 @@
+########
+#   #  #
+#   #  #
+#  *$* #
+## * * #
+ # *.* #
+ # * * ##
+ # *@*  #
+ #  #   #
+ ########
+Author: Jordi Domenech
+Title: Level 98 H - Dedicated to laizhufu

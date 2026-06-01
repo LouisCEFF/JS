@@ -1,0 +1,14 @@
+#######
+#     #
+# ### ###
+# # $   #
+# #     #
+# $$ #$##
+# $  # ##
+## ###. #
+ # .+.. #
+ ########
+Author: Morganine + Jordi Domenech
+Title: Level 52
+Comment: based on a level posted in Let's Logic. See:
+www.letslogic.com/puzzle_info.php?id=7249

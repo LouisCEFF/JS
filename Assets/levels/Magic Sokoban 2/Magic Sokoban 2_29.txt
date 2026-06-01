@@ -1,0 +1,13 @@
+########
+#      #
+# #### #
+# #@ # #
+# $$ # #
+#  $ # #
+###$## #
+# . .  #
+# . .  #
+###  ###
+  ####
+Author: Premysl Zika + Jordi Domenech
+Title: Level 30 Premysl Zika #41 variation

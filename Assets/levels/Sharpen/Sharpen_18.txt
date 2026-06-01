@@ -1,0 +1,23 @@
+ ####   ######
+ # @#   # .  #
+ #$ #####    ##
+ # $   # .#   #
+##.#.#.$ $. # ###
+# .$ $.#### #  .#
+#       * .$###.#
+#########   # $ ##
+   #    * ### #  #
+ ###$$#.. $ #  $ #
+## $  ## $#.  #  #
+#  $ $ #  $ ######
+# $ #  ###  #
+# .#.$ # ####
+# ... ##
+#######
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin421 b arr.
+Comment: 
+JD (version a): added 2 boxes, major changes
+stopheart (b): based on a, stoned 2 floors, moved 2 goals
+Date: 2010.8.1 JD/stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=29

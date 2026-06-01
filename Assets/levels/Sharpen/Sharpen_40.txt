@@ -1,0 +1,23 @@
+   #####         ####
+   #   ###########  #
+   #                #
+ #### ## ########## #
+##     # #   ##   # ###
+# *$$  #$$$#. $$# $$$ #
+# *.* ##   #.*. #.  . #
+# . $.##..*#. #.#. #. #
+##.$$.#.$$. .$$* *$$*##
+# *.. # ...#... # ...##
+# $ $## $$$# $$$#  #. #
+# $$$ #  # #  # # **$ #
+#     ##   ##   ## #  #
+###@############## ####
+  #                #
+  ##################
+Author: Carlos Montiers + Jordi Domenech + niwa
+Title: Habibti - c
+Comment: 
+JD (version a): major changes
+niwa (b-c): based on a, added some walls, rearrange some boxes
+Date: 2012.3.27 JD, 2012.4.6 niwa
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/4663

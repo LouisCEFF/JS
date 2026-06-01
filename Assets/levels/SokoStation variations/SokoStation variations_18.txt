@@ -1,0 +1,11 @@
+       #####
+    ####   ####
+    # ## $ #  #
+##### $  *  $ #####
+#      #   #  #   #
+# # # $#####$ # # #
+#   #  ..+..      #
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #48 LA FORTERESSE
+Comment: added a box, some changes

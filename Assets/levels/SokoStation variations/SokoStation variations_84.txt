@@ -1,0 +1,14 @@
+####
+#  #######
+#  .     #
+#  #$$$$$#
+#*##.....#
+#  #  $  #
+## #### ##
+# *      #
+#   ##  @#
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #236 CRAN D'ARRET
+Comment: added 2 boxes, moved a wall
+Published in The Beautiful World of Remodels, 4

@@ -1,0 +1,17 @@
+####
+#  ###############
+# $              #
+# .############  #
+##.*.*.*.*..  # ##
+# ..........$ # #
+# ##$#$#### ### #
+#    $@     $ # #
+# $$  $$$$$$  # #
+#  $ $          #
+##############$ #
+             #  #
+             ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 5 #14 Gladiator valley - a
+Comment: reduced map, major changes
+Date: 2014.2.11

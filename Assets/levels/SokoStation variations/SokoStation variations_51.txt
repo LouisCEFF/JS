@@ -1,0 +1,16 @@
+  #####
+  #   #
+###$ $###
+# $...$ #
+#   .   #
+# $...$ #
+###$#$###
+# $...$ #
+#   .   #
+# $...$ #
+###$ $###
+  # @ #
+  #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #128 SUPER ZEBULON (b)
+Comment: added a wall, 2 boxes

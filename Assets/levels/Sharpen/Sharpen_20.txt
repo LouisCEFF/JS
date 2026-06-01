@@ -1,0 +1,25 @@
+   ####   #######
+   #  ### #     #
+   # $$ ###     #
+   #      ## ## ##
+   # $ $# $   #  #
+   ##$    $#$ #$ #
+   ##  ## $   #  #
+   #  $## ##.#...#
+  ##   #  $ ...#.#
+ ##  $# $$$ #*##.#
+ #  $$    ##...#.#
+##$$$  $ ###*..#*##
+#@$     ## #..#.. #
+# ##$#######*.*.. #
+# $         ...####
+################
+Author: Bruno Druille + David Holland + Jordi Domenech + stopheart
+Title: Tableau 72 d
+Comment:
+JD (version a): removed 7 boxes, reduced map and major changes
+DH (b): based on a, added 8 boxes
+JD (c-c2): based on b, change 5 boxes for walls, removed 6 boxes, stoned 4 floors (right side), major changes in the upper left
+stopheart (d): based on c1, added a wall and a floor, removed a box, moved 2 boxes
+Date: 2010.8.9 JD, 2010.8.10 DH/JD, 2010.8.11 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=29

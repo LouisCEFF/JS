@@ -1,0 +1,16 @@
+ ####
+ #  ########
+ #  $ $ $  #
+ # #.....# #
+ # .$$#  . ##
+ #$.$@$ #.  #
+ # .#$$$$*$ #
+##$.  #  . ##
+#  #.....# #
+#    $ $ $ #
+#########  #
+        ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #29 a
+Comment: added 2 walls, stoned 2 floors
+Date: 2015.5.6

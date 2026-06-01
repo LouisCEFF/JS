@@ -1,0 +1,14 @@
+    #########
+    #   #.  #
+#####.....$ #
+#    .  ## ##
+#  ###  ## #
+## # ##### ##
+## ### @ #  #
+#    $$$$$$ #
+#   #    #  #
+#######  ####
+      ####
+Author: Blaz Nikolic + Jordi Domenech
+Title: Level 53
+Comment: Blazz2 #4 extension

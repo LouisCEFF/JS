@@ -1,0 +1,16 @@
+############
+# #        #
+# *** *** ##
+# * * * $@ #
+# * * *    #
+# * * **** #
+# * #    # #
+# * ****** #
+# *        #
+# *******.##
+#          #
+############
+Author: Jordi Domenech
+Title: Not too boring 2 - Sven Egevad style
+Date: 2011.3.16
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=54431&extra=page%3D1&page=5

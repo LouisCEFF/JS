@@ -1,0 +1,13 @@
+      ######
+#######    #
+#     $$#$ #
+# #####.+. #
+# #  .#***##
+# #  .$ $  #
+# ## .# #  #
+#     # $  #
+#######   ##
+      #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 51
+Comment: based on kevin983

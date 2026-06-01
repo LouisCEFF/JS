@@ -1,0 +1,24 @@
+#########
+#       #
+# $ $   #
+# $ $$$$#######
+#             #
+###$########$ #
+ #..  ## ...$ #
+ #.. $...*.# ##
+ ##### ###.# #
+    # @$ $$# #
+    # ## # # #
+    # *. # # #
+    # *.   # ##
+    ## #####  #
+     #        #
+     #  #######
+     ####
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin289 c1
+Comment: 
+JD (version a): added 2 boxes
+stopheart (b-c1): based on a, added 3 boxes, stoned 4 floors, major changes in the storage area
+Date: 2010.7.12 JD, 2010.7.29 stopheart
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3854

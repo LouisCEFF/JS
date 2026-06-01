@@ -1,0 +1,15 @@
+############
+#          #
+# ######## #
+# #      # #
+# #.**** # #
+#  *   * # #
+## * # * # #
+ # * #@* # #
+ # ****$   #
+ #       ###
+ #########
+Author: Sven Egevad + Jordi Domenech
+Title: SE 134 a
+Comment: added a wall inside the square, some changes
+Date: 2014.8.16

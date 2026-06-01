@@ -1,0 +1,16 @@
+   ####
+   #  #####
+   #      #
+   #$$$$$@#
+   #  #   #
+#### ######
+#  # #
+#  # ##
+#  *  #
+#.....#
+#     #
+#  ####
+####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 47 Parallelity variant
+Comment: based on Chrysalis Collection 4 #29 Parallelity

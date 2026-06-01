@@ -1,0 +1,25 @@
+                 #######
+  ################..*..#
+###       @ ........*..#
+#   ####### #### $..#*.#
+# #$#   #  $$  ## ##...#
+#   #   $$  $# #  .#.#.#
+### ##$#  $  #   $ #.#.#
+ # $## $  #  $$ ####. .#
+ #    $  ##$ # ##  #. .#
+ #  ###$$   ## ### ## ##
+####### $ $ # $  #  # #
+#     #  #$   $$ #### #
+# $$$  # # ####       #
+# #  $   # #  ### ##  #
+#   #$ ### ###### #####
+#####             #
+    ############  #
+               ####
+Author: Thinking Rabbit + Jordi Domenech + David Holland
+Title: Sokoban Perfect #29 a13
+Comment: 
+JD (version a): reduced map, added 2 boxes
+DH (a2-a13): based on a, added 7 boxes, small change in storage area
+Date: July 2010 JD, 2010.7.14 DH
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3715

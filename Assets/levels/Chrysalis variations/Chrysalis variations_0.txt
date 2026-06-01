@@ -1,0 +1,19 @@
+#########
+# .   . #
+# $.#.$ #
+## $.$ ##
+# $.#.$ #
+# .$ $. #
+#.$ * $.#
+# .$ $. #
+# $.#.$ #
+## $+$ ##
+# $.#.$ #
+# .$ $. #
+#.$ * $.#
+# .$ $. #
+# $. .$ #
+#########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 1 #7 Helix
+Comment: added a box, 8 walls

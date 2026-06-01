@@ -1,0 +1,12 @@
+###############
+#@            #
+# *** *** *** #
+# * * * * * * #
+# . * * * * $ #
+### *** ***   #
+  #    #     ##
+  ############
+Author: skippy + Jordi Domenech
+Title: Level 85 Snake+
+Comment: based on Snake by skippy
+URL: www.letslogic.com/puzzle_info.php?id=91020

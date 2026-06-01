@@ -1,0 +1,11 @@
+########
+#  #   #
+#  #...#
+# $$$$$#
+#  #.*.#
+#  #   #
+#  @  ##
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #70
+Comment: added a wall and a box

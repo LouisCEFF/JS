@@ -1,0 +1,11 @@
+##########
+#        #
+# ****** #
+#.*@   *.#
+# $****$ #
+#        #
+####  ####
+   ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 103
+Comment: based on Dushi 1 #34 Blade

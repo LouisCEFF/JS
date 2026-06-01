@@ -1,0 +1,14 @@
+    ####
+    #  #
+  ###$.##
+###   * #
+# .* *  ###
+# $ *@* $ #
+###    *. #
+  # *   ###
+  ##.$###
+   #  #
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #9 (b)
+Comment: added a box, moved 3 goals

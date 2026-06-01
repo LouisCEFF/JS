@@ -1,0 +1,11 @@
+####
+#  #####
+#      #
+# .#.# #
+##$$$$ #
+# . .###
+# @  #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #15
+Comment: added a wall and a floor

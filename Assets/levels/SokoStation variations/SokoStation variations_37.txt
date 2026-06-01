@@ -1,0 +1,14 @@
+   #########
+   # * * * #
+ ###  * *  ########
+ #   * * * ## # # #
+ #    * *  .  $   #
+ # # * * * # #$# ##
+ # #  * *  #      #
+## # * * * ## # # #
+#  #########      #
+#      +     # # ##
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #87 ATTENTION VIRUS
+Comment: deleted many floors, added 2 walls and a box

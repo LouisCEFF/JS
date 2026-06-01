@@ -1,0 +1,14 @@
+#########
+#  #    #
+#   .*# #
+#  #*.  #
+##  .*###
+#  #$ #
+# $$ @#
+#  ####
+####
+Author: Mic + Jordi Domenech
+Title: Level of the Month 01/12 Compactsix (a)
+Comment: removed the area of the right-down, removed a wall
+Date: 2011.12.20
+Note: published with permission from Mic

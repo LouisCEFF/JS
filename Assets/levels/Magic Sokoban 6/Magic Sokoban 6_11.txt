@@ -1,0 +1,11 @@
+#########
+#   ##  #
+#       #
+###.... #
+# $$$ $ #
+# @ #####
+#####
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 12
+Comment: based on C-Soko - Two Boxes 14
+URL: mb13.allalla.com/csoko/

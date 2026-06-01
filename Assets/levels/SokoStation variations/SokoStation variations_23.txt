@@ -1,0 +1,10 @@
+##########
+## $..@  #
+# $ .. $ #
+# $####$ #
+# $ .. $ #
+#   ..$ ##
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #54 SAN KU KAI
+Comment: added 2 walls

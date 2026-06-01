@@ -1,0 +1,15 @@
+###########
+#.   .   .#
+# $**$**$ #
+# *     * #
+# * ### * #
+#. $###$ .#
+# * ### * #
+# *     * #
+# $**$**$ #
+#.   +   .#
+###########
+Author: Shinji Kai + Jordi Domenech
+Title: Sokoban Basic II 2-18 a
+Comment: moved 2 boxes
+Date: 2014.3.27

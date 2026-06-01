@@ -1,0 +1,10 @@
+#########
+#       #
+# $...$ #
+##$*@*$##
+# $...$ #
+#       #
+#########
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #112 (b)
+Comment: change position walls

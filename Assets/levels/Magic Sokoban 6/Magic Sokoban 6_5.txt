@@ -1,0 +1,10 @@
+  ######
+###    #
+#  $$$ #
+# ## # #
+#  ... #
+### @ ##
+  #####
+Author: Premysl Zika + Jordi Domenech
+Title: Level 6
+Comment: First levels #58 variant

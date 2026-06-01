@@ -1,0 +1,18 @@
+#####      ####
+#   ########  #
+# $ #   #  #$ #
+#   $ $ #     #####
+##$##   #  #  ##  #
+ # ##$####$# $$   #
+ # #   $   #  #$. #
+ # # $ ### #### #*#
+## #@  #   # .. #.#
+#  ##### # $.#*. .#
+#      $   #.. .###
+#  ######  #.*...#
+####    #  #######
+        ####
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Perfect #177 a
+Comment: simplification, major changes
+Date: 2010.9.27

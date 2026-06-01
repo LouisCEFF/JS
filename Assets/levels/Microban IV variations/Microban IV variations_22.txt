@@ -1,0 +1,17 @@
+   ####    #####
+   #  #    #   #
+   # $#    #$# ##
+   #  ######    #
+   ## . $ .  $# #
+#####$.#.#. #   #
+#   # .#.#.$#####
+# $ @ .$. . #
+####  $.$.$ ##
+  #  ######  #
+  # $#    #$ #
+  #  #    #  #
+  ####    ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #85
+Comment: redraw map
+Set: The beautiful world of remodels 3 #25

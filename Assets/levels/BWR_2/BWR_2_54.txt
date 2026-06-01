@@ -1,0 +1,14 @@
+#######
+#     ######
+# #$*      #
+# # * #*** #
+# # *  *@* #
+#   ** * * #
+#### *   * #
+   # ****# #
+   #     . #
+   #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 5 #17 Grass hopper - a
+Comment: stoned a box/goal, added a wall, moved a box/goal, added 2 floors
+Date: 2013.9.30

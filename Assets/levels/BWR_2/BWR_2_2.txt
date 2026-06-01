@@ -1,0 +1,22 @@
+###############
+#     #   ##  #
+#  $  # $   $ #
+##$## ### ##$ #
+## #.....  #  #
+#  $.$ # . $ ##
+# ##.####.## ##
+# # .#  $.#  ##
+# #$...*.   $ #
+#   .$ #. ##  #
+##$#.####.## ##
+#   . # $.    #
+#  #.    .#   #
+## ###$#### ###
+#   $ $ # $$  #
+# $$# #   $ $ #
+#   # @ ##    #
+###############
+Author: Jordi Domenech
+Title: Big R - The enchanted Castle of the 1000 Rooms
+Date: 2011.7.18
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=23

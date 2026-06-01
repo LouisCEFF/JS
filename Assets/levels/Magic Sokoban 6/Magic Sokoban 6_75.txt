@@ -1,0 +1,20 @@
+        #####
+        #   ##
+        #    #
+##########*# #
+#         .# #
+#  ####### # #
+## #     # # #
+ # # *** # # #
+ # # * * # # #
+ # # * . # # #
+ # # # $ # # #
+ # # ***## # #
+ # #       # #
+ # ##$####*# #
+ #     @     #
+ #  ##########
+ ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 76 Game room parlor 3
+Comment: based on Dushi 10 #26

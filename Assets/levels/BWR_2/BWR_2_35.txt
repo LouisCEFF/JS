@@ -1,0 +1,24 @@
+      ###############
+          ### ###
+         ### ###
+        #######
+      ###...####
+#######   $    ###########
+#   #   ##*****# ****    #
+#  * *  #      # *   * # #
+# *   * #   $  # *   * * #
+# **#** ###**### ****$ * #
+# *   * #  $   ##*   * # #
+# * # * #   @$*  *   * * #
+# *   * #*****.##****  * #
+# #######      #       # #
+# # # $ ..############## #
+#       #                #
+##########################
+Author: SokoWind + stopheart + Jordi Domenech
+Title: Riddle Sokoban #31 A?B? (A side B side) - a2
+Comment:
+stopheart (version a): added 2 boxes
+JD (a2): based on a, stoned 7 boxes, removed a wall, rearrange some boxes/goals
+Note: "A side B side. The double life" (2010) is a film from the Chinese director Ning Ying.
+Date: 2012.7.16 stopheart, 2012.9.23 JD

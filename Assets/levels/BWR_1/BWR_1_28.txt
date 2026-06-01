@@ -1,0 +1,18 @@
+       #####
+########   #
+#  $   $ # #
+#   $   $  #
+####$#### ##
+#  #....#  #
+# .*. $.#$ #
+#  #.$$*#  #
+## #....#$ #
+# *##*###  #
+#@$  .  #$ #
+#   # $    #
+#########  #
+        ####
+Author: monry + Jordi Domenech
+Title: monry-light #36 a
+Comment: added a box, change a wall for a floor, moved 4 goals
+Date: June 2010

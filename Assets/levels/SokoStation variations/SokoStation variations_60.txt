@@ -1,0 +1,10 @@
+##########
+# . . .  #
+# $ $ $  #
+# #####@##
+# $ $ $  #
+# . . .  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #137 PACMAN ATTAQUE
+Comment: stoned a box/goal, deleted a wall

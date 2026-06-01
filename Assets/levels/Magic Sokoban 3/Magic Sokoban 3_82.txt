@@ -1,0 +1,16 @@
+########
+#      #
+# #### #
+# #  # #
+# #  # ####
+# #  #  . #
+# ##****# #
+#    #    #
+#### #$@# #
+   # #  # #
+   # #### #
+   #      #
+   ########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 83 Double ring (a)
+Comment: based on SE 1374

@@ -1,0 +1,10 @@
+ ######
+ #    ###
+ # $  $ #
+###$# # ##
+# .$...  #
+#   ## @ #
+##########
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #59
+Comment: added a box, redraw map

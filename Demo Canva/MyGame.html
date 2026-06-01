@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(10, 50px);
+            grid-template-rows: repeat(10, 50px);
+        }
+
+        .grid-element {
+            border: 2px solid black;
+            border-radius: 10px;
+            background-color: lightgray;
+            margin: 2px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="plateau" class="container"></div>
+
+    <script>
+        const plateau = document.getElementById("plateau");
+        const colors = ["lightgray", "red", "blue", "yellow", "cyan", "green"];
+        const jeu = [];
+        init();
+        function init() {
+            for (let i = 1; i < 101; i++) {
+                const element = document.createElement("div");
+                element.id = `e_${i}`;
+                jeu[i] = {
+                    html: element,
+                    colorIndex: 0,
+                }
+                element.classList.add("grid-element");
+                element.addEventListener("click", onClickElement);
+                plateau.appendChild(element);
+                element.innerHTML = element.id
+            }
+        }
+        function onClickElement(e) {
+            const index = e.target.id.substring(2, 5);
+            jeu[index].colorIndex = (jeu[index].colorIndex + 1) % colors.length;
+            refresh();
+        }
+
+        function refresh() {
+            for (element of jeu) {
+                element.html.style.backgroundColor = colors[element.colorIndex];
+            }
+        }
+    </script>
+</body>
+
+</html>

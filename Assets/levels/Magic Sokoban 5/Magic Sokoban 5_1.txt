@@ -1,0 +1,12 @@
+     ####
+ #####  #
+ #  $   #
+ #.#@$  #
+##. $ ###
+# .  ##
+#   ##
+#####
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 2
+Comment: C-Soko #5 Two Boxes 5 variant
+Website: mb13.allalla.com/csoko/

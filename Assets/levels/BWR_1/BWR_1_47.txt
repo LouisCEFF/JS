@@ -1,0 +1,18 @@
+ #####
+ #   #####
+ #     $ ######
+ ## ####.     #
+ #  $ $  ####.#
+ # ##... #  $ #
+ #  $..*$#$ #.#
+##$$#.*. $ @#.#
+#   # # #####.##
+# # # $ $      #
+#   #     ##   #
+################
+Author: Eric F. Tchong + David Holland + Jordi Domenech
+Title: Atlas 10 #7 Turn around - c
+Comment:
+DH (version a11): added 5 boxes
+JD (c): based on a11, removed 3 boxes, major changes in the left side
+Date: 2010.7.17 DH, 2010.7.18 JD

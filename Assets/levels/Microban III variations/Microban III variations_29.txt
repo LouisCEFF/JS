@@ -1,0 +1,12 @@
+ ######
+ #    ##
+## ##  #
+# . ## #
+# .  # #
+# .  # #
+###$$$ #
+  #@ ###
+  ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #92 LOMA 8d
+Comment: rearranged goals/boxes

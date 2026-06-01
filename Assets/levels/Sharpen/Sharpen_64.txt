@@ -1,0 +1,22 @@
+             #
+           ## ##
+          #  *  #
+         #  *$*  #
+        #  #   #  #
+       #  * *#* *  #
+      #  #   *   #  #
+     #  * *#####* *  #
+    #  #     *     #  #
+   #  * *#########* *  #
+  #  #       *       #  #
+ #  # *******#******* #  #
+#  #         *         #  #
+# #  *#####** **####**  * #
+#           * *           #
+########### *+* ###########
+          #######
+Author: Jordi Domenech + stopheart
+Title: ????????? (MF8 94th Sokoban Competition, Main)
+Comment: based on The beautiful world of remodels 3 #20 Stop wars! and happy New Year 2017: stoned many boxes/goals, moved a goal, several changes
+Date: 2017.1.13
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=106984&extra=page%3D1

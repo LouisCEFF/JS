@@ -1,0 +1,12 @@
+#####
+# @ #
+# # #####
+# $$#   #
+# $.. # #
+# *#.##$##
+# ..   $ #
+##   #   #
+ #########
+Author: Premysl Zika + Jordi Domenech
+Title: Level 56
+Comment: based on Primus gradus ad Olympo #38

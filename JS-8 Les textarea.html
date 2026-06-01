@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>textarea</title>
+    <script>
+        let allblocks = 0;
+        let allcrates = 0;
+        let allblanks = 0;
+        let allgoals = 0;
+        let allcrategoals = 0;
+        let alllayers = 0;
+        let playerPlaced = true;
+        function clear(choice) {
+            switch (choice) {
+                case "#":
+                    if (document.getElementById(`#${allblocks}`)) {
+                        for (let i = 1; i <= allblocks; i++) {
+                            let block = document.getElementById(`#${i}`);
+                            document.body.removeChild(block);
+                        }
+                        break;
+                    }
+                case "$":
+                    if (document.getElementById(`$${allcrates}`)) {
+                        for (let i = 1; i <= allcrates; i++) {
+                            let crate = document.getElementById(`$${i}`);
+                            document.body.removeChild(crate);
+                        }
+                        break;
+                    }
+                case " ":
+                    if (document.getElementById(`B${allblanks}`)) {
+                        for (let i = 1; i <= allblanks; i++) {
+                            let blank = document.getElementById(`B${i}`);
+                            document.body.removeChild(blank);
+                        }
+                        break;
+                    }
+                case ".":
+                    if (document.getElementById(`G${allgoals}`)) {
+                        for (let i = 1; i <= allgoals; i++) {
+                            let goal = document.getElementById(`G${i}`);
+                            document.body.removeChild(goal);
+                        }
+                        break;
+                    }
+                case "all":
+                    if (document.getElementById(`#${allblocks}`)) {
+                        for (let i = 1; i <= allblocks; i++) {
+                            let block = document.getElementById(`#${i}`);
+                            document.body.removeChild(block);
+                        }
+                    }
+                    if (document.getElementById(`$${allcrates}`)) {
+                        for (let i = 1; i <= allcrates; i++) {
+                            let crate = document.getElementById(`$${i}`);
+                            document.body.removeChild(crate);
+                        }
+                    }
+                    if (document.getElementById(`B${allblanks}`)) {
+                        for (let i = 1; i <= allblanks; i++) {
+                            let blank = document.getElementById(`B${i}`);
+                            document.body.removeChild(blank);
+                        }
+                    }
+                    if (document.getElementById(`G${allgoals}`)) {
+                        for (let i = 1; i <= allgoals; i++) {
+                            let goal = document.getElementById(`G${i}`);
+                            document.body.removeChild(goal);
+                        }
+                    }
+                    if (document.getElementById(`CG${allgoals}`)) {
+                        for (let i = 1; i <= allcrategoals; i++) {
+                            let crateGoal = document.getElementById(`CG${i}`);
+                            document.body.removeChild(crateGoal);
+                        }
+                    }
+                    if (document.getElementById(`L${alllayers}`)) {
+                        for (let i = 1; i <= alllayers; i++) {
+                            let layer = document.getElementById(`L${i}`);
+                            document.body.removeChild(layer);
+                        }
+                    }
+                    if (document.getElementById("@PLAYER@")) {
+                        let player = document.getElementById("@PLAYER@");
+                        document.body.removeChild(player);
+                        playerPlaced = false;
+                    }
+                    break;
+            }
+        }
+        function Creator(choice, indexLayer, indexBlock, indexCrate, indexBlank, indexGoal, indexCrateGoals) {
+            switch (choice) {
+                case "#":
+                    createBlock(indexBlock);
+                    allblocks = indexBlock;
+                    break;
+                case "$":
+                    createCrate(indexCrate);
+                    allcrates = indexCrate;
+                    break;
+                case " ":
+                    createBlank(indexBlank);
+                    allblanks = indexBlank;
+                    break;
+                case ".":
+                    createGoal(indexGoal);
+                    allgoals = indexGoal;
+                    break;
+                case "*":
+                    createCrateGoal(indexCrateGoals)
+                    allcrategoals = indexCrateGoals;
+                    break;
+                case "@":
+                    createPlayer();
+                    playerPlaced = true;
+                    break;
+                case "\n":
+                    createLayer(indexLayer);
+                    alllayers = indexLayer;
+                    break;
+            }
+        }
+        function createBlock(i) {
+            let block = document.createElement("IMG");
+            block.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png");
+            block.setAttribute("id", `#${i}`);
+            document.body.appendChild(block);
+        }
+        function createLayer(i) {
+            let br = document.createElement("br");
+            br.setAttribute("id", `L${i}`);
+            document.body.appendChild(br)
+        }
+        function createCrate(i) {
+            let crate = document.createElement("IMG");
+            crate.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png");
+            crate.setAttribute("id", `$${i}`);
+            document.body.appendChild(crate);
+        }
+        function createBlank(i) {
+            let blank = document.createElement("IMG");
+            blank.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png");
+            blank.setAttribute("id", `B${i}`);
+            document.body.appendChild(blank);
+        }
+        function createGoal(i) {
+            let goal = document.createElement("IMG");
+            goal.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png");
+            goal.setAttribute("id", `G${i}`);
+            document.body.appendChild(goal);
+        }
+        function createCrateGoal(i) {
+            let crateGoal = document.createElement("IMG");
+            crateGoal.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Crates/Crate_31.png");
+            crateGoal.setAttribute("id", `CG${i}`);
+            document.body.appendChild(crateGoal);
+        }
+        function createPlayer() {
+            let player = document.createElement("IMG");
+            player.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png");
+            player.setAttribute("id", `@PLAYER@`);
+            document.body.appendChild(player);
+        }
+    </script>
+</head>
+<!-- onload="
+document.getElementById('txtarea').value = '#'; createBlock(0)" -->
+
+<body onload="
+document.getElementById('txtarea').value = ''" ;>
+    <h1 style="margin-left: 200px;">écrivez le niveau</h1>
+    <ul>
+        <li style="margin-left: 200px;"># → block</li>
+        <li style="margin-left: 200px;">$ → caisse</li>
+        <li style="margin-left: 200px;">" " → espace vide</li>
+        <li style="margin-left: 200px;">. → espace ou mettre les caisse</li>
+        <li style="margin-left: 200px;">@ → joueur</li>
+    </ul>
+    <h3 style="margin-left: 200px;" id="warning"></h3>
+    <textarea name=" txt" id="txtarea" onchange="create()"
+        style="padding: 20px; margin: 120px; padding-right: 200px;"></textarea><br>
+    <!-- <img src="./sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block.png" alt="" id="#0"> -->
+    <script>
+        let content = "";
+        let warn = document.getElementById("warning");
+        function create() {
+            let layer = 0;
+            let blocks = 0;
+            let crates = 0;
+            let blanks = 0;
+            let goals = 0;
+            let crateGoals = 0;
+            let player = 0;
+            content = document.getElementById("txtarea").value;
+            let index = document.getElementById("txtarea").value.length;
+            clear("all");
+            for (let i = 0; i < index; i++) {
+                switch (content.substring(0 + i, 1 + i)) {
+                    case "#":
+                        blocks++;
+                        break;
+                    case "$":
+                        crates++;
+                        break;
+                    case " ":
+                        blanks++;
+                        break;
+                    case ".":
+                        goals++;
+                        break;
+                    case "\n":
+                        layer++;
+                        break;
+                    case "*":
+                        crateGoals++;
+                        break;
+                    case "@":
+                        if (player == 0) {
+                            warn.innerText = "";
+                            player++;
+                        } else {
+                            warn.innerText = "Vous pouvez place que un(e) seul joueur/euse.";
+                            return;
+                        }
+                        break;
+                }
+                Creator(content.substring(0 + i, 1 + i), layer, blocks, crates, blanks, goals, crateGoals);
+            }
+        }
+    </script>
+</body>
+
+</html>

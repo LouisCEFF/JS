@@ -1,0 +1,14 @@
+###########
+#.  $.$  .#
+# * $.$ * #
+#  .$.$.  #
+#$$$#.#$$$#
+#....@....#
+#$$$#.#$$$#
+#  .$.$.  #
+# * $.$ * #
+#.  $.$  .#
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #105 DRAPEAU ANGLAIS
+Comment: added 4 boxes and 4 walls

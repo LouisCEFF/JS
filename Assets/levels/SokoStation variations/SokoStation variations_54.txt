@@ -1,0 +1,12 @@
+#### #####
+#  ###   #
+#     *@ #####
+#  ## #$##   #
+#     # .    #
+##### ### ####
+#   * *   #
+#   ###   #
+##### #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #132 EN BAS A DROITE
+Comment: added 3 boxes, redraw map

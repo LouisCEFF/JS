@@ -1,0 +1,15 @@
+   #####
+####   #
+#      ###
+#  *#$** #
+## * * * #
+ # * * * #
+ # *@* * #
+ # ***.* #
+ #       #
+ ####  ###
+    ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Serena 6 #30 One to fix - a
+Comment: reduced map, removed a box/goal
+Date: 2013.1.29

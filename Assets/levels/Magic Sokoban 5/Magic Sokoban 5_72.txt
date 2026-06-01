@@ -1,0 +1,12 @@
+#####  ####
+#   ####  #
+#         #
+## #####  #
+##$# @ # ###
+# $ .#$#$  #
+# # . $    #
+# ...#######
+######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 73
+Comment: based on TBox #34

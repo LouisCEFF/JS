@@ -1,0 +1,14 @@
+       ####
+########  #
+#       * #
+#  #####  #
+# *    #  #
+#  # *   ##
+##### #   #
+#    .#   #
+#@$$#.#####
+#     #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #151 DEUX A LA FOIS
+Comment: added a wall, moved a goal, some changes in the right

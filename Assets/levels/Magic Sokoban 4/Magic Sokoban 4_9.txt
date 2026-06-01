@@ -1,0 +1,10 @@
+####
+#  ####
+#     #
+#.$**.#
+#.*+$.#
+# $$$ #
+#     #
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 10 A Little Something 3

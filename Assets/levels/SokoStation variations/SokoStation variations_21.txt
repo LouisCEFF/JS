@@ -1,0 +1,12 @@
+#########
+#.$ @  .#
+#.$$$$$.#
+#. $. $.#
+#.$.*.$.#
+#.$ .$ .#
+#.$$$$$.#
+#.    $.#
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #52 RADIATIONS
+Comment: added 4 boxes

@@ -1,0 +1,11 @@
+ ####
+ #  ###
+ #$.  #
+ # .# #
+##$.  #
+# $ ###
+# @ #
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #20
+Comment: moved a goal

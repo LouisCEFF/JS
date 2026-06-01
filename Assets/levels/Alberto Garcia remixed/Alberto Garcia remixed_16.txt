@@ -1,0 +1,13 @@
+#####
+#   ##
+# $$ #
+# .# #
+##.#@##
+# .$$ #
+# .   #
+# # ###
+#   #
+#####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 17
+Comment: Sokomania #4

@@ -1,0 +1,16 @@
+#############
+# #      #  #
+# #$####... #
+# #.$  $.@.##
+# #. $  ... #
+# #$ *$  $# #
+# #.$  $  # #
+# #. $ *$ # #
+# #$  $  $# #
+# . $..$..$ #
+# $.#########
+#           #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #180 BONNE ANNEE 2004
+Comment: added 4 walls, 2 boxes

@@ -1,0 +1,8 @@
+ ######
+## .$ #
+#  $$ #
+#@.  .#
+#######
+Author: Jordi Domenech
+Title: Level 16
+Limit: 26

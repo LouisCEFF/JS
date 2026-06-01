@@ -1,0 +1,14 @@
+  #########
+  #...... #
+  #..#### #
+### $$  # #
+# $ @  $# #
+# #$##$   #
+#  $  $ ###
+#   #   #
+#########
+Author: Mic + Jordi Domenech
+Title: Level of the Month 01/98 a
+Comment: added a wall
+Date: 2011.12.24
+Note: published with permission from Mic

@@ -1,0 +1,16 @@
+ ###### ###### ##### ######
+##    ###    ###   ###    ##
+# ***. # .**. #   . # .*** #
+# *  * # *$ * # $** # *  * #
+#    * #$*  * #$.$.$# *  * #
+### *@ $ . $. $  $. $ . $.##
+#  * # # *  *$#$  .$# *  * #
+# *  # # *  * # $$* # * $* #
+# **** # ***. # .*..# ***. #
+##    ##     ###    #     ##
+ ############# ############
+Author: Mic + Jordi Domenech
+Title: Level of the Month - January 2000/1
+Comment: change "2000" to "2010", added 8 walls
+Date: March 2010
+Note: published with permission from Mic

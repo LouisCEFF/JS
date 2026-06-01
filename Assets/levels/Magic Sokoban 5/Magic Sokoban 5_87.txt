@@ -1,0 +1,11 @@
+ ########
+##      #
+#  #### ##
+#  #  #  #
+#  #..** ##
+# $$  #   #
+#  #  # @ #
+###########
+Author: Premysl Zika + Jordi Domenech
+Title: Level 88
+Comment: Primus gradus ad Olympo #26 variation

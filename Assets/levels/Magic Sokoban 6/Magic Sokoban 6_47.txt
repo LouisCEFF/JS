@@ -1,0 +1,15 @@
+ ####
+##  #####
+#   #   #
+#   # # ##
+# $#  * .##
+# $  # #. #
+#*## # #. #
+#      # *#
+######$#  #
+    #  @  #
+    #  *  #
+    #######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 48
+Comment: SE 1532 extension

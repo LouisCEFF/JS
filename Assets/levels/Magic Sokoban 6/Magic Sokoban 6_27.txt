@@ -1,0 +1,11 @@
+ ##########
+ #        #
+ # # # ## #
+ # * * *  #
+## * * * ##
+#. *#* $ #
+#    * @##
+#########
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 28
+Comment: 81 #16 variation

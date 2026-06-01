@@ -1,0 +1,15 @@
+   ####
+ ###  #####
+ # $$ #   #
+ # $ ...$$##
+ # .* #* $ #
+###.#   .  #
+#  .   #.###
+# $ *# *. #
+##$$... $ #
+ #   # $$ #
+ #####@ ###
+     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #144
+Comment: rearranged 4 goals/boxes

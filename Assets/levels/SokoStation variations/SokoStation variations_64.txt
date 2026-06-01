@@ -1,0 +1,11 @@
+       #####
+    ####   #
+#####  ..# #
+#   # #..$ ###
+#   $  $ $   #
+#######$#$## #
+      #  @.. #
+      ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #142 LE BULBE RACHIDIEN (b)
+Comment: moved some goals, relocate boxes

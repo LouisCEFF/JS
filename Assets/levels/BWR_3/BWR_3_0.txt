@@ -1,0 +1,17 @@
+     #########
+     #       #
+###### ##### #
+#      #  #  #
+# ###### *$* #
+#        * * #
+## ****  * * #
+ # *  *  * * #
+ # * .**** * #
+ # *       * #
+ # ********* #
+ #     @     #
+ #############
+Author: Eric F. Tchong + A1master + Jordi Domenech
+Title: 1,000,001 candlelights #55 Dushi 05 small J-pond - a
+Comment: based on A1master version, moved a wall, major changes at the top
+Date: 2015.4.22

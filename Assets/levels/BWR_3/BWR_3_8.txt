@@ -1,0 +1,20 @@
+ #####
+ #   #########
+ #           #
+ ##$######## #
+ #         # #
+ #**###### # #
+ # *     # # #
+ # * *** # # #
+ # * * * # # #
+ # * * . # # #
+## * *   # # #
+#  * ##### # #
+#  *       # #
+## **####### #
+ #     @     #
+ #############
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 10 #26 Game room parlor (B)
+Comment: stoned 3 boxes/goals, added a box, major changes at the top and the right side
+Date: 2015.5.22

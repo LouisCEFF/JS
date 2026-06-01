@@ -1,0 +1,13 @@
+#############
+#  #  #@ #  #
+#  #  #  #  #
+# $#$ # $#$ ####
+#   ..$..$..$. #
+# .$..$..$..   #
+#### $#$ # $#$ #
+   #  #  #  #  #
+   #  #  #  #  #
+   #############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #308 TROIS OU QUATRE
+Comment: added 2 boxes

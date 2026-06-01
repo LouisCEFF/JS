@@ -1,0 +1,23 @@
+      #####
+ #### #   #
+ #  ### # #
+ #$  $    #
+## ...## ##
+# $##..$$####
+# @ ...#    #
+# $#$#.####.#
+## $. ......#
+ # ##$#### .#
+## $    $ # #
+#  $  $ $   #
+#  $  $ $ $##
+#  ######  #
+####    ####
+Author: Eric F. Tchong + Jordi Domenech + zhenying
+Title: Chuchubi 14 #39 Snappy circuit - a2
+Comment:
+zhenying (version a): removed a box, stoned 2 floors, added a wall, rearrange goals
+JD (a1): based on a, removed a box, added 2 walls, rearrange some goals
+zhenying (a2): based on a1, added a wall and a floor, moved 2 goals
+Date: 2011.10.20 zhenying, 2011.11.1 JD, 2011.11.2 zhenying
+URL: http://blog.163.com/changkai_8428/blog/static/7745191820111012388407/

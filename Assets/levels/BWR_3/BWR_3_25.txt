@@ -1,0 +1,17 @@
+#######
+#     ########
+# ### #   #  #
+# # $ #$  $$ #
+# $ $$   #   #
+#    ##  # ###
+# @##### * . #
+####...##$   #
+   #..     ###
+   #..   ###
+   #######
+Author: Joseph L. Traub + DrFogh + Jordi Domenech
+Title: XSokoban #83 Resharpened+
+Comment:
+DrFogh (Resharpened): added 3 boxes, reduced map, major changes
+JD: based on Resharpened version, simplification, major changes
+Date: 2017.7.27 DrFogh, 2017.7.28 JD

@@ -1,0 +1,13 @@
+###########
+#         #
+# #*#$#*# #
+# # # # # #
+# #  @  # #
+# *  #  * #
+# #**.**# #
+#    #    #
+###  ######
+  ####
+Author: SokoWind + Jordi Domenech
+Title: Level 40
+Comment: Riddle Sokoban #11 arranged

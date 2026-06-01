@@ -1,0 +1,13 @@
+#######
+#  #  #
+# *$* #
+# ... #
+# $*$ #
+#  *  #
+# $*$ #
+# .+. #
+# *$* #
+#  #  #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #348 OLDSCHOOL GAME

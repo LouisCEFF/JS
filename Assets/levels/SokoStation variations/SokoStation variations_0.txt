@@ -1,0 +1,15 @@
+       ####
+    ####  #
+    #   $ #
+    #  #  #
+######$# ##
+#      # #
+#   #  # #
+#####$## ###
+#@      .. #
+######$# # #
+     #  .. #
+     #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #2 PAS DE PIEGE
+Comment: added 3 boxes, deleted a wall

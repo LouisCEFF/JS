@@ -1,0 +1,17 @@
+ ########
+ #      #
+##$#### #
+#  $..# #
+# $#  $ #
+# @#..# #
+#  #  # #
+# $#.*# #
+#  $. $ #
+# $#..# #
+#  #### #
+##      #
+ ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin274 a
+Comment: added a box, stoned 3 floors
+Date: July 2010

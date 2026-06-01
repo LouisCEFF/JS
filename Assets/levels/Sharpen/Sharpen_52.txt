@@ -1,0 +1,26 @@
+                   #####
+  ##################   #
+  # .# $ $ $ $ $ $ $   #
+  # ...............## ##
+  # .################ ##
+  ##.# $ $ $ $ $   $   #
+   #.#           #     #
+####.############## #$##
+#@ *. #  #    #   # $ #
+#.**.... # #    $ # # #
+#..####$ # # ### ## # #
+# #      # #   # ## # #
+# $  $ $ # # # # ## # #
+#### ##### # $ # ## # #
+   #       # #   ## # #
+   #$ # #$##$###$## # #
+   #  # # $ $ # $     #
+   ####       #   #####
+      #############
+Author: TIAOA + Jordi Domenech + anian + gyjgw
+Title: SBM 32+ a5x
+Comment: 
+JD (SBM 32+): added 2 boxes, major changes
+anian (a2-a3): based on SBM 32+, added 2 boxes
+gyjgw (a5x): based on a3, added 2 boxes, 5 floors
+Date: 2013.10.4 JD, 2013.10.7 anian, 2013.10.9 gyjgw

@@ -1,0 +1,32 @@
+#######################
+#                     #
+#.###################*#
+# #...#            @# ##
+# #.**# $$######  $$#  #
+#.#.. $$$       $#     #
+#  $*.#   $$$$$$$ # #  #
+# #   ###. . ...#.. .###
+#$################## $ #
+#              .       #
+#.#############*########
+#.#            .#
+# # # $ $  $$$$.###
+# $*##$$ ### . . .#
+### # .### ##.*.#*##
+ # .  ##    #.* #  #
+ # ###########*##  ###
+ #                   #
+ ############ * #$$$ #
+            ##.##    #
+            # $   ####
+            #   ###
+            #####
+Author: Carlos Montiers & Eric F. Tchong + stopheart + Jordi Domenech
+Title: Beautiful - f2a
+Comment:
+stopheart (version a): stoned 8 goals, added a wall, rearrange boxes/goals
+JD (a2): based on a, simplification (removed 11 boxes), small changes at the top and major changes at the bottom
+stopheart (b to f1): based on a2, major changes at the whole level
+JD (f2a): based on f1, stoned a box/goal, moved a box and a goal
+Date: 2010.10.15-18 stopheart/JD
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=43

@@ -1,0 +1,16 @@
+         ####
+    ######  #
+    # ..... #
+  ### .###* #
+  #   *## . #
+  # #    $. #
+  # $ # $$###
+####  ### #
+#  #  #   #
+# $$$$    #
+#    ######
+## @##
+ ####
+Author: dahkjdas + Jordi Domenech
+Title: Level 58
+Comment: based on da 58 levels #53

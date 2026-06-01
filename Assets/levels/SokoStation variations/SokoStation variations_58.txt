@@ -1,0 +1,10 @@
+###############
+# .    $    . #
+# .$ $ @ $ $. #
+##.#########.##
+# .$ $ # $ $. #
+# .    $    . #
+###############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #134 TRUC DE FOU (b)
+Comment: added a wall, moved 2 boxes

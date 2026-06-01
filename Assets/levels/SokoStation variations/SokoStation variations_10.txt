@@ -1,0 +1,16 @@
+      #####
+      #   ##
+      #  * #
+######## # ##
+#        #  #
+#   $ $  #$ #
+## #######  #
+#.**.*.. #$ #
+#....... #  #
+####### ##$ #
+# $ $ $$$ $ #
+#          @#
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #33 L'ENTREPOT QUI TUE (b)
+Comment: stoned many floors, added 2 boxes

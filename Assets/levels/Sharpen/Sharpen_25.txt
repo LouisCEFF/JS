@@ -1,0 +1,23 @@
+###################
+#       #. ###..* #
+#.$ $   $*.##   $.#
+#.#######..## ## .#
+#.####### ###$## .#
+#      $       $*##
+### ##*##$## ### ##
+## $ # ...##   $@##
+##$ $#$.#.## $  ###
+# $  # ... # ###  #
+# $ $ # *$ $   $$ #
+#    $$ #  # #$#  #
+#  $#  #####.  .*.#
+##   $$$ $  .# .*.#
+##        #### ...#
+###################
+Author: Bruno Druille + Jordi Domenech + stopheart
+Title: Tableau 75 c
+Comment: 
+JD (version b): added 5 boxes, 2 walls, stoned 3 floors, rearrange some goals
+stopheart (c): based on b, stoned many floors, rearrange some goals
+Date: 2010.9.29 JD, 2011.7.15 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=59

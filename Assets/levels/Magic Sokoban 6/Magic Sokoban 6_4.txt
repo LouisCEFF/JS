@@ -1,0 +1,10 @@
+########
+#      #
+# #... #
+#   # ##
+##$$$ #
+ #  @ #
+ ######
+Author: Ian Parberry + Jordi Domenech
+Title: Level 5
+Comment: based on Set 2 #52

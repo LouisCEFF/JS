@@ -1,0 +1,13 @@
+     #####
+     #   #
+    ##$# #
+   ##. $ #
+  ##  *  #
+###. * .##
+# $ * ###
+# #$ .#
+# @  ##
+######
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 44
+Comment: based on Puzzle #27

@@ -1,0 +1,12 @@
+##########
+#  $   . #
+# $#$#.#.#
+#  $ * * #
+## #.@.# ##
+ # * * $  #
+ #.#.#$#$ #
+ # .   $  #
+ ##########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 2 #32 4x4 skewed
+Comment: added 4 boxes

@@ -1,0 +1,12 @@
+   ######
+#### .  #
+#   $.# #
+# ##$.$ #
+# $ $.$##
+# #  . #
+# ###. #
+#   @ ##
+#######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 58
+Comment: kbr1462 variation B

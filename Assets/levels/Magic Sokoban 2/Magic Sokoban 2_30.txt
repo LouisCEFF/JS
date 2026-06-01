@@ -1,0 +1,11 @@
+ ####
+ #  #####
+ #  ..  #
+ # #..  #
+##$### ##
+# $  $$#
+#    @ #
+#  #####
+####
+Author: Jordi Domenech
+Title: Level 31 Tiny square 1001

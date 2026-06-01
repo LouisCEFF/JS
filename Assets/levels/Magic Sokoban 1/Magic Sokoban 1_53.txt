@@ -1,0 +1,10 @@
+#########
+#      .##
+# #####. #
+# $ $ $. #
+# # # #* #
+# $ $ $. #
+#   ..# @#
+##########
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 54 Delaporte #73 variant

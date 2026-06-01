@@ -1,0 +1,14 @@
+###########
+# #       #
+# #$# #$# #
+#  $.$.$. #
+# #.#.#.# #
+#@$$.$.$* #
+# #.#.#.# #
+#  $.$.$. #
+# #$# #$# #
+#         #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #76 EN DECALAGE
+Comment: added 6 boxes, a wall

@@ -1,0 +1,12 @@
+  ######
+### .  #
+#   $#$##
+# # .#. #
+# @ $#$ #
+### .$. #
+ #  $#$ #
+ #  . . #
+ ########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #31 Seashell
+Comment: change box for wall, added a wall

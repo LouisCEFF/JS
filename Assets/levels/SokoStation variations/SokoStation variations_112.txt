@@ -1,0 +1,15 @@
+  #####
+  #   #
+###$ $###
+# $...$ #
+#  .#.  #
+# $...$ #
+###$ $###
+ #. . .#
+ # $$$ #
+ #.$@$.#
+ # $$$ #
+ #. . .#
+ #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #379 CHAMPIMIGNON

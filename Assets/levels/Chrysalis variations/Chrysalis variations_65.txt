@@ -1,0 +1,16 @@
+   ######
+####    #####
+#  # ##$#   #
+#  # #. . $ #
+#   .$.###$##
+##.#$ .$ # #
+ # #  +  # #
+ # # $.$$#.##
+##$###.$.   #
+# $ . .# #  #
+#   #$## #  #
+#####    ####
+    ######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 4 #37 Trapdoors
+Comment: added 5 boxes

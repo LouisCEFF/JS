@@ -1,0 +1,11 @@
+#######
+#     #
+# .#$ #
+# . $ #
+# .#$##
+# .  #
+# *$$#
+##.@ #
+ #####
+Author: David Buchweitz
+Title: Level 25 Simple Six

@@ -1,0 +1,14 @@
+         #####
+#####    # @ #    #####
+#   ###### # ######   #
+# $$#    #...     #$$ #
+# $   .#$#.#.#$#.   $ #
+# $ #     ...#    # $ #
+#   ######## ######   #
+#####    #   #    #####
+         # # #
+         #   #
+         #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #51 BOING 747
+Comment: added 2 boxes and 3 walls, deleted some floors

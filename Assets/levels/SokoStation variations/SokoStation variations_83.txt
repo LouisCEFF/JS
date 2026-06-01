@@ -1,0 +1,14 @@
+ # # # # ###
+         #  #
+####### # * ##
+#. . .## *   #
+# $$$ # * *  #
+#.$+$.$  * $.#
+# $$$ # * *  #
+#. . .## *   #
+####### # * ##
+         #  #
+ # # # # ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #235 MISE EN ORBITE
+Comment: added a box, 2 walls

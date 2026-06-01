@@ -1,0 +1,20 @@
+    ###########
+ ####    .    ####
+ #    # $.# #    #
+ # ## #$$.$ #$## #
+## #    #*$ $  # ##
+# $$ #### # ## $  #
+#....*... ...*....#
+# #  ##$#*# ##### #
+# ##$  $ .#$ $    #
+#  $ # $ . @### ###
+#### ##$#.$$##  #
+   #     .  $  ##
+   #############
+Author: Yasuhiro Morita + Jordi Domenech + stopheart
+Title: Sokoban Perfect #103 b1
+Comment: 
+JD (version a): extension, added 10 boxes
+stopheart (b-b1): based on a, change 2 boxes for walls, added a wall
+Date: 2010.8.11 JD, 2010.8.12 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=29

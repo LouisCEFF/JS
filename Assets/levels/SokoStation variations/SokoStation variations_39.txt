@@ -1,0 +1,16 @@
+#############
+#   *   *   #
+# $ # * # $ #
+#   *   *   #
+#*#*******#*#
+#   * # *   #
+# . * + * . #
+#   *   *   #
+#*#*******#*#
+#   *   *   #
+# * # $ # * #
+#   *   *   #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #88 TIC TAC TOE (b)
+Comment: stoned some boxes, added a wall

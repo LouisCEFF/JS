@@ -1,0 +1,19 @@
+###### ####
+#    ### @###
+# $$ $ # $$ #
+#   $#  $ $ #
+#### ### #$ #
+   #.... #  #
+   #..## ## #
+  ##....    #
+  #....#$####
+  # #### #
+ ## ##   #
+ #  # $  #
+ # $ $ $##
+ #  #   #
+ ########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #114 a
+Comment: simplification
+Date: 2010.8.20

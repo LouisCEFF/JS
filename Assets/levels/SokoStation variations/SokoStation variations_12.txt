@@ -1,0 +1,12 @@
+#########
+#.# $  .#
+# . $#.##
+# #+$.  #
+#$$$*$$$#
+#  .$.# #
+##.#$ . #
+#.  $ #.#
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #36 LE TOURNIQUET
+Comment: added 8 walls

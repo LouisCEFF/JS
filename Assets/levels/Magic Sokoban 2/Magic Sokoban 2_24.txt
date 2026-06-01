@@ -1,0 +1,11 @@
+   ####
+####@ #
+#  $$$##
+# ##   #
+# #  # #
+#  ... #
+#  #   #
+########
+Author: Evgeny Grigoriev + Jordi Domenech
+Title: Level 25
+Comment: based on grigr2001 #55

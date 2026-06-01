@@ -1,0 +1,14 @@
+#####
+#...####
+#...#  #
+## $$  #
+ #     #
+####$ ##
+# $ $ #
+#   $ #
+## @ ##
+ #####
+Author: Marcus Hof + Jordi Domenech
+Title: Revenge 22 #13
+Comment: removed a box/goal, change wall for a goal
+Date: 2011.7.8

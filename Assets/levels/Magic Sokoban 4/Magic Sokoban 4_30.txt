@@ -1,0 +1,14 @@
+###########
+#.        #
+# #####.# #
+# #  *  # #
+# . $#$ # #
+# #$ # $# #
+# # $#$ . #
+# #  *  # #
+# #.##### #
+#@       .#
+###########
+Author: Lord Shedoshi + Jordi Domenech
+Title: Level 31
+Comment: Level 1225 variant

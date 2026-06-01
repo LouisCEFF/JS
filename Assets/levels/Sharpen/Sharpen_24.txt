@@ -1,0 +1,20 @@
+  #####
+###   ##
+#   #  #
+# # $$ ##########
+# $$   ##  #    #
+##   $ ##.$$$ # #
+ # #$ $$ *.#. $ #
+ # @$  #.....$ ##
+ ##### .##*#.###
+   #  #.*....#
+   #  $   *###
+   #   #   #
+   #########
+Author: Yasuhiro Morita + Jordi Domenech + stopheart
+Title: Sokoban Perfect #121 b
+Comment:
+JD (version a): added 2 boxes, a wall, major changes in the bottom left
+stopheart (b): based on a, added a box, moved 2 goals
+Date: 2010.8.21 JD, 2010.8.22 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=33

@@ -1,0 +1,16 @@
+#######
+#  #  # #####
+# *$  ###   #
+#  #      $ #
+## ##*####$##
+ #   .#  # #
+ # #$*.*.# #
+ #  $.#  # ##
+ # ##.####  #
+ #  @$    . #
+ #########  #
+         ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #319 ZOGOBAD
+Comment: added 5 boxes, deleted a wall, added 2 floors
+Published in The Beautiful World of Remodels, 2 #6

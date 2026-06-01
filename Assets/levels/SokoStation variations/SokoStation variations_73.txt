@@ -1,0 +1,13 @@
+  #######
+  #    .#
+  # # * #
+  # #*$ #
+  # * # #
+###*  # #
+# *  ## #
+#.$     #
+# @######
+####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #185 YAPUKA YFOKON
+Comment: added 2 boxes, some changes

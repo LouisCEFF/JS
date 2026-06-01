@@ -1,0 +1,17 @@
+     ########
+######     @#
+#    $ #$## #
+# #$## #. $ #
+# # .$ $ .# #
+# $. #.## # ##
+# ## #... $  #
+#  $ ...# ## #
+## # ##.# .$ #
+ # #. $ $. # #
+ # $ .# ##$# #
+ # ##$# $    #
+ #      ######
+ ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #9 TRAVAIL A LA CHAINE
+Comment: added 4 boxes

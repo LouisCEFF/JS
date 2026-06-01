@@ -1,0 +1,18 @@
+ #######
+ #     #
+ # $$  #
+ #  $###
+ # #  #
+ # #$ #
+ # #  #
+## ##.#
+#    .########
+# ###...     #
+#   #.#### $ #
+### #.# $ $$ #
+  #  .  @ #  #
+  #########  #
+          ####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #126 (b)
+Comment: moved a goal, added a wall

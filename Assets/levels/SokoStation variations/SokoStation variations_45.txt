@@ -1,0 +1,11 @@
+##########
+#. . . . #
+#$.$.$.$.#
+#.$.$+$.$#
+#$.$.$.$.#
+# $ $ $ $#
+##       #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #107 UN SIMPLE DECALAGE
+Comment: added a wall, change start player position

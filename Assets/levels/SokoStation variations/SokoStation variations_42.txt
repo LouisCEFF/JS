@@ -1,0 +1,13 @@
+##########
+##   ##  #
+#  $. ## #
+# $. * ###
+# . . $ ##
+## * $ * #
+### $ +  #
+# ## * ###
+#  ##  # #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #102 DIAGOBAN
+Comment: added 3 boxes, 2 walls

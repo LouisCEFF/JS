@@ -1,0 +1,16 @@
+ ####
+ #  #
+ #  ######
+ #   $   #
+##$##$#$ #
+#   #... ###
+#    .+.#  #
+##$##...$  #
+ #  ##$##  #
+ #  #  ##$##
+ #  #  $   #
+ ####  #   #
+    ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 46
+Comment: based on kbr1205

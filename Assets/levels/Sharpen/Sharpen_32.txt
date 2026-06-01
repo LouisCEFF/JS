@@ -1,0 +1,20 @@
+  #########
+ ##   .   ##
+##.*** ***.##
+# *$  *  $* #
+# *  * *  * #
+# * * $ * * #
+#. * $#$ * .#
+# * * $ * * #
+# *  * *  * #
+# *$  *  $* #
+##.*** ***.##
+ ##   +   ##
+  #########
+Author: Eric F. Tchong + Jordi Domenech + stopheart
+Title: Chuchubi 13 #27 Robot square - b
+Comment: 
+JD (version a): added a wall, moved 4 boxes and 8 goals
+stopheart (b): based on a, added 8 walls
+Date: 2011.5.20 JD, 2011.8.24 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=54431&extra=page%3D1&page=9

@@ -1,0 +1,19 @@
+           ####
+ ###########  #
+ #          $ #
+ # $##$#####  #
+ #  #    $ # ##
+##$$# $    $ #
+#   ####$  # #
+# # $ .#   # #
+# ## $.##### ##
+#  ##..*.$ $  #
+##  ##...... @#
+ ##  ##.#######
+  ##   .#
+   ######
+Author: Mic & Hir + Jordi Domenech
+Title: Level of the Month 06/99 a
+Comment: added a wall, rearrange some goals/boxes
+Date: 2011.12.25
+Note: published with permission from Mic

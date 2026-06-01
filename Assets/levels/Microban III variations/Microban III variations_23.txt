@@ -1,0 +1,16 @@
+  #########
+  #       #
+### # # # ###
+#  $.$.$.$  #
+# #.$.$.$.# #
+#  $.# #.$# #
+# #.$ @ $.# #
+# #$.# #.$  #
+# #.$.$.$.# #
+#  $.$.$.$  #
+### # ### ###
+  #       #
+  #########
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #57 (b)
+Comment: added 3 walls

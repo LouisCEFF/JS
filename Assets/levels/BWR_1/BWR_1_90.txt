@@ -1,0 +1,17 @@
+#############
+#       #   #
+# #**#$*  . #
+# *  * * *  #
+# * #* ** ###
+# *  * * *  #
+# #.*#@*$ * #
+#        #  #
+#############
+Author: Jordi Domenech + laizhufu + Jordi Domenech
+Title: OK
+Comment:
+JD: built the letter K
+laizhufu: added the letter O
+JD: added a wall in the middle letter O
+Date: 2011.4.4
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=6

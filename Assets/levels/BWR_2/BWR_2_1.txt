@@ -1,0 +1,13 @@
+#########
+##      #
+#  .**$ #
+# . $@* #
+# *###* #
+# .   * #
+# $*.*$ #
+#   #   #
+#########
+Author: Sven Egevad + Jordi Domenech
+Title: SE 388 a
+Comment: added a wall
+Date: 2011.7.18

@@ -1,0 +1,10 @@
+#######################
+# $ .. $ . . $ .. $   #
+#   ##   # #   ##   # #
+##$####$##@##$####$## #
+#   ##   # #   ##   # #
+# $ .. $ . . $ .. $   #
+#######################
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 2 #7 Tetrissy
+Comment: reduction map

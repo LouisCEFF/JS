@@ -1,0 +1,26 @@
+   #####          ####
+   #   ############  #
+   #                 #
+   ## ## ########### #
+ ###   #  #   ##   # ###
+ # .$   #$$$#.$ $# $$$ #
+ #$.*.$ #   #.*. #.  . #
+ # .$$* #.**#. #.#.$#. #
+##$.  .#.$ . .$$* *  *##
+#  *** # ...#... # *..###
+# $$ $## $$$# $$$#  #*  #
+#      #  # #  # ##*.$  #
+###### ##   #    #  #####
+     # ########### ##
+     #      @      #
+     ###############
+Author: Carlos Montiers + Jordi Domenech + niwa + anian
+Title: Habibti - dx
+Comment: 
+JD (version a): major changes
+niwa (b-c): based on a, added some walls, rearrange some boxes
+anian (cx): based on c, some changes in the top left
+niwa (d): based on cx, major changes
+anian (dx): based on d, added a wall
+Date: 2012.3.27 JD, 2012.4.6 niwa, 2012.4.7 anian, 2012.4.12 niwa, 2012.4.14 anian
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=75

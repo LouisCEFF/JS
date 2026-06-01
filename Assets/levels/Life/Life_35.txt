@@ -1,0 +1,15 @@
+###################
+#        .        #
+# #######*####### #
+# #  * * * * *  # #
+# # * * * *@* * # #
+# #  * * * * *  # #
+# # * # * * # * # ##
+# #  * * * * *  #  #
+# # * * * * * * $$ #
+# .             #  #
+####################
+Author: Jordi Domenech
+Title: Zhenying magic board
+Comment: 
+From an idea by Zhenying.

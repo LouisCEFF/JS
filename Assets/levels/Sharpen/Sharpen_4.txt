@@ -1,0 +1,31 @@
+           #
+          # #
+         # *.#
+        # $ *.#
+       # $ * *.#
+      # $ * * *.#
+     # $ * * * *.#
+    # $ * * * * *.#
+   # $ * * * * * *.#
+  # $ * * * * * * *.#
+ # $ * * * * * * * *.#
+#@$ * $ * $ * $ * $ * #
+ # * * * * * * * * *.#
+  # * * * * * * * *.#
+   # * $ $ $ $ $ *.#
+    # * * * * * *.#
+     # * * * * *.#
+      # * * * *.#
+       # * * *.#
+        # * *.#
+         # *.#
+          # #
+           #
+Author: Kevin B. Reilly + Jordi Domenech + stopheart + Tian Lang
+Title: kbr1067 c
+Comment: 
+JD (version a): extension
+stopheart (b): based on a, rearrange boxes
+TL (c): based on b, rearrange 9 boxes 
+Date: March 2010 JD, 2010.3.23 stopheart/TL
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=2

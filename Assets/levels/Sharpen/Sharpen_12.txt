@@ -1,0 +1,22 @@
+       #####
+       #   #
+######## # #
+#  $     $ #
+# ######$  #
+#. $   #@$##
+## . * #$ #
+ # * . # $#
+ ##.#* .*.#
+ # $#  *..##
+ #  # #.*. #
+ # $  #  $ #
+ ####   ####
+    #####
+Author: Eric F. Tchong + Jordi Domenech + David Holland + niwa
+Title: Chuchubi 11 #36 Suzette - c
+Comment:
+JD (version a): added a wall, some changes in the bottom, rearrange some boxes/goals
+DH (a2): based on a, moved 4 goals
+niwa (c): based on a2, stoned a box, moved several boxes, reduced map
+Date: 2010.7.3 JD, 2010.7.5 DH, 2011.4.20 niwa
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/4437

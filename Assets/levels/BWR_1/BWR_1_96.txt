@@ -1,0 +1,22 @@
+    #     #
+     #   #
+      # #
+####### #######
+#     ###     #
+# ***. @ .*** #
+# *  # # #  * #
+# *    *    * #
+# *#**#*#**#* #
+##   * * *   ##
+ ##  * # *  ##
+  # *  *  * #
+ # $  ###  $ #
+ #* # # # # *#
+ #    # #    #
+  ####   ####
+Author: laizhufu + Jordi Domenech
+Title: ??512 (512 Wenchuan) - a
+Comment: stoned 4 boxes/goals, added 6 walls and 2 floors, removed 2 boxes
+Note: 512 is the code for the May 12, 2008 magnitude 8.0 Wenchuan earthquake, one of the most destructive earthquakes to occur around the world in recent decades. About 70,000 people died, and 400,000 were injured.
+Date: 2011.7.2
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=17

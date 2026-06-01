@@ -1,0 +1,11 @@
+####  ####
+#  ####  #
+#  #..#  #
+# $# .  $##
+#  $ .#$  #
+#  ##.# $ #
+#     #  @#
+###########
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #69
+Comment: added 2 boxes, rearranged goals

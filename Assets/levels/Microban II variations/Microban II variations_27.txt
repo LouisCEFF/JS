@@ -1,0 +1,15 @@
+     ######
+    ## .  ##
+    #. .$  #
+    #.  #  #
+    ## ##  #
+   ##  #####
+  ## $ #
+ ## $  #
+## $  ##
+# $  ##
+#.@ ##
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #87
+Comment: added a box, stoned 2 floors

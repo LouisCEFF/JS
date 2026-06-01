@@ -1,0 +1,23 @@
+          #######
+          #     #
+   ########   $ #
+   #      ## ## ##
+   # $ $# $   #  #
+   # $    $#$ #$ #
+   ##   # $   #  #
+   ## $## ## #...#
+  ##   #  $ ...#.#
+ ##  $##$$$ #*##.#
+ #  $$    ##...#.#
+##$$$  $ ###*..#.##
+#@$     ## #..#.. #
+# ##$#######..*.* #
+# $         .*.####
+################
+Author: Bruno Druille + David Holland + Jordi Domenech
+Title: Tableau 72 c2
+Comment:
+JD (version a): removed 7 boxes, reduced map and major changes
+DH (b): based on a, added 8 boxes
+JD (c2): based on b, change 5 boxes for walls, removed 6 boxes, stoned 4 floors (right side), major changes in the upper left
+Date: 2010.8.9 JD, 2010.8.10 DH/JD

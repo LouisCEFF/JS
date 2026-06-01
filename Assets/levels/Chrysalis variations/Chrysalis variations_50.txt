@@ -1,0 +1,13 @@
+    #####
+    #   ###
+   ## #   #
+####  $ $ #
+# ...#$#$ #
+# . . $@$ #
+# .#.#$$$ #
+# . .   ###
+#  ######
+####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #48 Springs
+Comment: added a box, stoned some floors in the bottom

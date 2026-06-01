@@ -1,0 +1,10 @@
+#########
+#.....  #
+#   . $ #
+#### ####
+# $     #
+# $$$ $ #
+# @ #   #
+#########
+Author: Hirohiko Nakamiya + Jordi Domenech
+Title: Level 13 Monster Sokoban #3-6 variant

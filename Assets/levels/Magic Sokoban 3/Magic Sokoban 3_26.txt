@@ -1,0 +1,10 @@
+########
+#      ###
+# ####   #
+# #  # # ##
+# #    $  #
+# # ###$$ #
+#   ...@###
+#########
+Author: Premysl Zika + Jordi Domenech
+Title: Level 27 #196 variant

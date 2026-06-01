@@ -1,0 +1,8 @@
+  ###
+###+####
+#  $$  #
+#   .  #
+########
+Author: Jordi Domenech
+Title: Level 4
+Limit: 16

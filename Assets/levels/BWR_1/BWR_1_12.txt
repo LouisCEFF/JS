@@ -1,0 +1,25 @@
+     #########
+     # . # . #
+     # $ # $ #
+     # * # * #
+     # * # * #
+###### * $ * ######
+#      * # *      #
+#.$****# # #****$.#
+#       *.*       #
+#####$##.#.##$#####
+#       *+*       #
+#.$****# # #****$.#
+#      * # *      #
+###### * $ * ######
+     # * # * #
+     # * # * #
+     # $ # $ #
+     # . # . #
+     #########
+Author: David Dahlem + minglw + Jordi Domenech
+Title: First collection #32 Double cross - c
+Comment:
+minglw: added a box, a wall, moved 4 boxes
+JD: added 2 walls, exchange the position of 4 walls and boxes
+Date: March 2010

@@ -1,0 +1,16 @@
+   ######
+   #  . #
+   #  $ #
+   ## #######
+#####   ##  #
+#  #  *     #
+#.$# *+* #$.#
+#     *  #  #
+#  ## $ #####
+####### ##
+    # $  #
+    # .  #
+    ######
+Author: David W. Skinner + Jordi Domenech
+Title: Microban III #23 (a)
+Comment: added a box, stoned many floors

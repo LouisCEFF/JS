@@ -1,0 +1,14 @@
+   #####
+####   #
+#  $ @ #
+# $ #.#####
+#  ##.##  ####
+#  ..... $#  #
+## ##.#   #$ #
+ #  #.# $    #
+ ## $ #####$##
+  # #$     $ #
+  #    ###   #
+  ###### #####
+Author: unknown + Jordi Domenech
+Title: Level 72 Sokoban Perfect #195 variation

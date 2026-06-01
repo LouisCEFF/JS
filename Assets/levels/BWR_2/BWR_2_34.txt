@@ -1,0 +1,17 @@
+#############
+#     #     #
+# * *.#.* * #
+# # *   * # #
+# * *# #* * #
+# *  # #  * #
+## #** **# ##
+## # #@# # ##
+## #  *  # ##
+## #  *  # ##
+## #*$#$*# ##
+##         ##
+#############
+Author: SokoWind + Jordi Domenech
+Title: Riddle Sokoban #22 a
+Comment: major changes
+Date: 2012.7.14

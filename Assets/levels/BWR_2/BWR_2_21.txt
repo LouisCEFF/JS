@@ -1,0 +1,18 @@
+      ####
+      #  #
+      #  #
+      #  #
+########@#####
+#        #   #
+#   $ $ $    #
+### ####### ##
+ #  * ... * #
+ #  *. * .* ##
+ ##########  #
+      # $ $  #
+      #     ##
+      #######
+Author: dzxmer + Jordi Domenech
+Title: Dzxmer SuperSoko 40 #11 (b)
+Comment: added a box and a wall, some changes
+Date: 2012.3.19

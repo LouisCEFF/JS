@@ -1,0 +1,13 @@
+ ####
+##  #####
+# $     #
+#  @***.#
+## *$   #
+ # * ####
+ # * #
+ # . #
+ #####
+Author: Rick Sladkey + Jordi Domenech
+Title: The Warehouse I #7 a
+Comment: added 2 boxes, extension
+Date: February 2010

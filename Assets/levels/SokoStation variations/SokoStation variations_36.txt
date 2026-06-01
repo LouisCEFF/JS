@@ -1,0 +1,17 @@
+            ####
+ #####      #  #
+ #   ########* #
+## #           #
+#@$  ##### #  ##
+#### #   # ##*#
+ #  *  * #  # #
+ # # # ####*# #
+ #   # *    # #
+ #####  # # # ###
+    # * #   *   #
+    #   #####.# #
+    #  ##   #   #
+    ####    #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #86 REACTION CHIMIQUE
+Comment: added a box, moved a goal, small change in the upper-left

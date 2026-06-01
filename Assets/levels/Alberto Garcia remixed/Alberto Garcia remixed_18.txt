@@ -1,0 +1,12 @@
+   ####
+  ## .#####
+ ##  $    #
+##  $.# @ #
+#  $ ######
+#.$ ##
+#  ##
+#.##
+###
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 19
+Comment: Alberto Garcia Best 4 U #7

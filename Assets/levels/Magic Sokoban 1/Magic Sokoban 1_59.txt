@@ -1,0 +1,12 @@
+  #######
+  #     #
+  # ### ##
+  # # $  #
+  #  ..  #
+  # #..###
+### ## #
+# $$$  #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 60 Tiny square 6

@@ -1,0 +1,18 @@
+####      #####
+#  ########   #
+#         ... #
+#  ####### #$##
+## #     # # #
+ # # *** # # #
+ # # * * # # #
+ # # * . # # #
+ # # * $ # # #
+ # # *#### # #
+ #**       # ##
+## ##$######  #
+#    $ @      #
+#   ########  #
+#####      ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 74 Game room parlor 1
+Comment: based on Dushi 10 #26

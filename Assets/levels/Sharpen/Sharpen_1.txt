@@ -1,0 +1,28 @@
+################
+#   #......#   #
+#    . .  .#$$ #
+### #......    #
+ ## ########$###
+ #             #
+ # $ $ $$$ $ $@#
+ ####### #######
+ #. #  .  #    #
+ #.$# *.. # $  #
+ #. ###.###$ $ ##
+ #.   $.# $ $ $ #
+ # $##$...   #$ #
+ #. ## ####$##  #
+ #.##   # $  #$ #
+ #. #   #   $$  ##
+ ## # $$ #       #
+  # #    # $ #$  #
+  # ######## #   #
+  #          #####
+  ############
+Author: Thinking Rabbit + Jordi Domenech + anian + Tian Lang
+Title: MF8 7th Sokoban Competition++
+Comment: 
+anian (MF8 7th Sokoban Competition): based on Original remixed #20 by JD, added 3 boxes, 2 floors, mayor changes in the upper area, rotated map counterclockwise (as in Sokoban Perfect #226)
+TL: based on MF8 7th Sokoban Competition, added 2 boxes. The goals of the central area are the Chinese number "7"
+Date: September 2009 JD, 2009.10.16 anian, 2009.10.25 TL
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=41064&extra=page%3D3

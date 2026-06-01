@@ -1,0 +1,25 @@
+      # ### ### # ### #
+          # # # # #
+      # ### # # # ### #
+        #   # # #   #
+####  # ### ### # ### #  ####
+#  #                     #  #
+#  #######################  #
+# *   * . * * * * * . *   * #
+#  ##  ## # # # #   ##  ##  #
+# ### ###     *    ### ###* #
+#  ##  ##  $ $ $ $  ##  ##  #
+# *##  ## * *###* * ##  ##* #
+#  ##$ ##* #  #  # *##$ ##  #
+#  ##  ##  $ $@$ $  ##  ##  #
+#.######## #  #  # ########.#
+#    #   . .## ##. .   #    #
+#   * . * *       * * . *   #
+#############################
+Author: Jordi Domenech
+Title: Double 11
+Comment:
+The walls structure is a work of Laizhufu. It's a challenge proposed here:
+bbs.mf8-china.com/forum.php?mod=viewthread&tid=105187&extra=page%3D1
+This level refers to the Singles' Day, celebrated in China on November 11 (11/11)
+Date: 2015.11.4

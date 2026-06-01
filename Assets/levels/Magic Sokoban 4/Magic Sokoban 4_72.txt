@@ -1,0 +1,13 @@
+   #########
+####   #   #
+# $  #   $@#
+# ##    # ##
+# ##.#### #
+# # ....# #
+# # $ $ $ #
+# ######  #
+#        ##
+##########
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Level 73 
+Comment: Sokoban Game Gear #291 variation 1

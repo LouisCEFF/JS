@@ -1,0 +1,14 @@
+##########
+#        #
+# *  ### #
+## # # # #
+ # # # # #
+ #$#.@.#$#
+ # # # # #
+ # #   # ##
+ # ##   * #
+ #    #   #
+ ##########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 32 Touching Sides variation
+Comment: based on Chrysalis Collection 3 #6 Touching Sides

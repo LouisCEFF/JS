@@ -1,0 +1,15 @@
+  #### #####
+  #  ###   #
+ ##$ @   $ #
+ # $$$$##$##
+ # $  ..# #
+ # ###..# ##
+ # # .*.#  ##
+ #  ....# $ #
+####..### $ #
+#     # $$  #
+#          ##
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #165 LA BOUZE DE VACHE
+Comment: reduction map, added a box

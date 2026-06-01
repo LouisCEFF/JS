@@ -1,0 +1,22 @@
+    ##########
+#####.       #
+#  ## ####$# #
+# $ $.$      #
+#  ##.# ### ##
+## ##.  . #$#
+ #@$ ...# $ #
+ #$###.####.#
+ # ..*......#
+## ##$##### #
+#  $    $ # ##
+#  $  $ $ #  #
+#  $  $ $  $ #
+###########  #
+          ####
+Author: Eric F. Tchong + zhenying + Jordi Domenech + stopheart
+Title: Chuchubi 14 #39 Snappy circuit - b
+zhenying (version a): removed a box, stoned 2 floors, added a wall, rearrange goals
+JD (a1): based on a, removed a box, added 2 walls, rearrange some goals
+stopheart (b): based on a1, added a box, major changes in the whole level
+Date: 2011.10.20 zhenying, 2011.11.1 JD, 2011.11.2 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=54431&extra=page%3D1&page=16

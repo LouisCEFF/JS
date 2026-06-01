@@ -1,0 +1,20 @@
+ #####
+ #   #####
+ #     $ ######
+ ## ####.     #
+ #  $ $ .####*#
+ # ##... #  $ #
+ #  $..*$#$ #.#
+##$$#.*. $ @#.#
+#   # # #####.##
+# # # $ $      #
+#   #     ##   #
+################
+Author: Eric F. Tchong + David Holland + Jordi Domenech + Eric F. Tchong
+Title: Atlas 10 #7 Turn around - f1
+Comment:
+DH (version a11): added 5 boxes
+JD (c): based on a11, removed 3 boxes, major changes in the left side
+ET (f1): based on c, added a box
+Date: 2010.7.17 DH, 2010.7.18 JD, 2010.7.19 ET
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3759

@@ -1,0 +1,16 @@
+      ####
+ ######  ###
+ #         #
+ #*.*****  #
+##*$    * ##
+# . ### * #
+# * * * * #
+# * * + * #
+# * * $ * #
+# $####*# #
+#         #
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #9 a
+Comment: major changes
+Date: 2014.11.30

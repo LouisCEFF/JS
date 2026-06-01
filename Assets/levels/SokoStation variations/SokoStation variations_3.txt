@@ -1,0 +1,14 @@
+ #######
+ #  .  ####
+ # ##$    #
+## $ .#$# #
+#  #    #.#
+# $. # .$ #
+#.#    #  #
+# #$#. $ ##
+# @  $## #
+####  .  #
+   #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #12 GEOMETRIE CENTRALE
+Comment: stoned many floors

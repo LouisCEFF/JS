@@ -1,0 +1,14 @@
+    ###
+   # # #
+  #  .  #
+ #  * *  #
+#  * * *  #
+##* * * *##
+#  * * *  #
+ #  * *  #
+  #  $  #
+   # @ #
+    ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #15 BOULE DE NEIGE
+Comment: added 3 walls

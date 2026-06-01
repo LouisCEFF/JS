@@ -1,0 +1,15 @@
+  #########
+ ##   #   #
+ # ...  $ #
+ # #$#$#$##
+ #. *..   #
+##.#### $.#
+# .  @  $.#
+# # ### $.#
+# $$# ##$ #
+#   # # $ #
+##### #   #
+      #####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 4 #12 Long Vertical Line
+Comment: rearranged goals/boxes, added a wall

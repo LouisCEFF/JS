@@ -1,0 +1,12 @@
+#################
+#       #     # #
+##*$*$* @ *.*.* #
+# . . . # $ $ $ #
+# *$*$*###*.*.* #
+# . . . # $ $ $ #
+# *$*$*   *.*.* #
+#   #   #   #   #
+#################
+Author: Archanfel + Jordi Domenech
+Title: Level 86 Overturn 1+
+Comment: posted in Let's Logic ("Member Puzzles" #329)

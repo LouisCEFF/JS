@@ -1,0 +1,33 @@
+            #####
+      ####  #   #
+      #  #### * ##
+      # *$  # *  #
+      #  **   ** #
+      ##  **   * #
+       # # **  # ####
+       #     ****   #
+       #### *#   *# #
+          # *  #. * #
+###########  *.  #* #
+#   #       #* *#*  #
+# * #$####### * *# ##
+# **.      #  * *  #
+#   *#*#*#   *  ** #
+# # * #*#*#*#*#* * #
+# # *   *#*#*#*# * #
+# # *$  #*#*#*#* * #
+# #  *#          * #
+#  #  * ********** #
+## # * *     *  *  ##
+ #  *   *### *# **  #
+ # *### *# # *###** #
+ # *# # *# # *# # * #
+ # *# # *# #@*# # * #
+ #### #### #### #####
+Author: Eric F. Tchong + Jordi Domenech + anian + laizhufu
+Title: ??? (Sika deer) MF8 67th Sokoban Competition, Extra
+Comment: 
+JD: based on "Rudolph the red-nose reindeer" by ET, added 9 walls
+anian + laizhufu: based on JD version, stoned all the central area and 7 boxes/goals, added many walls, moved a goal
+Date: 2014.12.2 JD, 2014.12.12 anian/laizhufu
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=103773&extra=page%3D1

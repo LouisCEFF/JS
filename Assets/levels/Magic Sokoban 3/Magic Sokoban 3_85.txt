@@ -1,0 +1,15 @@
+ ########
+ #      #
+##$#### #
+#       #
+# #  ## #
+#  **.# ##
+###*@*   #
+ # ***#  #
+ # #  # ##
+ #   ## #
+ ###    #
+   ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 86 
+Comment: based on kbr1055

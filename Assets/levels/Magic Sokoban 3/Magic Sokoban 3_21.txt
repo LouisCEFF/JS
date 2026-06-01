@@ -1,0 +1,10 @@
+#######
+#   # #
+# $ * #
+##* . #
+# *  ##
+# @   #
+#######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 22
+Comment: based on Scoria #10

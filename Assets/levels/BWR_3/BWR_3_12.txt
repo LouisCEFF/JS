@@ -1,0 +1,17 @@
+ #############
+##@          #
+#  *.*.*.*.* #
+# $.$ $ $ $. #
+## *$#####$* #
+ # . #     * #
+ # *$# # #$* #
+ # * .   # . #
+ # *$##### ###
+ # .$ $ $  #
+ # *.*..####
+ #      #
+ ########
+Author: Sven Egevad + Jordi Domenech
+Title: SE 1361 a
+Comment: added a box and a wall, added 2 floors, change wall for a box/goal
+Date: 2015.6.2

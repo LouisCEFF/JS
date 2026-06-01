@@ -1,0 +1,13 @@
+########
+#@#    #
+#...*$$#
+# $  $ #
+#$$*...#
+# #  # #
+# #### #
+#      #
+########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #169 TRUC RIGOLO
+Comment: change 2 walls for 2 boxes, added a wall, stoned 2 floors. 
+Published in The Beautiful World of Remodels, 4

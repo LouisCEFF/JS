@@ -1,0 +1,16 @@
+ ####
+ #  ######
+ #       #
+ # ####  #
+ # # .$$##
+ # # .# #
+ # #@.# #
+## ##*# #
+#     # #
+#  $    #
+######  #
+     #  #
+     ####
+Author: Premysl Zika + Jordi Domenech
+Title: Level 41
+Comment: based on Level 54

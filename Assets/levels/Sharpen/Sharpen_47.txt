@@ -1,0 +1,24 @@
+ ####################
+ #                  ####
+ # $*** #@*****$$.**.  #
+ # *  * ##*   *.**  ** #
+ # * #**  *.# * *  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ #$#        **  * ## * #
+ # . *****#**   *    # #
+ # * #        # * **** #
+ # * *********  * *    #
+ # *       # ***. *** ##
+## * ****# #        * #
+#  *$* # ********#**$ #
+#    #                #
+#######################
+Author: Eric F. Tchong + stopheart & anian + Jordi Domenech + zhenying
+Title: Santanero - c
+Comment:
+stopheart (version c): added a box, 2 walls, stoned a box, moved 2 boxes
+anian (c1): based on c, stoned 15 boxes
+JD: (d1): based on c1, unstoned 10 boxes, added a wall, moved a goal and 2 boxes
+zhenying (c): based on d1, change box for wall, moved a goal
+Date: 2012.11.26 stopheart/anian/JD, 2012.11.30 zhenying

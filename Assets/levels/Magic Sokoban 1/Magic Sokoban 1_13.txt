@@ -1,0 +1,12 @@
+ ####
+ #  #
+ #  #####
+ #      ##
+ ## ## $ #
+### #. $@#
+#    .#$##
+#   #.  #
+#########
+Author: Mic + Jordi Domenech
+Title: Level 14 SokoJava 2006 easy #3 remixed
+Note: published with permission from Mic

@@ -1,0 +1,13 @@
+    ####
+#####  #
+# $.$ *#
+#  . . ###
+###*. $$ #
+ # .#.   #
+##$. $.###
+# $ #$ #
+# @    #
+########
+Author: David W. Skinner + Jordi Domenech
+Title: Microban IV #73
+Comment: added a wall

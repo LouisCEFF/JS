@@ -1,0 +1,14 @@
+#####
+#  @##
+# #$ ####
+# #  # .#
+# #$    #
+# #  #  #
+# #$ #*##
+# # ##  #
+# . .   #
+####   ##
+   #####
+Author: Shaggath + Jordi Domenech
+Title: Level 50
+Comment: V2010 #72 arr.

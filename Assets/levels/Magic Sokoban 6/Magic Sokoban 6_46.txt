@@ -1,0 +1,14 @@
+   #########
+   #       #
+#### ***** ####
+#  # *   * #  #
+# $$ * $ *... #
+#  # *   * #  #
+## # ***** # ##
+ # #   @   # #
+ # ######### #
+ #           #
+ #############
+Author: kazuo + monry + Jordi Domenech
+Title: Level 47 Move it
+Comment: based on a scratch level by kazuo + monry

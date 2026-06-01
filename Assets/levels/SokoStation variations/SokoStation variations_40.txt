@@ -1,0 +1,10 @@
+#############
+# .   $   . #
+#.# #####$# #
+# $   @   $ #
+# #$##### #.#
+# .   $   . #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #94 ROBOTICO
+Comment: added 2 boxes

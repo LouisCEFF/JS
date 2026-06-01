@@ -1,0 +1,15 @@
+####
+#  #########
+# $$   #   #
+#  ##..  $ #
+## # ..##$##
+##.# ###@ #
+#. .   ## #
+# .# $    ##
+##$######  #
+# $      $ #
+#   #####  #
+#####   ####
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 41
+Comment: Sokomania #108 extension

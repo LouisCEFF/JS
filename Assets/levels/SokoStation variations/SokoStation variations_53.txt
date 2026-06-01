@@ -1,0 +1,12 @@
+#########
+#@   #  #
+# $$$$* #
+# $   . #
+# $ ##.##
+##$ ##. #
+# *....##
+#     # #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #131 UN PETIT NIVEAU
+Comment: added some walls

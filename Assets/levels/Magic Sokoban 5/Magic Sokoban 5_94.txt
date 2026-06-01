@@ -1,0 +1,15 @@
+  #######
+  #     ###
+### ###   #
+#  @  #$$ #
+# ### # ###
+#   *.#  #
+##$#*.   #
+#  #  .**##
+# $#$#... #
+#    #  $ #
+####   ####
+   #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 95
+Comment: based on Dushi 4 #32 Jelly beans

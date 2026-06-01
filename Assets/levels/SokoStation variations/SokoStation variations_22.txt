@@ -1,0 +1,12 @@
+#########
+#   .   #
+# *$.$* #
+# $.$.$ #
+#..$@$..#
+# $.$.$ #
+# *$.$* #
+#   .   #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #52 EN QUINCONCE
+Comment: added 4 boxes

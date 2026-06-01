@@ -1,0 +1,14 @@
+    #####
+#####   #
+# @ #...#
+# $... ##
+## #$$$##
+ # $ #  #
+ # $    #
+ #####  #
+     ####
+Author: Mic + Jordi Domenech
+Title: Level of the Month 11/97-2 a
+Comment: added a box
+Date: 2011.1.7
+Note: published with permission from Mic

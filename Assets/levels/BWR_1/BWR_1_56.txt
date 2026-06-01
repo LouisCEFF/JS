@@ -1,0 +1,15 @@
+  ######
+  #    #####
+###$##     #
+#   .#$##  #
+# #   . # ##
+# ## #. # #
+# ## ..#  ###
+#  $..#     #
+####   $$$$ #
+   ####  @ ##
+      ######
+Author: Hiroshi Yamamoto + Jordi Domenech
+Title: ????????2 (Straying synapse 2) - a
+Comment: added 3 boxes, stoned 4 floors
+Date: 2010.8.14

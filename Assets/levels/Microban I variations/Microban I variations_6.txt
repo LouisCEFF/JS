@@ -1,0 +1,10 @@
+  #######
+###     #
+# $ $   #
+# ### #####
+#   ..*.$ #
+#   ### @ #
+##### #####
+Author: David W. Skinner + Jordi Domenech
+Title: Microban #47
+Comment: added 2 boxes

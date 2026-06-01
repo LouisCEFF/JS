@@ -1,0 +1,16 @@
+      #
+     # #
+    #   #
+   # .$. #
+  # .$.$. #
+ # .$$$$$. #
+# .$.$+$.$. #
+ # .$ $ $. #
+  # .$*$. #
+   # .$. #
+    #   #
+     # #
+      #
+Author: David W. Skinner + Jordi Domenech
+Title: Microban II #115
+Comment: added 3 boxes

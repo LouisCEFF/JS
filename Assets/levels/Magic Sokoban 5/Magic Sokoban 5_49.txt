@@ -1,0 +1,10 @@
+  #####
+###   ##
+#. $   #
+#..#   #
+# *$ $##
+# .**$ #
+###@   #
+  ######
+Author: Marcus Hof
+Title: Level 50 Beginners only

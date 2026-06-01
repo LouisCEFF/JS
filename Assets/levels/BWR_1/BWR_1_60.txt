@@ -1,0 +1,23 @@
+###################
+#@   #.  ##########
+# ## $ # #..     ##
+# #  $ # # # $ # ##
+#    #.  # #  $# ##
+# ######$# # $ # ##
+#        # # $ #  #
+#### ###.#.# $ ## #
+#  # #.$   #  ##  #
+# $$ #.### # $ $$ #
+#  $ #     ##     #
+# #$##$### #### ###
+#  $   #.. ..  ..##
+# $$ #.# #.#   ..##
+#      #       ..##
+###################
+Author: Matthias 'muh' Pauligk + stopheart + Jordi Domenech
+Title: The Solver's unsolvable #1 c
+Comment:
+JD (version a): added a box, small changes
+stopheart (b): based on a, small change on the left
+JD (c): based on b, removed 4 boxes, rearrange some goals
+Date: 2010.8.24 JD, 2010.8.25 stopheart/JD

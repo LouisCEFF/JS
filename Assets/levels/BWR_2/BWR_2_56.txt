@@ -1,0 +1,22 @@
+#####
+# @ #
+##$ #####
+# *     ######
+# * *** #    #
+# * * * #  # #
+# * * *****  #
+# * *     *  #
+# * * #   *# #
+# * * *****  #
+# * * * #    #
+# * * * ######
+# * * * #
+# * * * ###
+# * * *   #
+# *** **. #
+#         #
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 8 #24 a
+Comment: just moved a wall
+Date: 2013.11.8

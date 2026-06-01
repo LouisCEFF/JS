@@ -1,0 +1,27 @@
+ ##########    ####
+ #        ######  #
+ # # ####$#  ...*.#
+ # # #  $ $ # ##..#
+ # # # ## # #$##..##
+## # # ## $ $ ##*..#
+#  # #       $ #...#
+# ##$####  $ # #.**#
+#  $@$    #### #.*.#
+# #$##### #### #***#
+# # #   $ #  $.*...#
+# # # $ # #  # #####
+# # #  $  #    #
+# #  ## # ##$###
+#   $ # #    #
+###   # ### ##
+  ##  # $  $ #
+   ####      #
+      ########
+Author: Thinking Rabbit + stopheart + Jordi Domenech + zhenying
+Title: Sokoban Perfect #68 c1 re
+Comment:
+stopheart (version b): added 6 boxes and 2 floors, stoned 2 floors in the storage area
+JD (c1): based on b, added 3 boxes, removed a wall, small change in the bottom right
+zhenying (c1 re): based on c1, stoned 6 floors, moved a box to the storage area
+Date: 2010.4.15 stopheart, 2010.4.24 zhenying
+URL: blog.163.com/changkai_8428/blog/static/7745191820104112219472/

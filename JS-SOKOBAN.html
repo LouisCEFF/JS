@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sokoban</title>
+    <style>
+        body {
+            background-color: lightgreen;
+        }
+
+        .center {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 150px;
+        }
+
+        #overlay {
+            position: fixed;
+            /* Sit on top of the page content */
+            display: none;
+            /* Hidden by default */
+            width: 100%;
+            /* Full width (cover the whole page) */
+            height: 100%;
+            /* Full height (cover the whole page) */
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.1);
+            /* Black background with opacity */
+            z-index: 2;
+            /* Specify a stack order in case you're using a different order for other elements */
+            /* cursor: pointer; */
+            /* Add a pointer on hover */
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body onload="init()">
+    <div id="overlay"></div>
+    <div class="center">
+        <canvas id="SOKOBAN"></canvas>
+    </div>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png" id="block" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png" id="crate" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png" id="blank" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png" id="goal" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png" id="player" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_31.png" id="onGoal" hidden>
+    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_05.png" id="onPlayer" hidden>
+    <script>
+        // "  ####\n ##@ #\n## * #\n#  $ #\n#  . #\n######"
+        // "######\n#    #\n# #$ #\n# .$.#\n#  @ #\n######"
+        // "#####\n#    #\n#. $ #\n#.#$##\n#    #\n#  @ #\n######"
+        // "#####\n##.. #\n# $. #\n# $. #\n# $$ #\n# @###\n####"
+        //"          ##########\n  ###### #  #...  #\n ##    # #  *...# #\n #   $ # #  #..   #\n #   ###### ## # ##\n # #       $#    #\n # # ##$##  # $  #\n # $ ##   $ #### #\n # # #  ## $#  #$#\n # #$# $@##.#.   #\n # #   $$# ...#$ #\n## ### # # ...#  #\n#  #  $  ######  #\n#    $         $ #\n##############  ##\n             ####"
+        //"       #################\n      ##               ##\n     ##  * * * * * * *  ##\n    ##  * * * * * * * *  ##\n   ##  * * * * * * * * *  ##\n  ##  * * * * *** * * * *  ##\n ##  * * * * * * * * * * *  ##\n##  * * * *** * * *** * * *  ##\n#  * * * * * * * * * * * * *  #\n#.* * *** * * *$* * * *** * *@#\n#  * * * * * * * * * * * * *  #\n##  * * * *** * * *** * * *  ##\n ##  * * * * * * * * * * *  ##\n  ##  * * * * *** * * * *  ##\n   ##  * * * * * * * * *  ##\n    ##  * * * * * * * *  ##\n     ##  * * * * * * *  ##\n      ##               ##\n       #################"
+        //"      ######\n      #    #\n      # @  ###\n####  #.$$   #\n#  ####..#.#*#####\n# $ $ ##.*.*     #\n#    ....*.#$$   #\n###### ##*## #####\n     #  $    #\n     #### ####\n       #  #\n       #  #####\n     ### $    #\n     #  $ $   #\n     # #$# ####\n     #     #\n     ####### "
+        //"     #####   \n   ###   #   \n   #   $ #   \n   # $ $#### \n   # # $   # \n#### ##  $ # \n#  $ ####  # \n#@ $  ..# ## \n###$### # ###\n #  #....*  #\n #  $ .*..  #\n #  #  ######\n ####### "
+        // 
+        // 
+        // "         ##########  ###### #  #...  # ##    # #  *...# # #   $ # #  #..   # #   ###### ## # ## # #       $#    # # # ##$##  # $  # # $ ##   $ #### # # # #  ## $#  #$# # #$# $@##.#.   # # #   $$# ...#$ ### ### # # ...#  ##  #  $  ######  ##    $         $ ###############  ##             ####"
+
+        const testGame = "     #####   \n   ###   #   \n   #   $ #   \n   # $ $#### \n   # # $   # \n#### ##  $ # \n#  $ ####  # \n#@ $  ..# ## \n###$### # ###\n #  #....*  #\n #  $ .*..  #\n #  #  ######\n ####### "
+        const cellSize = 60;
+
+        let src = "";
+        let cratePosX = 0;
+        let cratePosY = 0;
+        let playable = true;
+        function images(action) {
+            return document.getElementById(action);
+        };
+        const charToAction = {
+            "#": "block",
+            "$": "crate",
+            " ": "blank",
+            ".": "goal",
+            "@": "player",
+            "*": "onGoal",
+            "+": "onPlayer"
+        };
+        let rowNum = 1;
+        let colNum = 0;
+        let lines = testGame.split("\n");
+        let nblines = lines.lenght;
+        for (let i = 0; i < lines.length; i++) {
+            colNum = Math.max(colNum, lines[i].length);
+            // if (lines[i].length >= lines[i + 1].length) {
+            //     colNum = lines[i].length;
+            //     break;
+            // }
+        }
+        for (let i = 0; i < testGame.length; i++) {
+            if (testGame.substring(0 + i, 1 + i) == "\n") {
+                rowNum++;
+            }
+        }
+        const sokoban = document.getElementById("SOKOBAN");
+        sokoban.setAttribute("width", `${colNum * cellSize}px`);
+        sokoban.setAttribute("height", `${rowNum * cellSize}px`);
+        /** @type {CanvasRenderingContext2D} */
+        const ctx = sokoban.getContext("2d");
+        let sokobanSpace = [];
+        let sokobanCrates = [];
+        let onGoals = 0;
+        const player = {
+            x: 0,
+            y: 0,
+            onGoal: false,
+            move: function (dx, dy) {
+                const tx = player.x + dx;
+                const ty = player.y + dy;
+                if (sokobanSpace[ty][tx].isWall == true) {
+                    return;
+                }
+                if (sokobanCrates.find((c) => c.x == tx && c.y == ty)) {
+                    if (moveCrate(dy, dx, tx, ty) == false) {
+                        return;
+                    }
+                    // moveCrate(dy, dx, tx, ty);
+                }
+                if (sokobanSpace[ty][tx].char == ".") {
+                    player.onGoal = true;
+                } else {
+                    player.onGoal = false;
+                }
+
+                // if (prevImage == "+") {
+                //     prImg = sokobanSpace[player.y][player.x].char = "."
+                // }
+                player.x = tx;
+                player.y = ty;
+                refresh();
+            }
+        }
+        // init();
+        function init() {
+            let index = 0;
+            sokobanSpace = [];
+            sokobanCrates = [];
+            onGoals = 0;
+            let char = testGame.split("\n");
+            let string = "";
+            for (let i = 0; i < char.length; i++) {
+                if (char[i].length < colNum) {
+                    for (let o = char[i].length; o < colNum; o++) {
+                        char[i] += " ";
+                    }
+                }
+                string += char[i];
+            }
+            for (let y = 0; y < rowNum; y++) {
+                sokobanSpace[y] = [];
+                for (let x = 0; x < colNum; x++) {
+                    char = string.substring(0 + index, 1 + index);
+                    if (char == "$" || char == "*") {
+                        if (char == "*") {
+                            sokobanCrates.push({ x: x, y: y, onGoal: true });
+                        } else {
+                            sokobanCrates.push({ x: x, y: y, onGoal: false });
+                        }
+                    }
+                    if (char == "@") {
+                        player.y = y;
+                        player.x = x;
+                    }
+                    if (char == "*") {
+                        sokobanSpace[y][x] = {
+                            char: ".",
+                            isWall: false,
+                            isPlayer: false,
+                        }
+                    }
+                    if (char != "@" && char != "$" && char != "*") {
+                        sokobanSpace[y][x] = {
+                            char: char,
+                            isWall: false,
+                            isPlayer: false,
+                        }
+                    } else if (char != "*") {
+                        sokobanSpace[y][x] = {
+                            char: " ",
+                            isWall: false,
+                            isPlayer: false,
+                        }
+                    }
+                    if (char == "") {
+                        sokobanSpace[y][x] = {
+                            char: " ",
+                            isWall: false,
+                            isPlayer: false,
+                        }
+                    }
+                    if (char == "#") {
+                        sokobanSpace[y][x].isWall = true;
+                    }
+                    index++;
+                }
+            }
+            refresh();
+        }
+        function refresh() {
+
+            for (let y = 0; y < rowNum; y++) {
+                for (let x = 0; x < colNum; x++) {
+                    // const e = sokobanSpace[y][x];
+                    ctx.fillStyle = "lightgreen";
+                    let space = sokobanSpace;
+                    let char = sokobanSpace[y][x].char;
+                    // setTimeout(() => {
+                    // }, 1);
+                    ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
+                    ctx.strokeRect(x * cellSize, y * cellSize, cellSize, cellSize);
+                    image = images(charToAction[char]);
+                    if (char != " ") {
+                        ctx.drawImage(images(charToAction[' ']), x * cellSize, y * cellSize);
+                        ctx.drawImage(image, x * cellSize + 5, y * cellSize + 5, 50, 50);
+                    } else {
+                        ctx.drawImage(image, x * cellSize, y * cellSize);
+                    }
+                    if (player.onGoal == true) {
+                        ctx.drawImage(images(charToAction["+"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
+                    } else if (char != " ") {
+                        ctx.drawImage(images(charToAction["@"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
+                    }
+                }
+            }
+            for (let c of sokobanCrates) {
+                if (sokobanSpace[c.y][c.x].char == "." && c.onGoal == true) {
+                    ctx.drawImage(images(charToAction["*"]), c.x * cellSize + 5, c.y * cellSize + 5, 50, 50);
+                }
+                else if (sokobanSpace[c.y][c.x].char == ".") {
+                    ctx.drawImage(images(charToAction["."]), c.x * cellSize + 5, c.y * cellSize + 5, 50, 50);
+                }
+                else {
+                    ctx.drawImage(images(charToAction["$"]), c.x * cellSize + 5, c.y * cellSize + 5, 50, 50);
+                }
+            }
+        }
+        function gameOver() {
+            let overlay = document.getElementById("overlay");
+            if (playable == true) {
+                overlay.style.display = "flex";
+                overlay.innerHTML = "<h1>Bravo vous avez terminé</h1>\n<h2>Appuyer sur ESC ou R pour recommencer</h2>";
+                overlay.style.fontSize = "20px";
+                playable = false;
+                return;
+            }
+            if (playable == false) {
+                overlay.display = "none";
+                overlay.innerHTML = "";
+                overlay.style.backgroundColor = "rgba(0, 0, 0, 0)"
+                playable = true;
+                return;
+            }
+        }
+        function moveCrate(dy, dx, x, y) {
+            for (let c of sokobanCrates) {
+                if (c.x == x && c.y == y) {
+                    if (sokobanSpace[y + dy][dx + x].isWall == true) {
+                        return false;
+                    }
+                    if (sokobanCrates.find((crate) => crate.y == c.y + dy && crate.x == c.x + dx)) {
+                        return false;
+                    }
+                    if (sokobanSpace[c.y][c.x].char == ".") {
+                        c.onGoal = !c.onGoal;
+                        if (onGoals != 0) {
+                            onGoals--;
+                        }
+                    }
+                    c.x = x + dx;
+                    c.y = y + dy;
+                    if (sokobanSpace[c.y][c.x].char == ".") {
+                        c.onGoal = true;
+                        onGoals++;
+                    }
+                    if (onGoals == sokobanCrates.length) {
+                        gameOver();
+                    }
+                    //     sokobanSpace[c.y][c.x].char = "*";
+                    // else {
+                    //     sokobanSpace[c.y][c.x].char = "$";
+                    // }
+                }
+            }
+            refresh();
+        }
+        document.addEventListener("keydown", function (event) {
+            if (event.key == "Escape" || event.key == "r") {
+                if (onGoals == sokobanCrates.length) {
+                    gameOver();
+                }
+                init();
+            }
+            if (playable == true) {
+                if (event.key == "w") {
+                    player.move(0, -1);
+                }
+                if (event.key == "a") {
+                    player.move(-1, 0);
+                }
+                if (event.key == "d") {
+                    player.move(1, 0);
+                }
+                if (event.key == "s") {
+                    player.move(0, 1);
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>

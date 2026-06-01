@@ -1,0 +1,10 @@
+ ####
+ #  #
+##. ###
+# .$$ #
+# .@# #
+# .$$ #
+##    #
+ ######
+Author: Jordi Domenech
+Title: Level 17 Pufi line (a)

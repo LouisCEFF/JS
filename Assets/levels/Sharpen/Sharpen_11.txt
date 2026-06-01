@@ -1,0 +1,22 @@
+  #############
+ ##     #     ##
+## .*.$ # *.*. ##
+# .* *.$#$.$ *. #
+# * $ * # * $ * #
+# .$ $.$#$.$ $. #
+# * $ * # * $.* #
+# .*.*.$#$.*.* $#
+# * $ * # * $.* #
+# .$ $.$#$.$ $.$#
+# * $ * # * $ * ##
+# .$ $.$# .$ *.  #
+# * $ *.+.*.*.$ .#
+###     .     ####
+  #############
+Author: Alberto Borella + Jordi Domenech + David Holland
+Title: #20 b
+Comment: 
+JD (version a): stoned many floors, moved 2 boxes
+DH (b): based on a, added 3 boxes
+Date: June 2010 JD, 2010.6.29 DH
+URL: groups.yahoo.com/neo/groups/sokoban/conversations/messages/3683

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(10, 50px);
+            grid-template-rows: repeat(10, 50px);
+        }
+
+        .grid-element {
+            border: 2px solid black;
+            border-radius: 10px;
+            background-color: lightgray;
+            margin: 2px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="plateau" class="container"></div>
+
+    <script>
+        const plateau = document.getElementById("plateau");
+        const colors = ["lightgray", "red", "blue", "yellow", "cyan", "green"];
+        const jeu = [];
+        init();
+        function init() {
+            for (let y = 0; y < 10; y++) {
+                jeu[y] = [];
+                for (let x = 0; x < 10; x++) {
+                    const element = document.createElement("div");
+                    element.id = `e_${x}_${y}`;
+                    element.posX = x;
+                    element.posY = y;
+                    jeu[y][x] = {
+                        html: element,
+                        colorIndex: 0,
+                    }
+                    element.classList.add("grid-element");
+                    element.addEventListener("click", onClickElement);
+                    plateau.appendChild(element);
+                    // element.innerHTML = element.id
+                }
+            }
+        }
+        function onClickElement(e) {
+            const posX = e.target.posX;
+            const posY = e.target.posY;
+            incElement(posX, posY);
+            incElement(posX - 1, posY);
+            incElement(posX + 1, posY);
+            incElement(posX, posY - 1);
+            incElement(posX, posY + 1);
+            // incElement(posX + 1, posY + 1);
+            // incElement(posX - 1, posY - 1);
+            // incElement(posX - 1, posY + 1);
+            // incElement(posX + 1, posY - 1);
+            refresh();
+        }
+
+        function incElement(x, y) {
+            if (x >= 0 && x < 10 && y >= 0 && y < 10) {
+                jeu[y][x].colorIndex = (jeu[y][x].colorIndex + 1) % colors.length;
+            }
+        }
+
+        function refresh() {
+            for (let y = 0; y < 10; y++) {
+                for (let x = 0; x < 10; x++) {
+                    const element = jeu[y][x];
+                    element.html.style.backgroundColor = colors[element.colorIndex];
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>

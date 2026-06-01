@@ -1,0 +1,15 @@
+ ########
+ #      ###
+ # ####   #
+## #.*  $ #
+#  .*.## ##
+#  #..# @#
+## #### ##
+ # $     #
+ # $ $ $ #
+ ######  #
+      ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin160 a
+Comment: reduced map, added a box
+Date: June 2010

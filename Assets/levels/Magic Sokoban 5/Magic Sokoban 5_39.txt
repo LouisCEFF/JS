@@ -1,0 +1,11 @@
+    ####
+#####  ####
+# $ ..    #
+#@$$..#$$ #
+# $ ..  ###
+######  #
+     #  #
+     ####
+Author: Jordi Domenech
+Title: Level 40
+Comment: based on Sokoban Perfect #290

@@ -1,0 +1,15 @@
+ #####
+##   #   ####
+#  #.#####  #
+#   .*.* $  #
+#  #.  $@#  #
+#  #.### #$##
+# $ .  $ # #
+## ####### ##
+#         $ #
+#   #####   #
+#####   #####
+Author: Thomas Reinke + Jordi Domenech
+Title: TBox #50 a
+Comment: added a box and a wall, major changes at the bottom
+Date: 2014.6.7

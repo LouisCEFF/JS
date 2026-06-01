@@ -1,0 +1,14 @@
+ ####
+ #  #######
+ # $  $   #
+ # ##    .#
+ #  #  ##.#
+ #$ #$....#
+ #  @  # ##
+##$#####  #
+#      $  #
+#   ####  #
+#####  ####
+Author: Morganine + Jordi Domenech
+Title: Level 54
+Comment: based on Sokomet #19

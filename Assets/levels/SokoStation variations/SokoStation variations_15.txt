@@ -1,0 +1,16 @@
+                ####
+                #  #
+                #$ #
+                #  #
+    ############# #####
+   # $ $ $ $ $ $   *  # #
+###  # # # # # # $$$@ #
+   # ...........      # #
+    ############## ####
+                #  #
+                # $#
+                #  #
+                ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #43 LA FUSEE
+Comment: added a box, small change

@@ -1,0 +1,24 @@
+##########
+# .  #   #
+# .    $ #
+# . ###$##
+# . #   #
+# . # # #
+# .   # #
+# . ### #
+# ....# ##
+#####$#  #
+# $      #
+# $ # #  #
+# $ # ####
+# $ # #
+# $ # #
+# $ # #
+# $ $ #
+#  ## #
+#  @  #
+#######
+Author: TIAOA + Jordi Domenech
+Title: SBM LLL 34 mini
+Comment: extreme simplification
+Date: 20015.8.5

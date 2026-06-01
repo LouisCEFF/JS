@@ -1,0 +1,12 @@
+#####
+#   ###
+# $$$ ###
+# $@$   #
+# $$$ # ##
+#   #... #
+###  . . #
+  ###...##
+    #####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 75 Ear reverse
+Comment: based on Chrysalis Collection 2 #40 Ear

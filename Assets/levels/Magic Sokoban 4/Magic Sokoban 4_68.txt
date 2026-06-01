@@ -1,0 +1,11 @@
+   #####
+   #@  ####
+#### $$$  #
+#...# $   #
+# .$# $ $ #
+##. * #   #
+ #     ####
+ ###.. #
+   #####
+Author: Marcus Hof
+Title: Level 69 Starts and ends as a "T"

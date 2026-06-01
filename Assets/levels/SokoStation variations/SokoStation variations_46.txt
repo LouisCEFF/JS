@@ -1,0 +1,13 @@
+##### ######
+#   ###    #
+#  *  #$$$ #
+##$# $#..$ #
+ # . * ..  #
+ # # ####.###
+ # #..   $  #
+ #.#$# ##$# #
+ #   #   @  #
+ ############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #115 FAIS TON CHOIX
+Comment: added 3 boxes, major changes

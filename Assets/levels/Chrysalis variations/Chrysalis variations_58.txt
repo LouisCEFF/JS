@@ -1,0 +1,15 @@
+       ####
+#####  #  #
+#   ####$ #
+# $       #
+## ##.*#$ #
+ #$#....$ #
+ #  ....#$#
+ #$ #*.## ##
+ #  $ @  $ #
+ # $####   #
+ #  #  #####
+ ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 4 #25 Nebula
+Comment: reduction map

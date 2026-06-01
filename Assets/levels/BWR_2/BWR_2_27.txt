@@ -1,0 +1,18 @@
+##########
+#.*.  $  ####
+# #.##$# $  #
+#  ....$ ## ###
+## .##.# ## $ #
+ ## ##....# $ #
+  #  $.# .$ $ #
+  # ##@$ .# $ #
+  #  ## #.    #
+  ##  $ ####$##
+   # $#      #
+   #  $$$#####
+   ##    #
+    ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin562 a
+Comment: reduced map, some changes
+Date: 2012.5.19

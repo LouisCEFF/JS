@@ -1,0 +1,28 @@
+#######################
+#  #*** *** * $ . *** #
+#.$#*   * # * $ * # * #
+#  #*   * # *   *   * #
+#.$ *** *** *   *  ** #
+#  #*   *   * # * *   #
+#.$#* # *   * # * *   #
+#  #*   *** *** * *** #
+#.*################ ###
+#  # *** ***  * * * #.#
+#.$#   * * *  * * * #.#
+#  #   * * * ** * * #.#
+#.$. *** * *  * *** #.#
+#  # *   * *  *   * #.#
+#.$# *   * *  *   * #.#
+#  # *** *** ***  *  .#
+####### #############.#
+# $ $ $ $ $ $ $ $ # $ #
+#                    @#
+#######################
+Author: Eric F. Tchong + Archanfel + Jordi Domenech + laizhufu
+Title: Feliz 2014 a
+Comment:
+Archanfel (Feliz 2014+): major changes that force to cross by the words "FELIZ 2014"
+JD (Feliz 2014+++): based on Feliz 2014+, added 15 boxes, major changes
+laizhufu: based on Feliz 2014+++, removed most of the level except the area FELIZ 2014, rearrange many goals, added 6 walls 
+Date: 2013.12.13 Archanfel, 2013.12.19 JD, 2013.12.27 laizhufu
+URL: sokoban.org/level.php?id=140

@@ -1,0 +1,10 @@
+####
+#  ####
+# $$. #
+# $.. #
+# ..$ #
+# .$$ #
+#  #@ #
+#######
+Author: David Buchweitz
+Title: Level 8 A Little Something

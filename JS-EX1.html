@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex1</title>
+</head>
+<body onload="Color()">
+    <button id="colorbutton" style="height: 200px; width: 600px;" onmouseover="Hover()" onmouseleave="NotHover()" onclick="alert('on a cliqué')">Un bouton</button><br><br>
+    <p style="display: none;" id="hover">on est sur le bouton</p>
+    <br><br>
+    <select name="Listedetruc" id="Liste" onclick="Color()">
+        <option value="Rouge">Rouge</option>
+        <option value="Vert">Vert</option>
+        <option value="Bleu">Bleu</option>
+    </select>
+    <script>
+        function Hover() {
+            document.getElementById("hover").style.display = "inline";
+        }
+        function NotHover() {
+            document.getElementById("hover").style.display = "none";
+        }
+        function Color() {
+            let x = document.getElementById("Liste").options.selectedIndex;
+            if (x == 0) {
+                document.getElementById("colorbutton").style.backgroundColor = "red";
+            }
+            if (x == 1) {
+                document.getElementById("colorbutton").style.backgroundColor = "green";
+            }
+            if (x == 2) {
+                document.getElementById("colorbutton").style.backgroundColor = "blue";
+            }
+        }
+    </script>
+</body>
+</html>

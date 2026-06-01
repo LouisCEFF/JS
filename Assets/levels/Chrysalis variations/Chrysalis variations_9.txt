@@ -1,0 +1,13 @@
+##########
+#        #
+# # ###$##
+#  $..  .#
+# #. $#$ #
+# #.$+$. #
+# #$#$#. #
+# $ $..$##
+# #.    ##
+##########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 1 #24 Trapped
+Comment: added a box, 2 walls

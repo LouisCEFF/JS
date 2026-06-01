@@ -1,0 +1,19 @@
+ #####
+ #   ######
+ #        #
+ ## ####  #
+ #...# $$##
+ #.*.$   #
+ #.*.## ##
+#### ##@#
+# $ $ $ #
+# # # $ #
+#       #
+#########
+Author: Lena Pankratova + stopheart + Jordi Domenech
+Title: SokoMan 4 #29 a1
+Comment:
+stopheart (version a): removed 4 boxes, major changes
+JD (a1): based on a, added a wall, moved a box
+Date: 2011.7.10 stopheart, 2011.7.12 JD
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=59

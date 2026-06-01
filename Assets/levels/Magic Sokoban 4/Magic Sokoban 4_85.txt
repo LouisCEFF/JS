@@ -1,0 +1,17 @@
+#####
+#   ########
+# # $      ###
+#  $###### $ #
+#  $    .#.. #
+##$#$###.## ##
+#   $   . ..#
+# $ # ## ## #
+### # #. .$.#
+  # #$# # # #
+  # #   @ # #
+  # ####### #
+  #         #
+  ###########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 86 6th Gear (c)
+Comment: based on Chrysalis Collection 5 #18 6th Gear

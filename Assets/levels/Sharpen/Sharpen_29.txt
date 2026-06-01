@@ -1,0 +1,21 @@
+#######################
+#          .          #
+# #########*######### #
+# #  * * . * . * *  # #
+# # * * * * * *@* * # #
+# #  * * # * # * *  # #
+# # * # * * * * # * # #
+# #  * * * * * * *  # #
+# # # * $ * * * * # # #
+# #  * * * * * * *  # #
+# # * # *$*#* * # * # #
+# # $* * # * # * *  # #
+# # * * * * * * * *.$ #
+#                   # #
+#######################
+Author: zhenying + Jordi Domenech + gyjgw + stopheart
+Title: Based on zhenying 61-31 e
+Comment: 
+gyjgw + stopheart: based on The beautiful world of remodels 1 #85, added 3 boxes, 2 walls
+Date: 2011.3.5 JD, 2011.9.1 gyjgw/stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=54431&extra=page%3D1&page=14

@@ -1,0 +1,25 @@
+   #####    #####
+   #   # ####   #
+   # $ # # *    #
+  ##$  ### ### ##
+###  $$ $ $ ## #####
+#       $   #      #####
+#  ######## #   ## #   #
+## # #      ######$# # #
+## ### #### ##.. #   $ #
+#   $  $  #$##*. #$##  ##
+#   # # #   .*.+## ## $ #
+#####   # ## #*.#    $  #
+    #####    #..# # #  ##
+        ######..#   # ##
+             #*.#####  #
+             #...      #
+             ##  ####  #
+              ####  ####
+Author: Akira Yoshima + Jordi Domenech + stopheart
+Title: Sokoban Perfect #217 c arr.
+Comment: 
+JD (version b): stoned many floors on the right side
+stopheart (c): based on b, added 4 boxes, 4 floors, major changes in the top
+Date: 2011.8.25 JD, 2011.9.1 stopheart
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=54431&extra=page%3D1&page=13

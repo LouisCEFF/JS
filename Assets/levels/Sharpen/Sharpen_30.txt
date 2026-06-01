@@ -1,0 +1,24 @@
+####################
+#           #      #
+# #### #### # #### #
+# ##   ##   #    # #
+# #  **  ***  ***. #
+# # *  * *  * *  * #
+# ##*  * *  *#*# # #
+# ##*  * ***. *    #
+# ##**** *  *#* ## #
+#   *  * *$ * *    #
+##$$*  *#*  * *# *##
+# $ *  * ***  .**.##
+# #   ##   ###     #
+# ####### ######## #
+#         @        #
+####################
+Author: laizhufu + Jordi Domenech + stopheart + Tian Lang
+Title: ABC?? (ABC level) - d
+Commend: 
+JD (version a): added many walls, a box, major changes
+stopheart (c): major changes (goals: "ABC")
+Tian Lang: (d): based on c, added 3 walls
+Date: 2011.4.6 JD/stopheart/TL 
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=8

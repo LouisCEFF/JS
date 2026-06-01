@@ -1,0 +1,15 @@
+#####  ####
+#   ####  #
+# *     . #
+##$#####  #
+ # #  #  ##
+ # .      #
+## # @ #  #
+#  #####$##
+# *     * #
+#  ####   #
+####  #####
+Author: Jordi Domenech
+Title: round and round...
+Comment:
+This level is inspired by the beautiful Russian folk song "????? ?? ????? ??????" (Steppe all around). The song tells the story of a coachman who was lost in the steppe  - round and round!... - and he died frozen cold. It is one of the most beautiful Russian songs I know.

@@ -1,0 +1,19 @@
+     #####
+     #   # ####
+     # $ ###  #
+     ### #   $#
+       # # $  #
+       # ####.##
+      ## @.....#
+      # ....$.##
+#     ##.## #$#
+##     # $  # #
+ ## ####$ $ # #
+  ### $   ### #
+    #  ## # $ ##
+    ## $  $    #
+     #   ###   #
+     ##### #####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 3 #19 Woof Woof
+Comment: added 2 boxes, moved a goal

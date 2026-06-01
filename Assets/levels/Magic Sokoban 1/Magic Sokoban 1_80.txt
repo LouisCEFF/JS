@@ -1,0 +1,11 @@
+  #####
+###  .#
+#   #.#
+#  $#.#
+#   #.#
+# $$$ #
+## @  #
+ ######
+Author: Jordi Domenech
+Title: Level 81 Line up
+Comment: based on Revenge Collection 8 #21 by Marcus Hof

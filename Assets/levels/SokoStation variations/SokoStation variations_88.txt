@@ -1,0 +1,14 @@
+    #######
+#####. $ .#
+#   # $.$ #
+# $  $.*.$#
+# @ # $.$ #
+#####. $ .#
+    ### ###
+     #   #
+     # . #
+     #   #
+     #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #290 LAPINOU
+Comment: added a box, stoned 4 floors

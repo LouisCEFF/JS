@@ -1,0 +1,16 @@
+    #####
+    #   #
+  ### . ###
+  #  $$$  #
+### *...* ###
+#  $.$*$.$  #
+# .$.*@*.$. #
+#  $.$*$.$  #
+### *...* ###
+  #  $$$  #
+  ### . ###
+    #   #
+    #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #133 FLOCON DE NEIGE (b)
+Comment: added 4 boxes

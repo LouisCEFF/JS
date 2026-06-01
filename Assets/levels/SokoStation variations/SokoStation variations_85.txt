@@ -1,0 +1,18 @@
+ ####
+ #  #  ####
+ #  ####  ####
+ # **     #  #
+ ## #### * * #
+  # #  ####  #
+### #  #     #
+#  *   #  *  #
+#   #*#####*##
+#####    #   #
+#     *  # * #
+#  *### #### #
+##  * #    $@#
+ #    #  ###.#
+ ######### ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #250 TRYPLUXAVOKEN
+Comment: added 2 boxes, some changes

@@ -1,0 +1,17 @@
+ ######
+ #    #
+ # ##$####
+##       #
+#  $ $ $ ###
+# $$@$ $   #
+## #####$# #
+ # $ * *.# #
+ # #.*...  #
+ # #...#.###
+ # #####.#
+ #       #
+ #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 11 #12 Strip poker - a
+Comment: added a box, stoned 2 floors
+Date: July 2010

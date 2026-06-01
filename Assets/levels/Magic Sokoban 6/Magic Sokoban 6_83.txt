@@ -1,0 +1,16 @@
+#############
+#     #     #
+# $##$# $ $ #
+#     ### # #
+# $#..... # #
+#  #.#$#. $ #
+####.$@$.####
+# $ . # .#  #
+# # .....#$ #
+# # ###     #
+# $ $ $$##$ #
+#     #     #
+#############
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 84 Squarenoid+
+Comment: based on Chuchubi 1 #62

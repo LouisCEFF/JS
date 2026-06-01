@@ -1,0 +1,20 @@
+######
+#    #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ ####
+#.# $# .###
+#  $@$... #
+# ##### # #
+# . . .   #
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 2 #1 Elle
+Comment: simplification, major changes at the bottom

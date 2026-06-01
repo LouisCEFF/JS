@@ -1,0 +1,14 @@
+  ######
+  #   @####
+  # ##$$  #
+###.#   # #
+#  $#.#$  #
+#   ...  ##
+###$#.#$ #
+  #     ##
+  ###  ##
+    ####
+Author: David Holland & sokgen + Jordi Domenech
+Title: dh1 #3 CrissCross - a
+Comment: added a wall
+Date: 2015.1.12

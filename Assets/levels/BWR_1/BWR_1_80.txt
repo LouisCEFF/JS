@@ -1,0 +1,21 @@
+  ####
+  #  #######
+  #   @ .  ##
+###.#####   #
+# $ #   # # #
+#   ..$ # $ #
+##.####$#$####
+ # # $  ...$ #
+ # #   $ #   #
+ # ###$#### ##
+ # #   #    #
+ # #$# # $# #
+ # # $ .. # #
+ # #.### ## #
+ #   .$  .  #
+ #  #   #####
+ ########
+Author: Jordi Domenech
+Title: Storm
+Date: 2011.1.29
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=57

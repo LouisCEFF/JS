@@ -1,0 +1,17 @@
+#############
+###   *   ###
+###  * *  ###
+#  #* $ *#  #
+#  *  .  *  #
+# *  * *  * #
+#* ******* *#
+# *  * *  * #
+#  *  .  *  #
+#  #* $ *#  #
+###  *@*  ###
+###   *   ###
+#############
+Author: SokoWind + Jordi Domenech
+Title: Riddle Sokoban #15 a
+Comment: added a box, 4 walls
+Date: 2012.7.12

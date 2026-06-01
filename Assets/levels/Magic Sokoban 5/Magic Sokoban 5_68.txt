@@ -1,0 +1,13 @@
+#########
+#      ##
+# $****##
+#  *  .@#
+#  *   ##
+## ****##
+#  $  .##
+#  *  . #
+##$**** #
+##      #
+#########
+Author: Jordi Domenech
+Title: Level 69 E to S - Dedicated to Erim Sever

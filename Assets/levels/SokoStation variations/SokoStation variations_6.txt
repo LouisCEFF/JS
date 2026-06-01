@@ -1,0 +1,10 @@
+      #############
+      #  *  *  *  #
+#######  *# *  *  #######
+#@  *    *  #  *    $  .#
+#######  *  * #*  #######
+      #  *  *  *  #
+      #############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #20 GRANDE MURAILLE
+Comment: added 2 walls, change a box for a wall

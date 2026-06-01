@@ -1,0 +1,8 @@
+###################
+#@     ..##   #   #
+# $$ $$....$$ $$  #
+#  #   ##..       #
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #16 COULOIR
+Comment: added 2 walls

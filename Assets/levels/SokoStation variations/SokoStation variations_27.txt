@@ -1,0 +1,20 @@
+      #####
+      #   #
+      # $ #
+      #   #
+      ## ##  ####
+       # #####  #
+#####  #.       #
+#   ####.$####$ #
+# $    .+.     ##
+#   ####.#### $ #
+#####  # #  #   #
+       # #  #####
+      ## ##
+      #   #
+      # $ #
+      #   #
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #62 LE RETOUR DE LA PIEUVRE
+Comment: major changes in the right arm

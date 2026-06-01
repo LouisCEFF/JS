@@ -1,0 +1,12 @@
+#########
+#       #
+# ******#
+# .     #
+# **$***#
+#       #
+#@#  #  #
+#########
+Author: zhenying + Jordi Domenech
+Title: 61-14 a
+Comment: moved a goal
+Date: 2010.10.15

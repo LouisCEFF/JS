@@ -1,0 +1,19 @@
+##### ####
+#   ###  #
+# #.   $ #
+# $.*##  #
+##$#..# ##
+ # *..# #
+ # #..# #
+ # ##.$ #
+ # $ .# #
+ # ##$# ####
+ #   $   $ #
+##$#@  #   #
+# $  #######
+#   ##
+#####
+Author: monry + Jordi Domenech
+Title: monry-light #45 ?????!(Try it!) - a
+Comment: added 5 boxes, many changes
+Date: June 2010

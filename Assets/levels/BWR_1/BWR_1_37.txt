@@ -1,0 +1,15 @@
+#####   ####
+#   #####  #
+#       $$ #
+##$##*###  #
+ #  # $ * ###
+ #$ $ # # $ #
+##  #...# # #
+#  ###.*. . #
+# $#@$ ...  #
+#    #   ####
+##########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 11 #15 Deep dive - a
+Comment: major changes
+Date: July 2010

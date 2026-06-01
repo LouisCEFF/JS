@@ -1,0 +1,18 @@
+#####
+#   ########
+# .        #
+#  ***#### #
+## #     # #
+ # # *** # #
+ # # *@* # #
+ # # *** # #
+ # #     # ##
+ # ####***  #
+ #        $ #
+ ########   #
+        #####
+Author: Jordi Domenech + Tian Lang
+Title: Double square - a
+Comment: based on The beautiful world of remodels 1 #78, stoned many boxes
+Date: 2010.11.24
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=45

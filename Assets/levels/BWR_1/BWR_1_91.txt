@@ -1,0 +1,21 @@
+######################
+#           #        #
+# #### #### # ###### #
+# # .  #  . # .    # #
+# # #*$# *$$# .***$# #
+# # *..*.*. $ *      #
+# ##$  * $  $#*#### ##
+# # $  * $$*..*....  #
+# # ****.*. $ *.## # #
+#   $ .$.$  $ * .  # #
+##  $.#$#*  $ *# .## #
+# $ *  $ $*$# .$$$ # #
+# #.   #   .# .    # #
+# ####### ######## # #
+#         @          #
+######################
+Author: laizhufu + Jordi Domenech
+Title: ABC?? (ABC level) - a
+Commend: added many walls and a box, major changes
+Date: 2011.4.6
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=72975&extra=page%3D1&page=7

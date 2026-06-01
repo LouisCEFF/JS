@@ -1,0 +1,12 @@
+################
+#@ #   ..#     #
+#  #  $..#  $$ #
+#  #  #..#  #  #
+# $#$$#**#$$#$ #
+#  #  #..#  #  #
+# $$  #..$  #  #
+#     #..   #  #
+################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #47 ZIG & ZAG
+Comment: added 2 boxes

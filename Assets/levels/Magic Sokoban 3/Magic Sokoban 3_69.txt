@@ -1,0 +1,17 @@
+ ######
+ #  . #####
+ #  ..#   #
+ ###. $ $ #
+   #.## ###
+   #$ # #
+#### $# ###
+#   $+#   #
+# $ #**.  #
+#  $# .#  #
+#   #..####
+# $$ $ #
+#   #  #
+########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 70
+Comment: based on kevin665
