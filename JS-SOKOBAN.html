@@ -14,7 +14,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            margin-top: 150px;
+            margin-top: 80px;
         }
 
         #overlay {
@@ -40,25 +40,54 @@
             justify-content: center;
             align-items: center;
         }
+
+        .center-select {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .select-title {
+            font-size: 30px;
+            border: 1px solid black;
+            border-radius: 8px;
+            padding: 20px;
+            padding-left: 120px;
+            padding-right: 120px;
+            font-family: 'Brush Script MT', cursive;
+        }
+
+        .select-bar {
+            padding: 20px;
+            background-color: transparent;
+        }
     </style>
 </head>
 
 <body onload="init()">
-    <div>
-        <option selected disabled style="color: black;">level packs:</option>
-        <select name="Directories" id="dirs"></select><br><br>
-        <option selected disabled style="color: black;">levels:</option>
-        <select name="Levels" id="lvls"></select>
+    <div class="center-select">
+        <option class="select-title" selected disabled style="color: black;">level packs:</option><br>
+        <select class="select-bar" name="Directories" id="dirs"></select><br><br>
+        <option class="select-title" selected disabled style="color: black;">levels:</option><br>
+        <select class="select-bar" name="Levels" id="lvls"></select>
     </div>
     <div id="overlay"></div>
     <div class="center">
         <canvas id="SOKOBAN"></canvas>
     </div>
+    <div class="center">
+        <p>R ou ESC pour restart</p>
+        <p>Z pour annuler le dernier movement (pas trop tester)</p>
+        <p>WASD ou ←↓↑→ pour ce déplacer </p>
+    </div>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png" id="block" hidden>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png" id="crate" hidden>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png" id="blank" hidden>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png" id="goal" hidden>
-    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png" id="player" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png" id="playerD" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_15.png" id="playerL" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_13.png" id="playerR" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_03.png" id="playerU" hidden>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_31.png" id="onGoal" hidden>
     <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_05.png" id="onPlayer" hidden>
     <script>
@@ -94,7 +123,10 @@
             "$": "crate",
             " ": "blank",
             ".": "goal",
-            "@": "player",
+            "@": "playerD",
+            "@L": "playerL",
+            "@R": "playerR",
+            "@U": "playerU",
             "*": "onGoal",
             "+": "onPlayer"
         };
@@ -102,7 +134,10 @@
         let colNum = 0;
         let sokobanSpace = [];
         let sokobanCrates = [];
+        let playerMoves = [];
+        let crateMoves = [];
         let onGoals = 0;
+        let direction;
         const sokoban = document.getElementById("SOKOBAN");
         /** @type {CanvasRenderingContext2D} */
         const ctx = sokoban.getContext("2d");
@@ -115,6 +150,10 @@
                 const ty = player.y + dy;
                 if (sokobanSpace[ty][tx].isWall == true) {
                     return;
+                }
+                if (sokobanCrates.find((c) => c.x == tx && c.y == ty)) {
+                } else {
+                    playerMoves.push({ x: tx, y: ty, crateMoved: false });
                 }
                 if (sokobanCrates.find((c) => c.x == tx && c.y == ty)) {
                     if (moveCrate(dy, dx, tx, ty) == false) {
@@ -134,6 +173,85 @@
                 player.x = tx;
                 player.y = ty;
                 refresh();
+            },
+            back: function () {
+                const currentPos = { x: player.x, y: player.y };
+                // const  = playerMoves.findIndex((pos) => pos.x == currentPos.x && pos.y == currentPos.y);
+                let newPlayerPos = playerMoves[playerMoves.length - 2];
+                const index = playerMoves.findIndex((pos) => pos.x == newPlayerPos.x && pos.y == newPlayerPos.y);
+                if (index < 0) {
+                    newPlayerPos = playerMoves[playerMoves.length - 1];
+                }
+                if (index == -1) {
+                    return;
+                }
+                let newCratePos = playerMoves[playerMoves.length - 1];
+                if (newCratePos.crateMoved == true) {
+                    const crateIndex = crateMoves.findIndex((c) => c.x == newCratePos.x && c.y == newCratePos.y);
+                    if (crateIndex == -1) {
+                        return;
+                    }
+                    const crate = crateMoves.find((c) => c.x == newCratePos.x && c.y == newCratePos.y);
+                    const thisCratePos = [];
+                    for (const c of crateMoves) {
+                        if (c.crateindex == crate.crateindex) {
+                            thisCratePos.push(c);
+                        }
+                    }
+                    const lastCratePos = thisCratePos[thisCratePos.length - 1];
+                    const nextCratePos = thisCratePos[thisCratePos.length - 2];
+                    const crates = sokobanCrates.find((c) => c.x == lastCratePos.x && c.y == lastCratePos.y);
+                    if (sokobanSpace[crates.y][crates.x].char == ".") {
+                        const crateI = sokobanCrates.findIndex((c) => c.x == crates.x && c.y == crates.y)
+                        sokobanCrates[crateI].onGoal = !sokobanCrates[crateI].onGoal;
+                        if (onGoals != 0) {
+                            onGoals--;
+                        }
+                    }
+                    crates.x = nextCratePos.x;
+                    crates.y = nextCratePos.y;
+                    if (sokobanSpace[crates.y][crates.x].char == ".") {
+                        const crateI = sokobanCrates.findIndex((c) => c.x == crates.x && c.y == crates.y);
+                        sokobanCrates[crateI].onGoal = true;
+                        onGoals++;
+                    }
+                    crateMoves.splice(crateMoves.length - 1, 1);
+                    // playerMoves.splice(crateMoves.findIndex((c) => c.x == lastCratePos.x && c.y == lastCratePos.y), 1);
+                }
+                if (sokobanSpace[newPlayerPos.y][newPlayerPos.x].char == ".") {
+                    player.onGoal = true;
+                } else {
+                    player.onGoal = false;
+                }
+                // const nextPlayerPos = playerMoves.findIndex((p) => p.crateMoved == false);
+                // let nextPlayerPos;
+                // for (const pos of playerMoves) {
+                //     if (pos.crateMoved == false) {
+                //         nextPlayerPos = playerMoves.findIndex((p) => p == pos);
+                //     }
+                // }
+                player.x = newPlayerPos.x;
+                player.y = newPlayerPos.y;
+                if (index != 0) {
+                    playerMoves.splice(playerMoves.length - 1, 1);
+                }
+                refresh();
+            },
+            facing: function (dir) {
+                switch (dir) {
+                    case "R":
+                        direction = "@R";
+                        break;
+                    case "L":
+                        direction = "@L";
+                        break;
+                    case "U":
+                        direction = "@U";
+                        break;
+                    default:
+                        direction = "@";
+                        break;
+                }
             }
         }
         // init();
@@ -144,11 +262,14 @@
             let index = 0;
             sokobanSpace = [];
             sokobanCrates = [];
+            playerMoves = [];
+            crateMoves = [];
             onGoals = 0;
             let string = "";
             let char = testGame;
             colNum = 0;
             rowNum = 1;
+            direction = "@";
             for (let i = 0; i < testGame.length; i++) {
                 colNum = Math.max(colNum, testGame.length);
                 rowNum = Math.max(rowNum, testGame[i].length);
@@ -172,17 +293,24 @@
                 for (let x = 0; x < rowNum; x++) {
                     char = string.substring(0 + index, 1 + index);
                     if (char == "$" || char == "*") {
+                        crateMoves.push({ x: x, y: y, crateindex: index, });
                         if (char == "*") {
-                            sokobanCrates.push({ x: x, y: y, onGoal: true });
+                            sokobanCrates.push({ x: x, y: y, onGoal: true, crateIndex: index });
                         } else {
-                            sokobanCrates.push({ x: x, y: y, onGoal: false });
+                            sokobanCrates.push({ x: x, y: y, onGoal: false, crateIndex: index });
                         }
                     }
                     if (char == "@" || char == "+") {
                         player.y = y;
                         player.x = x;
+                        playerMoves.push({ x: x, y: y, crateMoved: false });
                         if (char == "+") {
                             player.onGoal = true;
+                            sokobanSpace[y][x] = {
+                                char: ".",
+                                isWall: false,
+                                isPlayer: false,
+                            }
                         } else {
                             player.onGoal = false;
                         }
@@ -200,7 +328,7 @@
                             isWall: false,
                             isPlayer: false,
                         }
-                    } else if (char != "*") {
+                    } else if (char != "*" && char != "+") {
                         sokobanSpace[y][x] = {
                             char: " ",
                             isWall: false,
@@ -257,7 +385,6 @@
             const data = await window.api.loadlvl(dirpath, lvl);
             initLevel(data);
         }
-
         function initLevel(data) {
             testGame = data;
         }
@@ -283,7 +410,7 @@
                     if (player.onGoal == true && player.x == x && player.y == y) {
                         ctx.drawImage(images(charToAction["+"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
                     } else if (player.onGoal == false && player.x == x && player.y == y) {
-                        ctx.drawImage(images(charToAction["@"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
+                        ctx.drawImage(images(charToAction[direction]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
                     }
                 }
             }
@@ -330,14 +457,19 @@
                     if (sokobanCrates.find((crate) => crate.y == c.y + dy && crate.x == c.x + dx)) {
                         return false;
                     }
+                    const tx = x + dx;
+                    const ty = y + dy;
                     if (sokobanSpace[c.y][c.x].char == ".") {
                         c.onGoal = !c.onGoal;
                         if (onGoals != 0) {
                             onGoals--;
                         }
+                    } if (crateMoves.find((cr) => cr.x == c.x && cr.y == c.y)) {
+                        playerMoves.push({ x: x, y: y, crateMoved: true });
                     }
-                    c.x = x + dx;
-                    c.y = y + dy;
+                    crateMoves.push({ x: tx, y: ty, crateindex: c.crateIndex });
+                    c.x = tx;
+                    c.y = ty;
                     if (sokobanSpace[c.y][c.x].char == ".") {
                         c.onGoal = true;
                         onGoals++;
@@ -361,17 +493,24 @@
                 init();
             }
             if (playable == true) {
-                if (event.key == "w") {
+                if (event.key == "w" || event.key == "ArrowUp") {
+                    player.facing("U");
                     player.move(0, -1);
                 }
-                if (event.key == "a") {
+                if (event.key == "a" || event.key == "ArrowLeft") {
+                    player.facing("L");
                     player.move(-1, 0);
                 }
-                if (event.key == "d") {
+                if (event.key == "d" || event.key == "ArrowRight") {
+                    player.facing("R");
                     player.move(1, 0);
                 }
-                if (event.key == "s") {
+                if (event.key == "s" || event.key == "ArrowDown") {
+                    player.facing("D");
                     player.move(0, 1);
+                }
+                if (event.key == "z") {
+                    player.back();
                 }
             }
         })
