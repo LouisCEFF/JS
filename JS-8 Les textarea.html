@@ -126,7 +126,7 @@
         }
         function createBlock(i) {
             let block = document.createElement("IMG");
-            block.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png");
+            block.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png");
             block.setAttribute("id", `#${i}`);
             document.body.appendChild(block);
         }
@@ -137,31 +137,31 @@
         }
         function createCrate(i) {
             let crate = document.createElement("IMG");
-            crate.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png");
+            crate.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png");
             crate.setAttribute("id", `$${i}`);
             document.body.appendChild(crate);
         }
         function createBlank(i) {
             let blank = document.createElement("IMG");
-            blank.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png");
+            blank.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png");
             blank.setAttribute("id", `B${i}`);
             document.body.appendChild(blank);
         }
         function createGoal(i) {
             let goal = document.createElement("IMG");
-            goal.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png");
+            goal.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png");
             goal.setAttribute("id", `G${i}`);
             document.body.appendChild(goal);
         }
         function createCrateGoal(i) {
             let crateGoal = document.createElement("IMG");
-            crateGoal.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Crates/Crate_31.png");
+            crateGoal.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/Crate_31.png");
             crateGoal.setAttribute("id", `CG${i}`);
             document.body.appendChild(crateGoal);
         }
         function createPlayer() {
             let player = document.createElement("IMG");
-            player.setAttribute("src", "./sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png");
+            player.setAttribute("src", "./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png");
             player.setAttribute("id", `@PLAYER@`);
             document.body.appendChild(player);
         }
@@ -183,7 +183,7 @@ document.getElementById('txtarea').value = ''" ;>
     <h3 style="margin-left: 200px;" id="warning"></h3>
     <textarea name=" txt" id="txtarea" onchange="create()"
         style="padding: 20px; margin: 120px; padding-right: 200px;"></textarea><br>
-    <!-- <img src="./sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block.png" alt="" id="#0"> -->
+    <!-- <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block.png" alt="" id="#0"> -->
     <script>
         let content = "";
         let warn = document.getElementById("warning");

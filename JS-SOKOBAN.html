@@ -44,40 +44,51 @@
 </head>
 
 <body onload="init()">
+    <div>
+        <option selected disabled style="color: black;">level packs:</option>
+        <select name="Directories" id="dirs"></select><br><br>
+        <option selected disabled style="color: black;">levels:</option>
+        <select name="Levels" id="lvls"></select>
+    </div>
     <div id="overlay"></div>
     <div class="center">
         <canvas id="SOKOBAN"></canvas>
     </div>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png" id="block" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png" id="crate" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png" id="blank" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png" id="goal" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png" id="player" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_31.png" id="onGoal" hidden>
-    <img src="./Assets/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_05.png" id="onPlayer" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Blocks/block_01.png" id="block" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_01.png" id="crate" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_05.png" id="blank" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Ground/ground_02.png" id="goal" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_01.png" id="player" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Crates/crate_31.png" id="onGoal" hidden>
+    <img src="./images/sheets/kenney_sokoban-pack/PNG/Default_size/Player/player_05.png" id="onPlayer" hidden>
     <script>
-        // "  ####\n ##@ #\n## * #\n#  $ #\n#  . #\n######"
-        // "######\n#    #\n# #$ #\n# .$.#\n#  @ #\n######"
-        // "#####\n#    #\n#. $ #\n#.#$##\n#    #\n#  @ #\n######"
-        // "#####\n##.. #\n# $. #\n# $. #\n# $$ #\n# @###\n####"
-        //"          ##########\n  ###### #  #...  #\n ##    # #  *...# #\n #   $ # #  #..   #\n #   ###### ## # ##\n # #       $#    #\n # # ##$##  # $  #\n # $ ##   $ #### #\n # # #  ## $#  #$#\n # #$# $@##.#.   #\n # #   $$# ...#$ #\n## ### # # ...#  #\n#  #  $  ######  #\n#    $         $ #\n##############  ##\n             ####"
-        //"       #################\n      ##               ##\n     ##  * * * * * * *  ##\n    ##  * * * * * * * *  ##\n   ##  * * * * * * * * *  ##\n  ##  * * * * *** * * * *  ##\n ##  * * * * * * * * * * *  ##\n##  * * * *** * * *** * * *  ##\n#  * * * * * * * * * * * * *  #\n#.* * *** * * *$* * * *** * *@#\n#  * * * * * * * * * * * * *  #\n##  * * * *** * * *** * * *  ##\n ##  * * * * * * * * * * *  ##\n  ##  * * * * *** * * * *  ##\n   ##  * * * * * * * * *  ##\n    ##  * * * * * * * *  ##\n     ##  * * * * * * *  ##\n      ##               ##\n       #################"
-        //"      ######\n      #    #\n      # @  ###\n####  #.$$   #\n#  ####..#.#*#####\n# $ $ ##.*.*     #\n#    ....*.#$$   #\n###### ##*## #####\n     #  $    #\n     #### ####\n       #  #\n       #  #####\n     ### $    #\n     #  $ $   #\n     # #$# ####\n     #     #\n     ####### "
-        //"     #####   \n   ###   #   \n   #   $ #   \n   # $ $#### \n   # # $   # \n#### ##  $ # \n#  $ ####  # \n#@ $  ..# ## \n###$### # ###\n #  #....*  #\n #  $ .*..  #\n #  #  ######\n ####### "
+        // "  ####\r\n ##@ #\r\n## * #\r\n#  $ #\r\n#  . #\r\n######"
+        // "######\r\n#    #\r\n# #$ #\r\n# .$.#\r\n#  @ #\r\n######"
+        // "#####\r\n#    #\r\n#. $ #\r\n#.#$##\r\n#    #\r\n#  @ #\r\n######"
+        // "#####\r\n##.. #\r\n# $. #\r\n# $. #\r\n# $$ #\r\n# @###\r\n####"
+        //"          ##########\r\n  ###### #  #...  #\r\n ##    # #  *...# #\r\n #   $ # #  #..   #\r\n #   ###### ## # ##\r\n # #       $#    #\r\n # # ##$##  # $  #\r\n # $ ##   $ #### #\r\n # # #  ## $#  #$#\r\n # #$# $@##.#.   #\r\n # #   $$# ...#$ #\r\n## ### # # ...#  #\r\n#  #  $  ######  #\r\n#    $         $ #\r\n##############  ##\r\n             ####"
+        //"       #################\r\n      ##               ##\r\n     ##  * * * * * * *  ##\r\n    ##  * * * * * * * *  ##\r\n   ##  * * * * * * * * *  ##\r\n  ##  * * * * *** * * * *  ##\r\n ##  * * * * * * * * * * *  ##\r\n##  * * * *** * * *** * * *  ##\r\n#  * * * * * * * * * * * * *  #\r\n#.* * *** * * *$* * * *** * *@#\r\n#  * * * * * * * * * * * * *  #\r\n##  * * * *** * * *** * * *  ##\r\n ##  * * * * * * * * * * *  ##\r\n  ##  * * * * *** * * * *  ##\r\n   ##  * * * * * * * * *  ##\r\n    ##  * * * * * * * *  ##\r\n     ##  * * * * * * *  ##\r\n      ##               ##\r\n       #################"
+        //"      ######\r\n      #    #\r\n      # @  ###\r\n####  #.$$   #\r\n#  ####..#.#*#####\r\n# $ $ ##.*.*     #\r\n#    ....*.#$$   #\r\n###### ##*## #####\r\n     #  $    #\r\n     #### ####\r\n       #  #\r\n       #  #####\r\n     ### $    #\r\n     #  $ $   #\r\n     # #$# ####\r\n     #     #\r\n     ####### "
+        //"     #####   \r\n   ###   #   \r\n   #   $ #   \r\n   # $ $#### \r\n   # # $   # \r\n#### ##  $ # \r\n#  $ ####  # \r\n#@ $  ..# ## \r\n###$### # ###\r\n #  #....*  #\r\n #  $ .*..  #\r\n #  #  ######\r\n ####### "
         // 
         // 
         // "         ##########  ###### #  #...  # ##    # #  *...# # #   $ # #  #..   # #   ###### ## # ## # #       $#    # # # ##$##  # $  # # $ ##   $ #### # # # #  ## $#  #$# # #$# $@##.#.   # # #   $$# ...#$ ### ### # # ...#  ##  #  $  ######  ##    $         $ ###############  ##             ####"
-
-        const testGame = "     #####   \n   ###   #   \n   #   $ #   \n   # $ $#### \n   # # $   # \n#### ##  $ # \n#  $ ####  # \n#@ $  ..# ## \n###$### # ###\n #  #....*  #\n #  $ .*..  #\n #  #  ######\n ####### "
+        let testGame = [];
+        // loadDirs();
         const cellSize = 60;
-
-        let src = "";
-        let cratePosX = 0;
-        let cratePosY = 0;
+        const dirselect = document.getElementById('dirs');
+        dirselect.addEventListener("change", loadLvlsForDir);
+        const lvlselect = document.getElementById('lvls');
+        lvlselect.addEventListener("change", async () => {
+            await loadLvl();
+            init();
+        });
         let playable = true;
+
         function images(action) {
             return document.getElementById(action);
         };
+
         const charToAction = {
             "#": "block",
             "$": "crate",
@@ -89,28 +100,12 @@
         };
         let rowNum = 1;
         let colNum = 0;
-        let lines = testGame.split("\n");
-        let nblines = lines.lenght;
-        for (let i = 0; i < lines.length; i++) {
-            colNum = Math.max(colNum, lines[i].length);
-            // if (lines[i].length >= lines[i + 1].length) {
-            //     colNum = lines[i].length;
-            //     break;
-            // }
-        }
-        for (let i = 0; i < testGame.length; i++) {
-            if (testGame.substring(0 + i, 1 + i) == "\n") {
-                rowNum++;
-            }
-        }
-        const sokoban = document.getElementById("SOKOBAN");
-        sokoban.setAttribute("width", `${colNum * cellSize}px`);
-        sokoban.setAttribute("height", `${rowNum * cellSize}px`);
-        /** @type {CanvasRenderingContext2D} */
-        const ctx = sokoban.getContext("2d");
         let sokobanSpace = [];
         let sokobanCrates = [];
         let onGoals = 0;
+        const sokoban = document.getElementById("SOKOBAN");
+        /** @type {CanvasRenderingContext2D} */
+        const ctx = sokoban.getContext("2d");
         const player = {
             x: 0,
             y: 0,
@@ -142,24 +137,39 @@
             }
         }
         // init();
-        function init() {
+        async function init() {
+            if (testGame.length == 0) {
+                await loadDirs();
+            }
             let index = 0;
             sokobanSpace = [];
             sokobanCrates = [];
             onGoals = 0;
-            let char = testGame.split("\n");
             let string = "";
+            let char = testGame;
+            colNum = 0;
+            rowNum = 1;
+            for (let i = 0; i < testGame.length; i++) {
+                colNum = Math.max(colNum, testGame.length);
+                rowNum = Math.max(rowNum, testGame[i].length);
+                // if (lines[i].length >= lines[i + 1].length) {
+                //     colNum = lines[i].length;
+                //     break;
+                // }
+            }
+            sokoban.setAttribute("width", `${rowNum * cellSize}px`);
+            sokoban.setAttribute("height", `${colNum * cellSize}px`);
             for (let i = 0; i < char.length; i++) {
-                if (char[i].length < colNum) {
-                    for (let o = char[i].length; o < colNum; o++) {
+                if (char[i].length < rowNum) {
+                    for (let o = char[i].length; o < rowNum; o++) {
                         char[i] += " ";
                     }
                 }
                 string += char[i];
             }
-            for (let y = 0; y < rowNum; y++) {
+            for (let y = 0; y < colNum; y++) {
                 sokobanSpace[y] = [];
-                for (let x = 0; x < colNum; x++) {
+                for (let x = 0; x < rowNum; x++) {
                     char = string.substring(0 + index, 1 + index);
                     if (char == "$" || char == "*") {
                         if (char == "*") {
@@ -168,9 +178,14 @@
                             sokobanCrates.push({ x: x, y: y, onGoal: false });
                         }
                     }
-                    if (char == "@") {
+                    if (char == "@" || char == "+") {
                         player.y = y;
                         player.x = x;
+                        if (char == "+") {
+                            player.onGoal = true;
+                        } else {
+                            player.onGoal = false;
+                        }
                     }
                     if (char == "*") {
                         sokobanSpace[y][x] = {
@@ -179,7 +194,7 @@
                             isPlayer: false,
                         }
                     }
-                    if (char != "@" && char != "$" && char != "*") {
+                    if (char != "@" && char != "$" && char != "*" && char != "+") {
                         sokobanSpace[y][x] = {
                             char: char,
                             isWall: false,
@@ -207,10 +222,49 @@
             }
             refresh();
         }
+        async function loadDirs() {
+            const dirs = await window.api.getdir()
+            fillselDir(dirs);
+            await loadLvlsForDir();
+
+        };
+        function fillselDir(dirs) {
+            dirselect.innerHTML = "";
+            for (let d of dirs) {
+                dirselect.innerHTML += `<option value ="${d}">${d}</option>`;
+            };
+        }
+        async function loadLvlsForDir() {
+            const dirpath = dirselect.value;
+            const levels = await window.api.getlvls(dirpath)
+            fillSelLvls(levels);
+            await loadLvl();
+        }
+        function fillSelLvls(levels) {
+            lvlselect.innerHTML = "";
+            for (let l of levels) {
+                lvlselect.innerHTML += `<option value="${l}">${l}</option>`;
+            }
+        }
+        async function loadLvl() {
+            const dirpath = dirselect.value;
+            const lvl = lvlselect.value;
+
+            if (!dirpath || !lvl) {
+                return;
+            }
+
+            const data = await window.api.loadlvl(dirpath, lvl);
+            initLevel(data);
+        }
+
+        function initLevel(data) {
+            testGame = data;
+        }
         function refresh() {
 
-            for (let y = 0; y < rowNum; y++) {
-                for (let x = 0; x < colNum; x++) {
+            for (let y = 0; y < colNum; y++) {
+                for (let x = 0; x < rowNum; x++) {
                     // const e = sokobanSpace[y][x];
                     ctx.fillStyle = "lightgreen";
                     let space = sokobanSpace;
@@ -226,9 +280,9 @@
                     } else {
                         ctx.drawImage(image, x * cellSize, y * cellSize);
                     }
-                    if (player.onGoal == true) {
+                    if (player.onGoal == true && player.x == x && player.y == y) {
                         ctx.drawImage(images(charToAction["+"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
-                    } else if (char != " ") {
+                    } else if (player.onGoal == false && player.x == x && player.y == y) {
                         ctx.drawImage(images(charToAction["@"]), player.x * cellSize + 5, player.y * cellSize + 5, 50, 50);
                     }
                 }
@@ -248,13 +302,18 @@
         function gameOver() {
             let overlay = document.getElementById("overlay");
             if (playable == true) {
+                overlay.style.backgroundColor = "rgba(0, 0, 0, 0.1)";
+                overlay.style.height = "100%";
+                overlay.style.width = "100%";
                 overlay.style.display = "flex";
-                overlay.innerHTML = "<h1>Bravo vous avez terminé</h1>\n<h2>Appuyer sur ESC ou R pour recommencer</h2>";
+                overlay.innerHTML = "<h1>Bravo vous avez terminé</h1>\r\n<h2>Appuyer sur ESC ou R pour recommencer</h2>";
                 overlay.style.fontSize = "20px";
                 playable = false;
                 return;
             }
             if (playable == false) {
+                overlay.style.height = "0%";
+                overlay.style.width = "0%";
                 overlay.display = "none";
                 overlay.innerHTML = "";
                 overlay.style.backgroundColor = "rgba(0, 0, 0, 0)"
