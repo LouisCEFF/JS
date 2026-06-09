@@ -14,4 +14,6 @@ Exercice/JS-EX8.html
 Exercice/JS-EX1.html
 DemoCanva
 Exercice
-dist
+src
+tsconfig.json
+.vscode
